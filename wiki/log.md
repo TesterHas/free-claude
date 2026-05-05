@@ -4,6 +4,14 @@ Append-only timeline of ingests, queries, and lint passes.
 
 ---
 
+## [2026-05-05] ingest | How I Give Claude Code the Ability to Watch Any Video (For Free)
+
+Brad | AI & Automation · 8:36 · youtube.com/watch?v=QZMljuD10sU
+Pages created: [[new-skills/claude-video-watch-skill]]
+Frames saved: claude-video-watch-skill-frame-1 through frame-7
+
+---
+
 ## [2026-05-04] ingest | Batch ingest — 50 YouTube videos from 5 channels
 
 **Channels farmed:**

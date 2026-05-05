@@ -2,7 +2,7 @@
 
 Topic: selling AI agents and systems; tracking the best AI models and where they fit.
 
-Last updated: 2026-05-04
+Last updated: 2026-05-05
 
 ---
 
@@ -60,6 +60,7 @@ Last updated: 2026-05-04
 | [[new-skills/claude-prompts-10x]] | Sabrina's 7 secret prompts + 3 genius mode tips; prompt engineering for 10x output |
 | [[new-skills/cold-email-outreach]] | Nick Saraev's 4-hour cold email course; AI-personalized outreach at scale |
 | [[new-skills/claude-code-advanced]] | Nick Saraev's 3-hour advanced course + free tier usage guide |
+| [[new-skills/claude-video-watch-skill]] | /watch skill — Claude analyzes any video via frames+transcript; Groq Whisper fallback; $0.70–$1.62/video |
 
 ---
 
