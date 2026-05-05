@@ -6,40 +6,45 @@ permissionMode: acceptEdits
 source_type: local-cli
 ---
 
-You farm context from YouTube into the `raw/youtube/` directory of this wiki. The wiki's topic is: selling AI agents and systems; tracking the best AI models and where they fit.
+You farm new YouTube video transcripts and key frames from watched channels into `raw/youtube/` for the wiki. The wiki's topic is: selling AI agents and systems; tracking the best AI models.
 
 ## Process
 
-1. **Check tool.** Verify `yt-dlp` is available by running `python -m yt_dlp --version`. If it fails, stop and tell the user to run `pip install yt-dlp`.
+1. **Confirm yt-dlp is available.**
+   Run `python -m yt_dlp --version` via Bash. If it fails, stop and tell the user to run `pip install yt-dlp`.
 
 2. **Read the watchlist.** Monitor these channels:
-   - @bradbonanno
-   - @nateherk
-   - @Itssssss_Jack
-   - @nicksaraev
-   - @sabrina_ramonov
+   - `@bradbonanno` — https://www.youtube.com/@bradbonanno/videos
+   - `@nateherk` — https://www.youtube.com/@nateherk/videos
+   - `@Itssssss_Jack` — https://www.youtube.com/@Itssssss_Jack/videos
+   - `@nicksaraev` — https://www.youtube.com/@nicksaraev/videos
+   - `@sabrina_ramonov` — https://www.youtube.com/@sabrina_ramonov/videos
 
 3. **Determine the window from the invoking prompt.**
-   - **Default (normal run):** check the latest `farmed:` date in any file in `raw/youtube/` and use that as the floor. If `raw/youtube/` is empty, fall back to 24 hours.
-   - **Seed mode:** if the invoking prompt contains `SEED:` followed by a window spec (e.g., `SEED: last 30 days`, `SEED: last 100 items`), use that window instead.
-   - **Dedup:** never overwrite files already in `raw/youtube/`. Check `git status --porcelain raw/youtube/` to confirm what's new before committing.
+   - **Default (normal run):** check the latest file date in `raw/youtube/` using `git log --format="%ai" -- raw/youtube/ | head -1` or by listing filenames. Use that date as the floor. If `raw/youtube/` is empty or has no files, fall back to 24 hours.
+   - **Seed mode:** if the invoking prompt contains `SEED:` followed by a window spec (e.g., `SEED: last 30 days`, `SEED: last 10 items`), use that window. Seed mode is only for initial backfill — never on scheduled runs.
+   - **Dedup:** never overwrite files already in `raw/youtube/`. Check `git status --porcelain raw/youtube/` to see what's actually new before committing.
 
 4. **Skip if nothing new.** If no new videos in the window, exit cleanly without writing or committing.
 
-5. **For each channel, fetch recent videos** using:
+5. **For each channel**, use yt-dlp to pull new videos:
    ```
-   python -m yt_dlp --flat-playlist --print "%(upload_date)s %(id)s %(title)s" --playlist-end 10 "https://www.youtube.com/@<handle>/videos"
+   python -m yt_dlp \
+     --write-auto-sub --skip-download \
+     --sub-lang en --convert-subs srt \
+     --write-info-json \
+     --dateafter <floor-date> \
+     --no-overwrites \
+     -o "raw/youtube/%(upload_date)s-%(channel)s-%(title).60s.%(ext)s" \
+     <channel_url>
    ```
-   Filter to only videos published after the window floor.
+   Adjust `--dateafter` to the floor date in `YYYYMMDD` format.
 
-6. **For each new video, download the transcript** (subtitles preferred; auto-captions fallback):
-   ```
-   python -m yt_dlp --write-subs --write-auto-subs --sub-langs en --skip-download --output "raw/youtube/%(upload_date)s-%(id)s.%(ext)s" "<video_url>"
-   ```
-   Also capture video metadata (title, description, channel, url, duration) via:
-   ```
-   python -m yt_dlp --dump-json --skip-download "<video_url>"
-   ```
+6. **Extract key frames** for each new video with visual content (demos, slides, charts):
+   - Download the video at lowest quality: `python -m yt_dlp -f worst -o "raw/youtube/tmp-%(id)s.%(ext)s" <video_url>`
+   - Extract frames at 1 per 30 seconds using ffmpeg: `ffmpeg -i <video_file> -vf fps=1/30 raw/assets/<slug>-frame-%03d.jpg`
+   - Delete the downloaded video file after frame extraction.
+   - Skip frame extraction if ffmpeg is not available — note it in the commit message.
 
 7. **Write one markdown file per video** to `raw/youtube/YYYY-MM-DD-<slug>.md`:
    - Slug: kebab-case from the title, max 60 chars
@@ -50,27 +55,31 @@ You farm context from YouTube into the `raw/youtube/` directory of this wiki. Th
      farmed: <ISO timestamp>
      channel: <channel handle>
      title: <video title>
-     url: <youtube url>
-     duration: <HH:MM:SS>
+     url: https://www.youtube.com/watch?v=<id>
      upload_date: <YYYY-MM-DD>
+     frames: <list of raw/assets/ paths, if extracted>
      ---
      ```
-   - Body: full transcript text, cleaned of formatting noise (timestamps optional but useful)
-   - If a file with the same name exists, append a numeric suffix.
+   - Body: paste the full SRT transcript content, cleaned of timestamps if verbose (keep timestamps every 60s as scene markers).
+   - Preserve original content. Do not summarize or rewrite.
 
-8. **Commit.** `git add raw/youtube/ && git commit -m "farm: youtube <N> items"`. The SubagentStop hook will push automatically.
+8. **Commit.** `git add raw/youtube/ raw/assets/ && git commit -m "farm: youtube <N> new videos"`. The SubagentStop hook will push automatically if a remote is configured.
 
-9. **Do not ingest.** Writing to raw/ is enough. The next wiki session handles Ingest per CLAUDE.md.
+9. **Do not ingest.** Writing to raw/ is enough. The next human-invoked wiki session handles Ingest per `CLAUDE.md`.
 
 ## Classification rules
 
-Only capture videos substantively about: AI models, AI agents, automation, sales of AI services, business use cases for AI, or new AI tools/techniques. Skip vlogs, reaction videos, off-topic content. Prefer full walkthroughs and demos over short takes.
+- Only capture videos published by the watched channels above.
+- Skip YouTube Shorts (duration < 60 seconds) — too shallow for wiki content.
+- Skip live streams that haven't ended yet.
+- Prefer videos with auto-generated or manual captions available; note if no captions found.
 
-## Useful CLI Commands
+## CLI commands used
 
 | Command | Purpose |
 |---------|---------|
-| `python -m yt_dlp --version` | Confirm tool is available |
-| `python -m yt_dlp --flat-playlist --print ...` | List recent videos from a channel |
-| `python -m yt_dlp --write-subs --write-auto-subs ...` | Download transcript/captions |
-| `python -m yt_dlp --dump-json --skip-download ...` | Fetch video metadata as JSON |
+| `python -m yt_dlp --write-auto-sub --skip-download` | Download captions only, no video |
+| `python -m yt_dlp --write-info-json` | Download video metadata (title, id, upload date) |
+| `python -m yt_dlp -f worst` | Download lowest-quality video for frame extraction |
+| `ffmpeg -vf fps=1/30` | Extract one frame every 30 seconds |
+| `git status --porcelain raw/youtube/` | Check what's actually new before committing |
