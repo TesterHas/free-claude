@@ -1,7 +1,7 @@
 ---
 name: youtube-farmer
 description: Farms new videos from watched YouTube channels into raw/youtube/ for the AI sales wiki
-model: any
+model: haiku
 permissionMode: acceptEdits
 source_type: local-cli
 ---
