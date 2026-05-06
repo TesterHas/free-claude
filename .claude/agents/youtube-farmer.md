@@ -1,7 +1,7 @@
 ---
 name: youtube-farmer
 description: Farms new videos from watched YouTube channels into raw/youtube/ for the AI sales wiki
-model: sonnet
+model: any
 permissionMode: acceptEdits
 source_type: local-cli
 ---
@@ -17,15 +17,15 @@ You farm new YouTube video transcripts and key frames from watched channels into
    - `@bradbonanno` — https://www.youtube.com/@bradbonanno/videos
    - `@nateherk` — https://www.youtube.com/@nateherk/videos
    - `@Itssssss_Jack` — https://www.youtube.com/@Itssssss_Jack/videos
-   - `@nicksaraev` — https://www.youtube.com/@nicksaraev/videos
    - `@sabrina_ramonov` — https://www.youtube.com/@sabrina_ramonov/videos
 
 3. **Determine the window from the invoking prompt.**
    - **Default (normal run):** check the latest file date in `raw/youtube/` using `git log --format="%ai" -- raw/youtube/ | head -1` or by listing filenames. Use that date as the floor. If `raw/youtube/` is empty or has no files, fall back to 24 hours.
-   - **Seed mode:** if the invoking prompt contains `SEED:` followed by a window spec (e.g., `SEED: last 30 days`, `SEED: last 10 items`), use that window. Seed mode is only for initial backfill — never on scheduled runs.
+   - **Seed mode:** if the invoking prompt contains `SEED:` followed by a window spec (e.g., `SEED: last 10 days`, `SEED: last 5 items`), use that window. Seed mode is only for initial backfill — never on scheduled runs.
    - **Dedup:** never overwrite files already in `raw/youtube/`. Check `git status --porcelain raw/youtube/` to see what's actually new before committing.
 
 4. **Skip if nothing new.** If no new videos in the window, exit cleanly without writing or committing.
+   **Skip if video is longer than 40 minutes.** If longer then 40 minutes, exit cleanly without writing or committing.
 
 5. **For each channel**, use yt-dlp to pull new videos:
    ```

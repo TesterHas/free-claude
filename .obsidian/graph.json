@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "youtube",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
