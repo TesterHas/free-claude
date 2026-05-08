@@ -9,3 +9,14 @@ audits/
 
 # Farmer state (not synced — cloud runs use fallback window)
 .farmer-state/
+
+# Python tooling
+.cursor
+.pytest_cache
+.ruff_cache
+.serena
+.venv
+agent_workspace
+.coverage
+llama_cache
+.smoke-results
