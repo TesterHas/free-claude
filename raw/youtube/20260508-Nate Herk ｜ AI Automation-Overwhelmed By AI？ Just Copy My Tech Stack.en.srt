@@ -1,0 +1,6085 @@
+1
+00:00:00,000 --> 00:00:01,150
+
+If you've been feeling overwhelmed
+
+2
+00:00:01,150 --> 00:00:01,160
+If you've been feeling overwhelmed
+ 
+
+3
+00:00:01,160 --> 00:00:02,310
+If you've been feeling overwhelmed
+trying to keep up with the different AI
+
+4
+00:00:02,310 --> 00:00:02,320
+trying to keep up with the different AI
+ 
+
+5
+00:00:02,320 --> 00:00:03,710
+trying to keep up with the different AI
+tools and agents and different things
+
+6
+00:00:03,710 --> 00:00:03,720
+tools and agents and different things
+ 
+
+7
+00:00:03,720 --> 00:00:05,150
+tools and agents and different things
+that you should be using, then this
+
+8
+00:00:05,150 --> 00:00:05,160
+that you should be using, then this
+ 
+
+9
+00:00:05,160 --> 00:00:06,710
+that you should be using, then this
+video is for you because there's a lot
+
+10
+00:00:06,710 --> 00:00:06,720
+video is for you because there's a lot
+ 
+
+11
+00:00:06,720 --> 00:00:07,990
+video is for you because there's a lot
+in the space moves really quick. So, I
+
+12
+00:00:07,990 --> 00:00:08,000
+in the space moves really quick. So, I
+ 
+
+13
+00:00:08,000 --> 00:00:09,310
+in the space moves really quick. So, I
+want to show you guys the tools that I'm
+
+14
+00:00:09,310 --> 00:00:09,320
+want to show you guys the tools that I'm
+ 
+
+15
+00:00:09,320 --> 00:00:10,950
+want to show you guys the tools that I'm
+actually using on the day-to-day and the
+
+16
+00:00:10,950 --> 00:00:10,960
+actually using on the day-to-day and the
+ 
+
+17
+00:00:10,960 --> 00:00:12,510
+actually using on the day-to-day and the
+tools that I use every once in a while
+
+18
+00:00:12,510 --> 00:00:12,520
+tools that I use every once in a while
+ 
+
+19
+00:00:12,520 --> 00:00:14,150
+tools that I use every once in a while
+and talk about why. I'm also going to
+
+20
+00:00:14,150 --> 00:00:14,160
+and talk about why. I'm also going to
+ 
+
+21
+00:00:14,160 --> 00:00:15,990
+and talk about why. I'm also going to
+talk about my mindset when I'm living in
+
+22
+00:00:15,990 --> 00:00:16,000
+talk about my mindset when I'm living in
+ 
+
+23
+00:00:16,000 --> 00:00:17,390
+talk about my mindset when I'm living in
+this environment, experimenting with new
+
+24
+00:00:17,390 --> 00:00:17,400
+this environment, experimenting with new
+ 
+
+25
+00:00:17,400 --> 00:00:18,870
+this environment, experimenting with new
+stuff, and what actually moves the
+
+26
+00:00:18,870 --> 00:00:18,880
+stuff, and what actually moves the
+ 
+
+27
+00:00:18,880 --> 00:00:20,310
+stuff, and what actually moves the
+needle so that you guys don't end up
+
+28
+00:00:20,310 --> 00:00:20,320
+needle so that you guys don't end up
+ 
+
+29
+00:00:20,320 --> 00:00:21,590
+needle so that you guys don't end up
+getting in the cycle where every single
+
+30
+00:00:21,590 --> 00:00:21,600
+getting in the cycle where every single
+ 
+
+31
+00:00:21,600 --> 00:00:23,030
+getting in the cycle where every single
+month you feel overwhelmed because
+
+32
+00:00:23,030 --> 00:00:23,040
+month you feel overwhelmed because
+ 
+
+33
+00:00:23,040 --> 00:00:24,670
+month you feel overwhelmed because
+there's so much new stuff to learn. All
+
+34
+00:00:24,670 --> 00:00:24,680
+there's so much new stuff to learn. All
+ 
+
+35
+00:00:24,680 --> 00:00:25,470
+there's so much new stuff to learn. All
+right, so let's just go ahead and get
+
+36
+00:00:25,470 --> 00:00:25,480
+right, so let's just go ahead and get
+ 
+
+37
+00:00:25,480 --> 00:00:27,230
+right, so let's just go ahead and get
+started. This is not a technical
+
+38
+00:00:27,230 --> 00:00:27,240
+started. This is not a technical
+ 
+
+39
+00:00:27,240 --> 00:00:28,550
+started. This is not a technical
+breakdown of all these tools. This is
+
+40
+00:00:28,550 --> 00:00:28,560
+breakdown of all these tools. This is
+ 
+
+41
+00:00:28,560 --> 00:00:30,150
+breakdown of all these tools. This is
+just my list and me personally telling
+
+42
+00:00:30,150 --> 00:00:30,160
+just my list and me personally telling
+ 
+
+43
+00:00:30,160 --> 00:00:31,870
+just my list and me personally telling
+you guys about the tech stack that I use
+
+44
+00:00:31,870 --> 00:00:31,880
+you guys about the tech stack that I use
+ 
+
+45
+00:00:31,880 --> 00:00:33,270
+you guys about the tech stack that I use
+and why. So, we're going to start off up
+
+46
+00:00:33,270 --> 00:00:33,280
+and why. So, we're going to start off up
+ 
+
+47
+00:00:33,280 --> 00:00:35,510
+and why. So, we're going to start off up
+top with our S tier. These are our daily
+
+48
+00:00:35,510 --> 00:00:35,520
+top with our S tier. These are our daily
+ 
+
+49
+00:00:35,520 --> 00:00:37,230
+top with our S tier. These are our daily
+drivers. So, you know I have to chuck
+
+50
+00:00:37,230 --> 00:00:37,240
+drivers. So, you know I have to chuck
+ 
+
+51
+00:00:37,240 --> 00:00:39,310
+drivers. So, you know I have to chuck
+CloudCode in there. This is probably my
+
+52
+00:00:39,310 --> 00:00:39,320
+CloudCode in there. This is probably my
+ 
+
+53
+00:00:39,320 --> 00:00:41,670
+CloudCode in there. This is probably my
+overall number one favorite AI tool
+
+54
+00:00:41,670 --> 00:00:41,680
+overall number one favorite AI tool
+ 
+
+55
+00:00:41,680 --> 00:00:43,190
+overall number one favorite AI tool
+ever. This is basically my operating
+
+56
+00:00:43,190 --> 00:00:43,200
+ever. This is basically my operating
+ 
+
+57
+00:00:43,200 --> 00:00:44,870
+ever. This is basically my operating
+system. I live inside of my CloudCode
+
+58
+00:00:44,870 --> 00:00:44,880
+system. I live inside of my CloudCode
+ 
+
+59
+00:00:44,880 --> 00:00:46,390
+system. I live inside of my CloudCode
+project and I try to do as much work as
+
+60
+00:00:46,390 --> 00:00:46,400
+project and I try to do as much work as
+ 
+
+61
+00:00:46,400 --> 00:00:48,830
+project and I try to do as much work as
+I can directly from inside of CloudCode.
+
+62
+00:00:48,830 --> 00:00:48,840
+I can directly from inside of CloudCode.
+ 
+
+63
+00:00:48,840 --> 00:00:51,110
+I can directly from inside of CloudCode.
+Now, up next on the S tier is VS Code,
+
+64
+00:00:51,110 --> 00:00:51,120
+Now, up next on the S tier is VS Code,
+ 
+
+65
+00:00:51,120 --> 00:00:52,990
+Now, up next on the S tier is VS Code,
+which is basically where I like to use
+
+66
+00:00:52,990 --> 00:00:53,000
+which is basically where I like to use
+ 
+
+67
+00:00:53,000 --> 00:00:54,190
+which is basically where I like to use
+my CloudCode. You could use it in the
+
+68
+00:00:54,190 --> 00:00:54,200
+my CloudCode. You could use it in the
+ 
+
+69
+00:00:54,200 --> 00:00:56,310
+my CloudCode. You could use it in the
+desktop app, straight in the CLI. I like
+
+70
+00:00:56,310 --> 00:00:56,320
+desktop app, straight in the CLI. I like
+ 
+
+71
+00:00:56,320 --> 00:00:57,950
+desktop app, straight in the CLI. I like
+to use it inside of VS Code, which is
+
+72
+00:00:57,950 --> 00:00:57,960
+to use it inside of VS Code, which is
+ 
+
+73
+00:00:57,960 --> 00:00:59,990
+to use it inside of VS Code, which is
+just an IDE, meaning you could also use
+
+74
+00:00:59,990 --> 00:01:00,000
+just an IDE, meaning you could also use
+ 
+
+75
+00:01:00,000 --> 00:01:01,510
+just an IDE, meaning you could also use
+CloudCode inside of different IDEs like
+
+76
+00:01:01,510 --> 00:01:01,520
+CloudCode inside of different IDEs like
+ 
+
+77
+00:01:01,520 --> 00:01:03,070
+CloudCode inside of different IDEs like
+Cursor or, you know, Winzer for
+
+78
+00:01:03,070 --> 00:01:03,080
+Cursor or, you know, Winzer for
+ 
+
+79
+00:01:03,080 --> 00:01:04,790
+Cursor or, you know, Winzer for
+anti-gravity. So, here's VS Code. I can
+
+80
+00:01:04,790 --> 00:01:04,800
+anti-gravity. So, here's VS Code. I can
+ 
+
+81
+00:01:04,800 --> 00:01:06,150
+anti-gravity. So, here's VS Code. I can
+see my files on the left. I can have
+
+82
+00:01:06,150 --> 00:01:06,160
+see my files on the left. I can have
+ 
+
+83
+00:01:06,160 --> 00:01:07,950
+see my files on the left. I can have
+CloudCode in the terminal right here or
+
+84
+00:01:07,950 --> 00:01:07,960
+CloudCode in the terminal right here or
+ 
+
+85
+00:01:07,960 --> 00:01:09,590
+CloudCode in the terminal right here or
+I can use the CloudCode extension. And
+
+86
+00:01:09,590 --> 00:01:09,600
+I can use the CloudCode extension. And
+ 
+
+87
+00:01:09,600 --> 00:01:11,590
+I can use the CloudCode extension. And
+our third and actually our final S tier
+
+88
+00:01:11,590 --> 00:01:11,600
+our third and actually our final S tier
+ 
+
+89
+00:01:11,600 --> 00:01:13,590
+our third and actually our final S tier
+AI tool is Glydo. This is our
+
+90
+00:01:13,590 --> 00:01:13,600
+AI tool is Glydo. This is our
+ 
+
+91
+00:01:13,600 --> 00:01:15,510
+AI tool is Glydo. This is our
+speech-to-text startup and I fully
+
+92
+00:01:15,510 --> 00:01:15,520
+speech-to-text startup and I fully
+ 
+
+93
+00:01:15,520 --> 00:01:17,870
+speech-to-text startup and I fully
+transitioned over from Whisper to Glydo.
+
+94
+00:01:17,870 --> 00:01:17,880
+transitioned over from Whisper to Glydo.
+ 
+
+95
+00:01:17,880 --> 00:01:19,110
+transitioned over from Whisper to Glydo.
+It's the fastest one on the market. It's
+
+96
+00:01:19,110 --> 00:01:19,120
+It's the fastest one on the market. It's
+ 
+
+97
+00:01:19,120 --> 00:01:20,190
+It's the fastest one on the market. It's
+private and we're going to make this
+
+98
+00:01:20,190 --> 00:01:20,200
+private and we're going to make this
+ 
+
+99
+00:01:20,200 --> 00:01:22,350
+private and we're going to make this
+thing super agentic. So, if you want to
+
+100
+00:01:22,350 --> 00:01:22,360
+thing super agentic. So, if you want to
+ 
+
+101
+00:01:22,360 --> 00:01:23,590
+thing super agentic. So, if you want to
+check it out, link in the description.
+
+102
+00:01:23,590 --> 00:01:23,600
+check it out, link in the description.
+ 
+
+103
+00:01:23,600 --> 00:01:25,110
+check it out, link in the description.
+And Windows support is literally about
+
+104
+00:01:25,110 --> 00:01:25,120
+And Windows support is literally about
+ 
+
+105
+00:01:25,120 --> 00:01:26,510
+And Windows support is literally about
+to roll out. So, stay tuned for that.
+
+106
+00:01:26,510 --> 00:01:26,520
+to roll out. So, stay tuned for that.
+ 
+
+107
+00:01:26,520 --> 00:01:28,310
+to roll out. So, stay tuned for that.
+Okay, so now let's move on to A tier.
+
+108
+00:01:28,310 --> 00:01:28,320
+Okay, so now let's move on to A tier.
+ 
+
+109
+00:01:28,320 --> 00:01:29,510
+Okay, so now let's move on to A tier.
+Now, these are the ones that I'm using
+
+110
+00:01:29,510 --> 00:01:29,520
+Now, these are the ones that I'm using
+ 
+
+111
+00:01:29,520 --> 00:01:31,590
+Now, these are the ones that I'm using
+on a weekly basis 100% but they're not
+
+112
+00:01:31,590 --> 00:01:31,600
+on a weekly basis 100% but they're not
+ 
+
+113
+00:01:31,600 --> 00:01:33,150
+on a weekly basis 100% but they're not
+really my daily drivers. So, the first
+
+114
+00:01:33,150 --> 00:01:33,160
+really my daily drivers. So, the first
+ 
+
+115
+00:01:33,160 --> 00:01:36,790
+really my daily drivers. So, the first
+one we have is Codex. Codex is a similar
+
+116
+00:01:36,790 --> 00:01:36,800
+one we have is Codex. Codex is a similar
+ 
+
+117
+00:01:36,800 --> 00:01:38,590
+one we have is Codex. Codex is a similar
+type of agent hardest to CloudCode and
+
+118
+00:01:38,590 --> 00:01:38,600
+type of agent hardest to CloudCode and
+ 
+
+119
+00:01:38,600 --> 00:01:39,630
+type of agent hardest to CloudCode and
+I've been using it a lot more lately
+
+120
+00:01:39,630 --> 00:01:39,640
+I've been using it a lot more lately
+ 
+
+121
+00:01:39,640 --> 00:01:40,750
+I've been using it a lot more lately
+because a lot of its strengths
+
+122
+00:01:40,750 --> 00:01:40,760
+because a lot of its strengths
+ 
+
+123
+00:01:40,760 --> 00:01:42,670
+because a lot of its strengths
+complement CloudCode's weaknesses and
+
+124
+00:01:42,670 --> 00:01:42,680
+complement CloudCode's weaknesses and
+ 
+
+125
+00:01:42,680 --> 00:01:44,070
+complement CloudCode's weaknesses and
+vice versa. So, they're really good to
+
+126
+00:01:44,070 --> 00:01:44,080
+vice versa. So, they're really good to
+ 
+
+127
+00:01:44,080 --> 00:01:45,910
+vice versa. So, they're really good to
+be able to use together even though
+
+128
+00:01:45,910 --> 00:01:45,920
+be able to use together even though
+ 
+
+129
+00:01:45,920 --> 00:01:47,270
+be able to use together even though
+right now I still do the majority of my
+
+130
+00:01:47,270 --> 00:01:47,280
+right now I still do the majority of my
+ 
+
+131
+00:01:47,280 --> 00:01:48,870
+right now I still do the majority of my
+work inside of CloudCode. And by the
+
+132
+00:01:48,870 --> 00:01:48,880
+work inside of CloudCode. And by the
+ 
+
+133
+00:01:48,880 --> 00:01:50,230
+work inside of CloudCode. And by the
+way, if you guys are seeing some tools
+
+134
+00:01:50,230 --> 00:01:50,240
+way, if you guys are seeing some tools
+ 
+
+135
+00:01:50,240 --> 00:01:51,310
+way, if you guys are seeing some tools
+throughout and you're curious and you
+
+136
+00:01:51,310 --> 00:01:51,320
+throughout and you're curious and you
+ 
+
+137
+00:01:51,320 --> 00:01:52,590
+throughout and you're curious and you
+want to see more about how I use them
+
+138
+00:01:52,590 --> 00:01:52,600
+want to see more about how I use them
+ 
+
+139
+00:01:52,600 --> 00:01:54,270
+want to see more about how I use them
+or, you know, better breakdowns, then
+
+140
+00:01:54,270 --> 00:01:54,280
+or, you know, better breakdowns, then
+ 
+
+141
+00:01:54,280 --> 00:01:55,230
+or, you know, better breakdowns, then
+let me know in the comments what else
+
+142
+00:01:55,230 --> 00:01:55,240
+let me know in the comments what else
+ 
+
+143
+00:01:55,240 --> 00:01:57,150
+let me know in the comments what else
+you guys want to see. The next A-tier is
+
+144
+00:01:57,150 --> 00:01:57,160
+you guys want to see. The next A-tier is
+ 
+
+145
+00:01:57,160 --> 00:01:59,310
+you guys want to see. The next A-tier is
+just Claude in general, Claude chat.
+
+146
+00:01:59,310 --> 00:01:59,320
+just Claude in general, Claude chat.
+ 
+
+147
+00:01:59,320 --> 00:02:01,270
+just Claude in general, Claude chat.
+Now, typically I am using Claude code
+
+148
+00:02:01,270 --> 00:02:01,280
+Now, typically I am using Claude code
+ 
+
+149
+00:02:01,280 --> 00:02:03,150
+Now, typically I am using Claude code
+for all of my chat-based stuff, but I
+
+150
+00:02:03,150 --> 00:02:03,160
+for all of my chat-based stuff, but I
+ 
+
+151
+00:02:03,160 --> 00:02:04,510
+for all of my chat-based stuff, but I
+still do have some times when I just go
+
+152
+00:02:04,510 --> 00:02:04,520
+still do have some times when I just go
+ 
+
+153
+00:02:04,520 --> 00:02:06,070
+still do have some times when I just go
+to chat really quick because I can just
+
+154
+00:02:06,070 --> 00:02:06,080
+to chat really quick because I can just
+ 
+
+155
+00:02:06,080 --> 00:02:07,790
+to chat really quick because I can just
+open it up and it's right there and I,
+
+156
+00:02:07,790 --> 00:02:07,800
+open it up and it's right there and I,
+ 
+
+157
+00:02:07,800 --> 00:02:09,550
+open it up and it's right there and I,
+you know, chat. Okay, the next one,
+
+158
+00:02:09,550 --> 00:02:09,560
+you know, chat. Okay, the next one,
+ 
+
+159
+00:02:09,560 --> 00:02:10,749
+you know, chat. Okay, the next one,
+which I have not talked about too much
+
+160
+00:02:10,749 --> 00:02:10,759
+which I have not talked about too much
+ 
+
+161
+00:02:10,759 --> 00:02:13,030
+which I have not talked about too much
+on this channel at all, is Hermes agent.
+
+162
+00:02:13,030 --> 00:02:13,040
+on this channel at all, is Hermes agent.
+ 
+
+163
+00:02:13,040 --> 00:02:14,550
+on this channel at all, is Hermes agent.
+I've been using this a lot more lately
+
+164
+00:02:14,550 --> 00:02:14,560
+I've been using this a lot more lately
+ 
+
+165
+00:02:14,560 --> 00:02:15,750
+I've been using this a lot more lately
+and it's really nice for general
+
+166
+00:02:15,750 --> 00:02:15,760
+and it's really nice for general
+ 
+
+167
+00:02:15,760 --> 00:02:17,110
+and it's really nice for general
+knowledge work and being able to do
+
+168
+00:02:17,110 --> 00:02:17,120
+knowledge work and being able to do
+ 
+
+169
+00:02:17,120 --> 00:02:18,830
+knowledge work and being able to do
+stuff when I'm out and about because it
+
+170
+00:02:18,830 --> 00:02:18,840
+stuff when I'm out and about because it
+ 
+
+171
+00:02:18,840 --> 00:02:20,630
+stuff when I'm out and about because it
+wakes up on demand when you talk to it
+
+172
+00:02:20,630 --> 00:02:20,640
+wakes up on demand when you talk to it
+ 
+
+173
+00:02:20,640 --> 00:02:22,390
+wakes up on demand when you talk to it
+through Telegram. It has instant crons.
+
+174
+00:02:22,390 --> 00:02:22,400
+through Telegram. It has instant crons.
+ 
+
+175
+00:02:22,400 --> 00:02:23,630
+through Telegram. It has instant crons.
+It has a lot of things that I really
+
+176
+00:02:23,630 --> 00:02:23,640
+It has a lot of things that I really
+ 
+
+177
+00:02:23,640 --> 00:02:25,430
+It has a lot of things that I really
+like about it that are just easier to
+
+178
+00:02:25,430 --> 00:02:25,440
+like about it that are just easier to
+ 
+
+179
+00:02:25,440 --> 00:02:27,030
+like about it that are just easier to
+set up sometimes than doing a whole
+
+180
+00:02:27,030 --> 00:02:27,040
+set up sometimes than doing a whole
+ 
+
+181
+00:02:27,040 --> 00:02:28,550
+set up sometimes than doing a whole
+Claude code infrastructure setup. All
+
+182
+00:02:28,550 --> 00:02:28,560
+Claude code infrastructure setup. All
+ 
+
+183
+00:02:28,560 --> 00:02:30,430
+Claude code infrastructure setup. All
+right, next we have Perplexity. Now,
+
+184
+00:02:30,430 --> 00:02:30,440
+right, next we have Perplexity. Now,
+ 
+
+185
+00:02:30,440 --> 00:02:32,750
+right, next we have Perplexity. Now,
+Perplexity I feel like isn't as popular
+
+186
+00:02:32,750 --> 00:02:32,760
+Perplexity I feel like isn't as popular
+ 
+
+187
+00:02:32,760 --> 00:02:34,470
+Perplexity I feel like isn't as popular
+as, you know, it used to be. I I don't
+
+188
+00:02:34,470 --> 00:02:34,480
+as, you know, it used to be. I I don't
+ 
+
+189
+00:02:34,480 --> 00:02:36,270
+as, you know, it used to be. I I don't
+really use Perplexity computer too much,
+
+190
+00:02:36,270 --> 00:02:36,280
+really use Perplexity computer too much,
+ 
+
+191
+00:02:36,280 --> 00:02:37,830
+really use Perplexity computer too much,
+but when I am plugging in automations
+
+192
+00:02:37,830 --> 00:02:37,840
+but when I am plugging in automations
+ 
+
+193
+00:02:37,840 --> 00:02:39,750
+but when I am plugging in automations
+and I'm having my agents do research, I
+
+194
+00:02:39,750 --> 00:02:39,760
+and I'm having my agents do research, I
+ 
+
+195
+00:02:39,760 --> 00:02:41,270
+and I'm having my agents do research, I
+really like to use Perplexity for my
+
+196
+00:02:41,270 --> 00:02:41,280
+really like to use Perplexity for my
+ 
+
+197
+00:02:41,280 --> 00:02:43,310
+really like to use Perplexity for my
+research. I'm also using Groq a lot as
+
+198
+00:02:43,310 --> 00:02:43,320
+research. I'm also using Groq a lot as
+ 
+
+199
+00:02:43,320 --> 00:02:46,310
+research. I'm also using Groq a lot as
+far as research and, you know, using X's
+
+200
+00:02:46,310 --> 00:02:46,320
+far as research and, you know, using X's
+ 
+
+201
+00:02:46,320 --> 00:02:48,070
+far as research and, you know, using X's
+built-in Groq right there when I need
+
+202
+00:02:48,070 --> 00:02:48,080
+built-in Groq right there when I need
+ 
+
+203
+00:02:48,080 --> 00:02:49,190
+built-in Groq right there when I need
+to, you know, maybe I want to search
+
+204
+00:02:49,190 --> 00:02:49,200
+to, you know, maybe I want to search
+ 
+
+205
+00:02:49,200 --> 00:02:50,270
+to, you know, maybe I want to search
+through a lot of Twitter threads or
+
+206
+00:02:50,270 --> 00:02:50,280
+through a lot of Twitter threads or
+ 
+
+207
+00:02:50,280 --> 00:02:51,630
+through a lot of Twitter threads or
+something and I want to find specific
+
+208
+00:02:51,630 --> 00:02:51,640
+something and I want to find specific
+ 
+
+209
+00:02:51,640 --> 00:02:53,550
+something and I want to find specific
+posts or find specific insights, I like
+
+210
+00:02:53,550 --> 00:02:53,560
+posts or find specific insights, I like
+ 
+
+211
+00:02:53,560 --> 00:02:56,030
+posts or find specific insights, I like
+to use Groq in X for that. And so,
+
+212
+00:02:56,030 --> 00:02:56,040
+to use Groq in X for that. And so,
+ 
+
+213
+00:02:56,040 --> 00:02:57,910
+to use Groq in X for that. And so,
+that's honestly my core stack. That's
+
+214
+00:02:57,910 --> 00:02:57,920
+that's honestly my core stack. That's
+ 
+
+215
+00:02:57,920 --> 00:02:59,630
+that's honestly my core stack. That's
+all we have for S and A-tier. And the
+
+216
+00:02:59,630 --> 00:02:59,640
+all we have for S and A-tier. And the
+ 
+
+217
+00:02:59,640 --> 00:03:00,790
+all we have for S and A-tier. And the
+reason I wanted to show you guys this is
+
+218
+00:03:00,790 --> 00:03:00,800
+reason I wanted to show you guys this is
+ 
+
+219
+00:03:00,800 --> 00:03:02,509
+reason I wanted to show you guys this is
+because it's a pretty lean stack. When
+
+220
+00:03:02,509 --> 00:03:02,519
+because it's a pretty lean stack. When
+ 
+
+221
+00:03:02,519 --> 00:03:04,030
+because it's a pretty lean stack. When
+it comes to core AI tools, it's
+
+222
+00:03:04,030 --> 00:03:04,040
+it comes to core AI tools, it's
+ 
+
+223
+00:03:04,040 --> 00:03:07,110
+it comes to core AI tools, it's
+basically Claude code, Glido, Codex,
+
+224
+00:03:07,110 --> 00:03:07,120
+basically Claude code, Glido, Codex,
+ 
+
+225
+00:03:07,120 --> 00:03:09,509
+basically Claude code, Glido, Codex,
+Hermes agent, Perplexity, and Groq. And
+
+226
+00:03:09,509 --> 00:03:09,519
+Hermes agent, Perplexity, and Groq. And
+ 
+
+227
+00:03:09,519 --> 00:03:10,750
+Hermes agent, Perplexity, and Groq. And
+you can see how many tools there are
+
+228
+00:03:10,750 --> 00:03:10,760
+you can see how many tools there are
+ 
+
+229
+00:03:10,760 --> 00:03:12,310
+you can see how many tools there are
+still down here to be placed into
+
+230
+00:03:12,310 --> 00:03:12,320
+still down here to be placed into
+ 
+
+231
+00:03:12,320 --> 00:03:14,070
+still down here to be placed into
+different categories. Now, I don't want
+
+232
+00:03:14,070 --> 00:03:14,080
+different categories. Now, I don't want
+ 
+
+233
+00:03:14,080 --> 00:03:15,590
+different categories. Now, I don't want
+to get into a bunch of like different
+
+234
+00:03:15,590 --> 00:03:15,600
+to get into a bunch of like different
+ 
+
+235
+00:03:15,600 --> 00:03:17,710
+to get into a bunch of like different
+project management tools and like things
+
+236
+00:03:17,710 --> 00:03:17,720
+project management tools and like things
+ 
+
+237
+00:03:17,720 --> 00:03:19,550
+project management tools and like things
+like, you know, Hostinger obviously is
+
+238
+00:03:19,550 --> 00:03:19,560
+like, you know, Hostinger obviously is
+ 
+
+239
+00:03:19,560 --> 00:03:21,790
+like, you know, Hostinger obviously is
+my VPS provider for Claude code or for
+
+240
+00:03:21,790 --> 00:03:21,800
+my VPS provider for Claude code or for
+ 
+
+241
+00:03:21,800 --> 00:03:22,830
+my VPS provider for Claude code or for
+Hermes or for other things that I'm
+
+242
+00:03:22,830 --> 00:03:22,840
+Hermes or for other things that I'm
+ 
+
+243
+00:03:22,840 --> 00:03:24,350
+Hermes or for other things that I'm
+setting up. You know, ClickUp is where I
+
+244
+00:03:24,350 --> 00:03:24,360
+setting up. You know, ClickUp is where I
+ 
+
+245
+00:03:24,360 --> 00:03:25,990
+setting up. You know, ClickUp is where I
+live as far as project management and
+
+246
+00:03:25,990 --> 00:03:26,000
+live as far as project management and
+ 
+
+247
+00:03:26,000 --> 00:03:27,830
+live as far as project management and
+stuff like that and communication with
+
+248
+00:03:27,830 --> 00:03:27,840
+stuff like that and communication with
+ 
+
+249
+00:03:27,840 --> 00:03:29,430
+stuff like that and communication with
+my team. Fireflies is in all of my
+
+250
+00:03:29,430 --> 00:03:29,440
+my team. Fireflies is in all of my
+ 
+
+251
+00:03:29,440 --> 00:03:31,190
+my team. Fireflies is in all of my
+meetings and, you know, I just wanted to
+
+252
+00:03:31,190 --> 00:03:31,200
+meetings and, you know, I just wanted to
+ 
+
+253
+00:03:31,200 --> 00:03:32,229
+meetings and, you know, I just wanted to
+chuck these in here to give them some
+
+254
+00:03:32,229 --> 00:03:32,239
+chuck these in here to give them some
+ 
+
+255
+00:03:32,239 --> 00:03:33,790
+chuck these in here to give them some
+love to show you where they fit in my AI
+
+256
+00:03:33,790 --> 00:03:33,800
+love to show you where they fit in my AI
+ 
+
+257
+00:03:33,800 --> 00:03:35,630
+love to show you where they fit in my AI
+stack, but these aren't really ones that
+
+258
+00:03:35,630 --> 00:03:35,640
+stack, but these aren't really ones that
+ 
+
+259
+00:03:35,640 --> 00:03:37,590
+stack, but these aren't really ones that
+are like my AI first tools that I'm
+
+260
+00:03:37,590 --> 00:03:37,600
+are like my AI first tools that I'm
+ 
+
+261
+00:03:37,600 --> 00:03:38,790
+are like my AI first tools that I'm
+using on the day-to-day for knowledge
+
+262
+00:03:38,790 --> 00:03:38,800
+using on the day-to-day for knowledge
+ 
+
+263
+00:03:38,800 --> 00:03:40,470
+using on the day-to-day for knowledge
+work. So, the specialists are one where
+
+264
+00:03:40,470 --> 00:03:40,480
+work. So, the specialists are one where
+ 
+
+265
+00:03:40,480 --> 00:03:42,509
+work. So, the specialists are one where
+I use them for a very specific use case,
+
+266
+00:03:42,509 --> 00:03:42,519
+I use them for a very specific use case,
+ 
+
+267
+00:03:42,519 --> 00:03:44,150
+I use them for a very specific use case,
+you know, like I have a certain process
+
+268
+00:03:44,150 --> 00:03:44,160
+you know, like I have a certain process
+ 
+
+269
+00:03:44,160 --> 00:03:46,110
+you know, like I have a certain process
+that I need or within processes I have a
+
+270
+00:03:46,110 --> 00:03:46,120
+that I need or within processes I have a
+ 
+
+271
+00:03:46,120 --> 00:03:47,870
+that I need or within processes I have a
+very specific task and then I would go
+
+272
+00:03:47,870 --> 00:03:47,880
+very specific task and then I would go
+ 
+
+273
+00:03:47,880 --> 00:03:49,590
+very specific task and then I would go
+grab some of these specialists. So,
+
+274
+00:03:49,590 --> 00:03:49,600
+grab some of these specialists. So,
+ 
+
+275
+00:03:49,600 --> 00:03:51,630
+grab some of these specialists. So,
+another example would be Appify. I don't
+
+276
+00:03:51,630 --> 00:03:51,640
+another example would be Appify. I don't
+ 
+
+277
+00:03:51,640 --> 00:03:53,070
+another example would be Appify. I don't
+live in Appify, but every once in a
+
+278
+00:03:53,070 --> 00:03:53,080
+live in Appify, but every once in a
+ 
+
+279
+00:03:53,080 --> 00:03:54,470
+live in Appify, but every once in a
+while I'll have an automation or every
+
+280
+00:03:54,470 --> 00:03:54,480
+while I'll have an automation or every
+ 
+
+281
+00:03:54,480 --> 00:03:55,830
+while I'll have an automation or every
+once in a while I want my Hermes agent
+
+282
+00:03:55,830 --> 00:03:55,840
+once in a while I want my Hermes agent
+ 
+
+283
+00:03:55,840 --> 00:03:57,390
+once in a while I want my Hermes agent
+to grab something and it has to use
+
+284
+00:03:57,390 --> 00:03:57,400
+to grab something and it has to use
+ 
+
+285
+00:03:57,400 --> 00:03:59,630
+to grab something and it has to use
+Apify and a certain actor within Apify.
+
+286
+00:03:59,630 --> 00:03:59,640
+Apify and a certain actor within Apify.
+ 
+
+287
+00:03:59,640 --> 00:04:01,190
+Apify and a certain actor within Apify.
+We also have things like GBT image 2,
+
+288
+00:04:01,190 --> 00:04:01,200
+We also have things like GBT image 2,
+ 
+
+289
+00:04:01,200 --> 00:04:02,790
+We also have things like GBT image 2,
+which I've been loving lately, and Nano
+
+290
+00:04:02,790 --> 00:04:02,800
+which I've been loving lately, and Nano
+ 
+
+291
+00:04:02,800 --> 00:04:04,710
+which I've been loving lately, and Nano
+Banana 2. They're really good at
+
+292
+00:04:04,710 --> 00:04:04,720
+Banana 2. They're really good at
+ 
+
+293
+00:04:04,720 --> 00:04:06,550
+Banana 2. They're really good at
+different things. I kind of use Nano
+
+294
+00:04:06,550 --> 00:04:06,560
+different things. I kind of use Nano
+ 
+
+295
+00:04:06,560 --> 00:04:08,390
+different things. I kind of use Nano
+Banana as like my Photoshop tool and I
+
+296
+00:04:08,390 --> 00:04:08,400
+Banana as like my Photoshop tool and I
+ 
+
+297
+00:04:08,400 --> 00:04:11,190
+Banana as like my Photoshop tool and I
+use GBT 2 as like my creator tool, if
+
+298
+00:04:11,190 --> 00:04:11,200
+use GBT 2 as like my creator tool, if
+ 
+
+299
+00:04:11,200 --> 00:04:12,070
+use GBT 2 as like my creator tool, if
+that makes sense when it comes to
+
+300
+00:04:12,070 --> 00:04:12,080
+that makes sense when it comes to
+ 
+
+301
+00:04:12,080 --> 00:04:13,430
+that makes sense when it comes to
+images. And then usually when I'm
+
+302
+00:04:13,430 --> 00:04:13,440
+images. And then usually when I'm
+ 
+
+303
+00:04:13,440 --> 00:04:14,990
+images. And then usually when I'm
+plugging in like image generation or
+
+304
+00:04:14,990 --> 00:04:15,000
+plugging in like image generation or
+ 
+
+305
+00:04:15,000 --> 00:04:17,069
+plugging in like image generation or
+video generation into agents, I always
+
+306
+00:04:17,069 --> 00:04:17,079
+video generation into agents, I always
+ 
+
+307
+00:04:17,079 --> 00:04:18,789
+video generation into agents, I always
+use key.ai for that. It's kind of like
+
+308
+00:04:18,789 --> 00:04:18,799
+use key.ai for that. It's kind of like
+ 
+
+309
+00:04:18,799 --> 00:04:20,229
+use key.ai for that. It's kind of like
+the open router but for image and video
+
+310
+00:04:20,229 --> 00:04:20,239
+the open router but for image and video
+ 
+
+311
+00:04:20,239 --> 00:04:21,789
+the open router but for image and video
+models. And then actually reminds me, I
+
+312
+00:04:21,789 --> 00:04:21,799
+models. And then actually reminds me, I
+ 
+
+313
+00:04:21,799 --> 00:04:23,310
+models. And then actually reminds me, I
+left Open Router out of this, but Open
+
+314
+00:04:23,310 --> 00:04:23,320
+left Open Router out of this, but Open
+ 
+
+315
+00:04:23,320 --> 00:04:24,909
+left Open Router out of this, but Open
+Router definitely deserves a spot in the
+
+316
+00:04:24,909 --> 00:04:24,919
+Router definitely deserves a spot in the
+ 
+
+317
+00:04:24,919 --> 00:04:27,110
+Router definitely deserves a spot in the
+B tier for specialists. I've got a few
+
+318
+00:04:27,110 --> 00:04:27,120
+B tier for specialists. I've got a few
+ 
+
+319
+00:04:27,120 --> 00:04:28,310
+B tier for specialists. I've got a few
+other specialists here and it's probably
+
+320
+00:04:28,310 --> 00:04:28,320
+other specialists here and it's probably
+ 
+
+321
+00:04:28,320 --> 00:04:29,870
+other specialists here and it's probably
+going to shoot off the edge, so let me
+
+322
+00:04:29,870 --> 00:04:29,880
+going to shoot off the edge, so let me
+ 
+
+323
+00:04:29,880 --> 00:04:31,150
+going to shoot off the edge, so let me
+just expand this a little bit. But I
+
+324
+00:04:31,150 --> 00:04:31,160
+just expand this a little bit. But I
+ 
+
+325
+00:04:31,160 --> 00:04:33,030
+just expand this a little bit. But I
+also use HeyGen for whenever I need
+
+326
+00:04:33,030 --> 00:04:33,040
+also use HeyGen for whenever I need
+ 
+
+327
+00:04:33,040 --> 00:04:34,870
+also use HeyGen for whenever I need
+avatars. I don't avatar my YouTube
+
+328
+00:04:34,870 --> 00:04:34,880
+avatars. I don't avatar my YouTube
+ 
+
+329
+00:04:34,880 --> 00:04:35,830
+avatars. I don't avatar my YouTube
+channel and yeah, I know you guys say
+
+330
+00:04:35,830 --> 00:04:35,840
+channel and yeah, I know you guys say
+ 
+
+331
+00:04:35,840 --> 00:04:37,110
+channel and yeah, I know you guys say
+that in the comments. I've never done
+
+332
+00:04:37,110 --> 00:04:37,120
+that in the comments. I've never done
+ 
+
+333
+00:04:37,120 --> 00:04:38,670
+that in the comments. I've never done
+that and I don't plan on it, but I will
+
+334
+00:04:38,670 --> 00:04:38,680
+that and I don't plan on it, but I will
+ 
+
+335
+00:04:38,680 --> 00:04:40,630
+that and I don't plan on it, but I will
+use this sometimes for certain videos.
+
+336
+00:04:40,630 --> 00:04:40,640
+use this sometimes for certain videos.
+ 
+
+337
+00:04:40,640 --> 00:04:41,950
+use this sometimes for certain videos.
+Maybe for certain course material or
+
+338
+00:04:41,950 --> 00:04:41,960
+Maybe for certain course material or
+ 
+
+339
+00:04:41,960 --> 00:04:43,670
+Maybe for certain course material or
+whatever it is, sometimes I will use an
+
+340
+00:04:43,670 --> 00:04:43,680
+whatever it is, sometimes I will use an
+ 
+
+341
+00:04:43,680 --> 00:04:45,350
+whatever it is, sometimes I will use an
+avatar and I go to HeyGen for that. And
+
+342
+00:04:45,350 --> 00:04:45,360
+avatar and I go to HeyGen for that. And
+ 
+
+343
+00:04:45,360 --> 00:04:46,990
+avatar and I go to HeyGen for that. And
+then alongside that, I use Eleven Labs
+
+344
+00:04:46,990 --> 00:04:47,000
+then alongside that, I use Eleven Labs
+ 
+
+345
+00:04:47,000 --> 00:04:49,190
+then alongside that, I use Eleven Labs
+to clone my voice or for specific voice
+
+346
+00:04:49,190 --> 00:04:49,200
+to clone my voice or for specific voice
+ 
+
+347
+00:04:49,200 --> 00:04:50,909
+to clone my voice or for specific voice
+agent builds. Okay, so it's really
+
+348
+00:04:50,909 --> 00:04:50,919
+agent builds. Okay, so it's really
+ 
+
+349
+00:04:50,919 --> 00:04:52,510
+agent builds. Okay, so it's really
+starting to slim down here as you guys
+
+350
+00:04:52,510 --> 00:04:52,520
+starting to slim down here as you guys
+ 
+
+351
+00:04:52,520 --> 00:04:54,790
+starting to slim down here as you guys
+can see. We only have one actual row
+
+352
+00:04:54,790 --> 00:04:54,800
+can see. We only have one actual row
+ 
+
+353
+00:04:54,800 --> 00:04:56,670
+can see. We only have one actual row
+left, which is experimenting, but I'll
+
+354
+00:04:56,670 --> 00:04:56,680
+left, which is experimenting, but I'll
+ 
+
+355
+00:04:56,680 --> 00:04:58,070
+left, which is experimenting, but I'll
+tell you what, not all of these tools
+
+356
+00:04:58,070 --> 00:04:58,080
+tell you what, not all of these tools
+ 
+
+357
+00:04:58,080 --> 00:04:59,830
+tell you what, not all of these tools
+are going to fit into this row. So let's
+
+358
+00:04:59,830 --> 00:04:59,840
+are going to fit into this row. So let's
+ 
+
+359
+00:04:59,840 --> 00:05:01,150
+are going to fit into this row. So let's
+see what's going to happen. Okay, so for
+
+360
+00:05:01,150 --> 00:05:01,160
+see what's going to happen. Okay, so for
+ 
+
+361
+00:05:01,160 --> 00:05:02,430
+see what's going to happen. Okay, so for
+C tier, these are things that I'm kind
+
+362
+00:05:02,430 --> 00:05:02,440
+C tier, these are things that I'm kind
+ 
+
+363
+00:05:02,440 --> 00:05:03,710
+C tier, these are things that I'm kind
+of keeping my eye on and I'm playing
+
+364
+00:05:03,710 --> 00:05:03,720
+of keeping my eye on and I'm playing
+ 
+
+365
+00:05:03,720 --> 00:05:05,030
+of keeping my eye on and I'm playing
+with a little bit and I use very
+
+366
+00:05:05,030 --> 00:05:05,040
+with a little bit and I use very
+ 
+
+367
+00:05:05,040 --> 00:05:07,310
+with a little bit and I use very
+frequently and they're in my ecosystem,
+
+368
+00:05:07,310 --> 00:05:07,320
+frequently and they're in my ecosystem,
+ 
+
+369
+00:05:07,320 --> 00:05:08,670
+frequently and they're in my ecosystem,
+but I wouldn't really consider them a
+
+370
+00:05:08,670 --> 00:05:08,680
+but I wouldn't really consider them a
+ 
+
+371
+00:05:08,680 --> 00:05:10,950
+but I wouldn't really consider them a
+main tool I use. Actually, before we get
+
+372
+00:05:10,950 --> 00:05:10,960
+main tool I use. Actually, before we get
+ 
+
+373
+00:05:10,960 --> 00:05:12,590
+main tool I use. Actually, before we get
+to that, I did leave out Cloud Design.
+
+374
+00:05:12,590 --> 00:05:12,600
+to that, I did leave out Cloud Design.
+ 
+
+375
+00:05:12,600 --> 00:05:14,350
+to that, I did leave out Cloud Design.
+Cloud Design is definitely a specialist
+
+376
+00:05:14,350 --> 00:05:14,360
+Cloud Design is definitely a specialist
+ 
+
+377
+00:05:14,360 --> 00:05:15,870
+Cloud Design is definitely a specialist
+and we've been adopting it more and more
+
+378
+00:05:15,870 --> 00:05:15,880
+and we've been adopting it more and more
+ 
+
+379
+00:05:15,880 --> 00:05:17,670
+and we've been adopting it more and more
+as a team because now everyone on the
+
+380
+00:05:17,670 --> 00:05:17,680
+as a team because now everyone on the
+ 
+
+381
+00:05:17,680 --> 00:05:19,430
+as a team because now everyone on the
+team can build landing pages using the
+
+382
+00:05:19,430 --> 00:05:19,440
+team can build landing pages using the
+ 
+
+383
+00:05:19,440 --> 00:05:20,870
+team can build landing pages using the
+exact same design system. I know you
+
+384
+00:05:20,870 --> 00:05:20,880
+exact same design system. I know you
+ 
+
+385
+00:05:20,880 --> 00:05:21,870
+exact same design system. I know you
+could have done it either way in Cloud
+
+386
+00:05:21,870 --> 00:05:21,880
+could have done it either way in Cloud
+ 
+
+387
+00:05:21,880 --> 00:05:23,390
+could have done it either way in Cloud
+Code before, but it just makes it so
+
+388
+00:05:23,390 --> 00:05:23,400
+Code before, but it just makes it so
+ 
+
+389
+00:05:23,400 --> 00:05:25,310
+Code before, but it just makes it so
+much easier to share designs, comment on
+
+390
+00:05:25,310 --> 00:05:25,320
+much easier to share designs, comment on
+ 
+
+391
+00:05:25,320 --> 00:05:27,430
+much easier to share designs, comment on
+things. We've been loving Cloud Design
+
+392
+00:05:27,430 --> 00:05:27,440
+things. We've been loving Cloud Design
+ 
+
+393
+00:05:27,440 --> 00:05:30,070
+things. We've been loving Cloud Design
+for specific use cases. Okay, so now
+
+394
+00:05:30,070 --> 00:05:30,080
+for specific use cases. Okay, so now
+ 
+
+395
+00:05:30,080 --> 00:05:32,070
+for specific use cases. Okay, so now
+let's get into the experimenting AI
+
+396
+00:05:32,070 --> 00:05:32,080
+let's get into the experimenting AI
+ 
+
+397
+00:05:32,080 --> 00:05:34,870
+let's get into the experimenting AI
+tools. So honestly, Gemini. Gemini and
+
+398
+00:05:34,870 --> 00:05:34,880
+tools. So honestly, Gemini. Gemini and
+ 
+
+399
+00:05:34,880 --> 00:05:36,990
+tools. So honestly, Gemini. Gemini and
+Anti-Gravity, I just don't really use
+
+400
+00:05:36,990 --> 00:05:37,000
+Anti-Gravity, I just don't really use
+ 
+
+401
+00:05:37,000 --> 00:05:38,670
+Anti-Gravity, I just don't really use
+very often. It's not part of my core
+
+402
+00:05:38,670 --> 00:05:38,680
+very often. It's not part of my core
+ 
+
+403
+00:05:38,680 --> 00:05:40,830
+very often. It's not part of my core
+stack. I am using Nano Banana more than
+
+404
+00:05:40,830 --> 00:05:40,840
+stack. I am using Nano Banana more than
+ 
+
+405
+00:05:40,840 --> 00:05:42,870
+stack. I am using Nano Banana more than
+I would go talk to Gemini 3 Pro or
+
+406
+00:05:42,870 --> 00:05:42,880
+I would go talk to Gemini 3 Pro or
+ 
+
+407
+00:05:42,880 --> 00:05:45,030
+I would go talk to Gemini 3 Pro or
+something like that in the actual app.
+
+408
+00:05:45,030 --> 00:05:45,040
+something like that in the actual app.
+ 
+
+409
+00:05:45,040 --> 00:05:46,550
+something like that in the actual app.
+The next one would be Ollama. I don't
+
+410
+00:05:46,550 --> 00:05:46,560
+The next one would be Ollama. I don't
+ 
+
+411
+00:05:46,560 --> 00:05:49,470
+The next one would be Ollama. I don't
+run on local models, but I do use Ollama
+
+412
+00:05:49,470 --> 00:05:49,480
+run on local models, but I do use Ollama
+ 
+
+413
+00:05:49,480 --> 00:05:50,950
+run on local models, but I do use Ollama
+to download stuff or maybe to even use
+
+414
+00:05:50,950 --> 00:05:50,960
+to download stuff or maybe to even use
+ 
+
+415
+00:05:50,960 --> 00:05:52,390
+to download stuff or maybe to even use
+their cloud because I like to play
+
+416
+00:05:52,390 --> 00:05:52,400
+their cloud because I like to play
+ 
+
+417
+00:05:52,400 --> 00:05:53,590
+their cloud because I like to play
+around with the open source models and
+
+418
+00:05:53,590 --> 00:05:53,600
+around with the open source models and
+ 
+
+419
+00:05:53,600 --> 00:05:55,190
+around with the open source models and
+see what's happening. I like to keep
+
+420
+00:05:55,190 --> 00:05:55,200
+see what's happening. I like to keep
+ 
+
+421
+00:05:55,200 --> 00:05:56,630
+see what's happening. I like to keep
+up-to-date and experiment. And then the
+
+422
+00:05:56,630 --> 00:05:56,640
+up-to-date and experiment. And then the
+ 
+
+423
+00:05:56,640 --> 00:05:57,790
+up-to-date and experiment. And then the
+last one that I wanted to throw on this
+
+424
+00:05:57,790 --> 00:05:57,800
+last one that I wanted to throw on this
+ 
+
+425
+00:05:57,800 --> 00:06:00,270
+last one that I wanted to throw on this
+list was Manifold. I really don't use it
+
+426
+00:06:00,270 --> 00:06:00,280
+list was Manifold. I really don't use it
+ 
+
+427
+00:06:00,280 --> 00:06:01,550
+list was Manifold. I really don't use it
+too much, but every once in a while I'll
+
+428
+00:06:01,550 --> 00:06:01,560
+too much, but every once in a while I'll
+ 
+
+429
+00:06:01,560 --> 00:06:02,790
+too much, but every once in a while I'll
+just open it up and test out some
+
+430
+00:06:02,790 --> 00:06:02,800
+just open it up and test out some
+ 
+
+431
+00:06:02,800 --> 00:06:03,830
+just open it up and test out some
+things. I know you guys have been giving
+
+432
+00:06:03,830 --> 00:06:03,840
+things. I know you guys have been giving
+ 
+
+433
+00:06:03,840 --> 00:06:05,750
+things. I know you guys have been giving
+me some comments about Manifold, but
+
+434
+00:06:05,750 --> 00:06:05,760
+me some comments about Manifold, but
+ 
+
+435
+00:06:05,760 --> 00:06:07,030
+me some comments about Manifold, but
+yeah, I mean I think it's a great tool
+
+436
+00:06:07,030 --> 00:06:07,040
+yeah, I mean I think it's a great tool
+ 
+
+437
+00:06:07,040 --> 00:06:08,630
+yeah, I mean I think it's a great tool
+and if you were maybe new to this AI
+
+438
+00:06:08,630 --> 00:06:08,640
+and if you were maybe new to this AI
+ 
+
+439
+00:06:08,640 --> 00:06:09,950
+and if you were maybe new to this AI
+world and you started with Manifold, it
+
+440
+00:06:09,950 --> 00:06:09,960
+world and you started with Manifold, it
+ 
+
+441
+00:06:09,960 --> 00:06:11,430
+world and you started with Manifold, it
+could potentially be your main, you
+
+442
+00:06:11,430 --> 00:06:11,440
+could potentially be your main, you
+ 
+
+443
+00:06:11,440 --> 00:06:13,710
+could potentially be your main, you
+know, S-tier daily driver. But for me, I
+
+444
+00:06:13,710 --> 00:06:13,720
+know, S-tier daily driver. But for me, I
+ 
+
+445
+00:06:13,720 --> 00:06:15,510
+know, S-tier daily driver. But for me, I
+just would prefer to use my Cloud Code.
+
+446
+00:06:15,510 --> 00:06:15,520
+just would prefer to use my Cloud Code.
+ 
+
+447
+00:06:15,520 --> 00:06:16,550
+just would prefer to use my Cloud Code.
+And now you may be wondering what's
+
+448
+00:06:16,550 --> 00:06:16,560
+And now you may be wondering what's
+ 
+
+449
+00:06:16,560 --> 00:06:17,990
+And now you may be wondering what's
+going on with all of these tools down
+
+450
+00:06:17,990 --> 00:06:18,000
+going on with all of these tools down
+ 
+
+451
+00:06:18,000 --> 00:06:19,990
+going on with all of these tools down
+here. These are in a separate category
+
+452
+00:06:19,990 --> 00:06:20,000
+here. These are in a separate category
+ 
+
+453
+00:06:20,000 --> 00:06:22,670
+here. These are in a separate category
+for me, which I would call graduated,
+
+454
+00:06:22,670 --> 00:06:22,680
+for me, which I would call graduated,
+ 
+
+455
+00:06:22,680 --> 00:06:25,430
+for me, which I would call graduated,
+which means they used to be somewhere in
+
+456
+00:06:25,430 --> 00:06:25,440
+which means they used to be somewhere in
+ 
+
+457
+00:06:25,440 --> 00:06:28,070
+which means they used to be somewhere in
+this top four tier list, but now I just
+
+458
+00:06:28,070 --> 00:06:28,080
+this top four tier list, but now I just
+ 
+
+459
+00:06:28,080 --> 00:06:29,790
+this top four tier list, but now I just
+don't really use them anymore. So,
+
+460
+00:06:29,790 --> 00:06:29,800
+don't really use them anymore. So,
+ 
+
+461
+00:06:29,800 --> 00:06:32,110
+don't really use them anymore. So,
+ChatGPT, regular chat, I've graduated.
+
+462
+00:06:32,110 --> 00:06:32,120
+ChatGPT, regular chat, I've graduated.
+ 
+
+463
+00:06:32,120 --> 00:06:33,790
+ChatGPT, regular chat, I've graduated.
+Open Claw, I've graduated. I would say
+
+464
+00:06:33,790 --> 00:06:33,800
+Open Claw, I've graduated. I would say
+ 
+
+465
+00:06:33,800 --> 00:06:35,390
+Open Claw, I've graduated. I would say
+that Hermes has kind of replaced Open
+
+466
+00:06:35,390 --> 00:06:35,400
+that Hermes has kind of replaced Open
+ 
+
+467
+00:06:35,400 --> 00:06:37,270
+that Hermes has kind of replaced Open
+Claw for me. Cursor, I've graduated
+
+468
+00:06:37,270 --> 00:06:37,280
+Claw for me. Cursor, I've graduated
+ 
+
+469
+00:06:37,280 --> 00:06:40,630
+Claw for me. Cursor, I've graduated
+from. Notebook LM, Poppy AI, Anytten,
+
+470
+00:06:40,630 --> 00:06:40,640
+from. Notebook LM, Poppy AI, Anytten,
+ 
+
+471
+00:06:40,640 --> 00:06:42,430
+from. Notebook LM, Poppy AI, Anytten,
+and then WhisperFlow. And one thing I
+
+472
+00:06:42,430 --> 00:06:42,440
+and then WhisperFlow. And one thing I
+ 
+
+473
+00:06:42,440 --> 00:06:44,630
+and then WhisperFlow. And one thing I
+want to say about these graduated tools
+
+474
+00:06:44,630 --> 00:06:44,640
+want to say about these graduated tools
+ 
+
+475
+00:06:44,640 --> 00:06:45,870
+want to say about these graduated tools
+is that this doesn't mean that they are
+
+476
+00:06:45,870 --> 00:06:45,880
+is that this doesn't mean that they are
+ 
+
+477
+00:06:45,880 --> 00:06:47,909
+is that this doesn't mean that they are
+trash. This just means that I no longer
+
+478
+00:06:47,909 --> 00:06:47,919
+trash. This just means that I no longer
+ 
+
+479
+00:06:47,919 --> 00:06:49,750
+trash. This just means that I no longer
+use them. I feel like I've kind of moved
+
+480
+00:06:49,750 --> 00:06:49,760
+use them. I feel like I've kind of moved
+ 
+
+481
+00:06:49,760 --> 00:06:51,310
+use them. I feel like I've kind of moved
+above them. And this could be for many
+
+482
+00:06:51,310 --> 00:06:51,320
+above them. And this could be for many
+ 
+
+483
+00:06:51,320 --> 00:06:52,510
+above them. And this could be for many
+different reasons. Maybe it means that
+
+484
+00:06:52,510 --> 00:06:52,520
+different reasons. Maybe it means that
+ 
+
+485
+00:06:52,520 --> 00:06:53,750
+different reasons. Maybe it means that
+they're a little bit outdated. Maybe it
+
+486
+00:06:53,750 --> 00:06:53,760
+they're a little bit outdated. Maybe it
+ 
+
+487
+00:06:53,760 --> 00:06:55,350
+they're a little bit outdated. Maybe it
+means that they were got replaced. Like
+
+488
+00:06:55,350 --> 00:06:55,360
+means that they were got replaced. Like
+ 
+
+489
+00:06:55,360 --> 00:06:57,430
+means that they were got replaced. Like
+in this case, WhisperFlow 1 million
+
+490
+00:06:57,430 --> 00:06:57,440
+in this case, WhisperFlow 1 million
+ 
+
+491
+00:06:57,440 --> 00:06:59,150
+in this case, WhisperFlow 1 million
+percent has been replaced by Glido. So,
+
+492
+00:06:59,150 --> 00:06:59,160
+percent has been replaced by Glido. So,
+ 
+
+493
+00:06:59,160 --> 00:07:00,470
+percent has been replaced by Glido. So,
+this one we can even just put off to the
+
+494
+00:07:00,470 --> 00:07:00,480
+this one we can even just put off to the
+ 
+
+495
+00:07:00,480 --> 00:07:02,550
+this one we can even just put off to the
+side. But like Anytten, not a bad tool
+
+496
+00:07:02,550 --> 00:07:02,560
+side. But like Anytten, not a bad tool
+ 
+
+497
+00:07:02,560 --> 00:07:04,070
+side. But like Anytten, not a bad tool
+at all. I just prefer now to build
+
+498
+00:07:04,070 --> 00:07:04,080
+at all. I just prefer now to build
+ 
+
+499
+00:07:04,080 --> 00:07:05,790
+at all. I just prefer now to build
+automations in Cloud Code.
+
+500
+00:07:05,790 --> 00:07:05,800
+automations in Cloud Code.
+ 
+
+501
+00:07:05,800 --> 00:07:07,990
+automations in Cloud Code.
+Poppy AI, not a bad tool at all. I just
+
+502
+00:07:07,990 --> 00:07:08,000
+Poppy AI, not a bad tool at all. I just
+ 
+
+503
+00:07:08,000 --> 00:07:09,470
+Poppy AI, not a bad tool at all. I just
+realized that if I want to use Poppy's
+
+504
+00:07:09,470 --> 00:07:09,480
+realized that if I want to use Poppy's
+ 
+
+505
+00:07:09,480 --> 00:07:11,510
+realized that if I want to use Poppy's
+functionality, I could do that better in
+
+506
+00:07:11,510 --> 00:07:11,520
+functionality, I could do that better in
+ 
+
+507
+00:07:11,520 --> 00:07:12,870
+functionality, I could do that better in
+Cloud Code and it can be more customized
+
+508
+00:07:12,870 --> 00:07:12,880
+Cloud Code and it can be more customized
+ 
+
+509
+00:07:12,880 --> 00:07:14,750
+Cloud Code and it can be more customized
+to me and cheaper.
+
+510
+00:07:14,750 --> 00:07:14,760
+to me and cheaper.
+ 
+
+511
+00:07:14,760 --> 00:07:16,030
+to me and cheaper.
+So, sometimes these tools, you know,
+
+512
+00:07:16,030 --> 00:07:16,040
+So, sometimes these tools, you know,
+ 
+
+513
+00:07:16,040 --> 00:07:17,750
+So, sometimes these tools, you know,
+like Notebook LM, they're all very, very
+
+514
+00:07:17,750 --> 00:07:17,760
+like Notebook LM, they're all very, very
+ 
+
+515
+00:07:17,760 --> 00:07:19,230
+like Notebook LM, they're all very, very
+good tools, but what I've done is
+
+516
+00:07:19,230 --> 00:07:19,240
+good tools, but what I've done is
+ 
+
+517
+00:07:19,240 --> 00:07:20,670
+good tools, but what I've done is
+instead of paying for them now, I
+
+518
+00:07:20,670 --> 00:07:20,680
+instead of paying for them now, I
+ 
+
+519
+00:07:20,680 --> 00:07:22,070
+instead of paying for them now, I
+basically have extracted the features
+
+520
+00:07:22,070 --> 00:07:22,080
+basically have extracted the features
+ 
+
+521
+00:07:22,080 --> 00:07:23,710
+basically have extracted the features
+that I like from them and I've worked
+
+522
+00:07:23,710 --> 00:07:23,720
+that I like from them and I've worked
+ 
+
+523
+00:07:23,720 --> 00:07:25,190
+that I like from them and I've worked
+them into my own ecosystem because the
+
+524
+00:07:25,190 --> 00:07:25,200
+them into my own ecosystem because the
+ 
+
+525
+00:07:25,200 --> 00:07:27,270
+them into my own ecosystem because the
+idea really is to keep your tech stack
+
+526
+00:07:27,270 --> 00:07:27,280
+idea really is to keep your tech stack
+ 
+
+527
+00:07:27,280 --> 00:07:29,030
+idea really is to keep your tech stack
+lean. And I know this looks like a lot,
+
+528
+00:07:29,030 --> 00:07:29,040
+lean. And I know this looks like a lot,
+ 
+
+529
+00:07:29,040 --> 00:07:30,550
+lean. And I know this looks like a lot,
+but really, the daily drivers is the
+
+530
+00:07:30,550 --> 00:07:30,560
+but really, the daily drivers is the
+ 
+
+531
+00:07:30,560 --> 00:07:32,430
+but really, the daily drivers is the
+main ones that I use. I could use just
+
+532
+00:07:32,430 --> 00:07:32,440
+main ones that I use. I could use just
+ 
+
+533
+00:07:32,440 --> 00:07:34,510
+main ones that I use. I could use just
+my Cloud Code and my Glido and just work
+
+534
+00:07:34,510 --> 00:07:34,520
+my Cloud Code and my Glido and just work
+ 
+
+535
+00:07:34,520 --> 00:07:36,430
+my Cloud Code and my Glido and just work
+the whole day and be fine. And I really
+
+536
+00:07:36,430 --> 00:07:36,440
+the whole day and be fine. And I really
+ 
+
+537
+00:07:36,440 --> 00:07:37,590
+the whole day and be fine. And I really
+wanted to make this video because I've
+
+538
+00:07:37,590 --> 00:07:37,600
+wanted to make this video because I've
+ 
+
+539
+00:07:37,600 --> 00:07:39,230
+wanted to make this video because I've
+been considering making more content on
+
+540
+00:07:39,230 --> 00:07:39,240
+been considering making more content on
+ 
+
+541
+00:07:39,240 --> 00:07:41,070
+been considering making more content on
+Codex and Hermes Agent and maybe a few
+
+542
+00:07:41,070 --> 00:07:41,080
+Codex and Hermes Agent and maybe a few
+ 
+
+543
+00:07:41,080 --> 00:07:42,310
+Codex and Hermes Agent and maybe a few
+other things, but I don't want to
+
+544
+00:07:42,310 --> 00:07:42,320
+other things, but I don't want to
+ 
+
+545
+00:07:42,320 --> 00:07:43,550
+other things, but I don't want to
+overwhelm you guys, which is why I've
+
+546
+00:07:43,550 --> 00:07:43,560
+overwhelm you guys, which is why I've
+ 
+
+547
+00:07:43,560 --> 00:07:45,110
+overwhelm you guys, which is why I've
+been only on Claude Code for the past
+
+548
+00:07:45,110 --> 00:07:45,120
+been only on Claude Code for the past
+ 
+
+549
+00:07:45,120 --> 00:07:46,550
+been only on Claude Code for the past
+like 3 months. I was trying to stay
+
+550
+00:07:46,550 --> 00:07:46,560
+like 3 months. I was trying to stay
+ 
+
+551
+00:07:46,560 --> 00:07:48,030
+like 3 months. I was trying to stay
+consistent so that you guys could try
+
+552
+00:07:48,030 --> 00:07:48,040
+consistent so that you guys could try
+ 
+
+553
+00:07:48,040 --> 00:07:49,310
+consistent so that you guys could try
+to, you know, keep learning one tool
+
+554
+00:07:49,310 --> 00:07:49,320
+to, you know, keep learning one tool
+ 
+
+555
+00:07:49,320 --> 00:07:50,750
+to, you know, keep learning one tool
+consistently. And I really hope that I'm
+
+556
+00:07:50,750 --> 00:07:50,760
+consistently. And I really hope that I'm
+ 
+
+557
+00:07:50,760 --> 00:07:52,310
+consistently. And I really hope that I'm
+not contributing to your overwhelm and
+
+558
+00:07:52,310 --> 00:07:52,320
+not contributing to your overwhelm and
+ 
+
+559
+00:07:52,320 --> 00:07:53,830
+not contributing to your overwhelm and
+maybe your stress with all this AI stuff
+
+560
+00:07:53,830 --> 00:07:53,840
+maybe your stress with all this AI stuff
+ 
+
+561
+00:07:53,840 --> 00:07:55,350
+maybe your stress with all this AI stuff
+going on. I'm trying to keep you guys
+
+562
+00:07:55,350 --> 00:07:55,360
+going on. I'm trying to keep you guys
+ 
+
+563
+00:07:55,360 --> 00:07:57,990
+going on. I'm trying to keep you guys
+all educated, but I also am able to
+
+564
+00:07:57,990 --> 00:07:58,000
+all educated, but I also am able to
+ 
+
+565
+00:07:58,000 --> 00:07:59,270
+all educated, but I also am able to
+realize that when you see a new video
+
+566
+00:07:59,270 --> 00:07:59,280
+realize that when you see a new video
+ 
+
+567
+00:07:59,280 --> 00:08:00,990
+realize that when you see a new video
+from me every day, it does feel like you
+
+568
+00:08:00,990 --> 00:08:01,000
+from me every day, it does feel like you
+ 
+
+569
+00:08:01,000 --> 00:08:02,790
+from me every day, it does feel like you
+need to watch them all and drown and you
+
+570
+00:08:02,790 --> 00:08:02,800
+need to watch them all and drown and you
+ 
+
+571
+00:08:02,800 --> 00:08:03,950
+need to watch them all and drown and you
+feel a little bit overwhelmed. So, I'm
+
+572
+00:08:03,950 --> 00:08:03,960
+feel a little bit overwhelmed. So, I'm
+ 
+
+573
+00:08:03,960 --> 00:08:05,270
+feel a little bit overwhelmed. So, I'm
+trying to help you guys out here. By the
+
+574
+00:08:05,270 --> 00:08:05,280
+trying to help you guys out here. By the
+ 
+
+575
+00:08:05,280 --> 00:08:06,550
+trying to help you guys out here. By the
+way, guys, I know we're about to cover a
+
+576
+00:08:06,550 --> 00:08:06,560
+way, guys, I know we're about to cover a
+ 
+
+577
+00:08:06,560 --> 00:08:08,190
+way, guys, I know we're about to cover a
+ton of information in this video, so I
+
+578
+00:08:08,190 --> 00:08:08,200
+ton of information in this video, so I
+ 
+
+579
+00:08:08,200 --> 00:08:09,910
+ton of information in this video, so I
+broke all of this down into a free
+
+580
+00:08:09,910 --> 00:08:09,920
+broke all of this down into a free
+ 
+
+581
+00:08:09,920 --> 00:08:11,790
+broke all of this down into a free
+resource guide. All these tools, all
+
+582
+00:08:11,790 --> 00:08:11,800
+resource guide. All these tools, all
+ 
+
+583
+00:08:11,800 --> 00:08:13,110
+resource guide. All these tools, all
+these different frameworks and rules to
+
+584
+00:08:13,110 --> 00:08:13,120
+these different frameworks and rules to
+ 
+
+585
+00:08:13,120 --> 00:08:14,590
+these different frameworks and rules to
+remember, and I put that inside of my
+
+586
+00:08:14,590 --> 00:08:14,600
+remember, and I put that inside of my
+ 
+
+587
+00:08:14,600 --> 00:08:15,909
+remember, and I put that inside of my
+free school community. The link for that
+
+588
+00:08:15,909 --> 00:08:15,919
+free school community. The link for that
+ 
+
+589
+00:08:15,919 --> 00:08:17,710
+free school community. The link for that
+is down in the description. Once again,
+
+590
+00:08:17,710 --> 00:08:17,720
+is down in the description. Once again,
+ 
+
+591
+00:08:17,720 --> 00:08:19,590
+is down in the description. Once again,
+completely free. You join here, you go
+
+592
+00:08:19,590 --> 00:08:19,600
+completely free. You join here, you go
+ 
+
+593
+00:08:19,600 --> 00:08:20,830
+completely free. You join here, you go
+to the classroom, you click on all
+
+594
+00:08:20,830 --> 00:08:20,840
+to the classroom, you click on all
+ 
+
+595
+00:08:20,840 --> 00:08:22,310
+to the classroom, you click on all
+YouTube resources, and you'll be able to
+
+596
+00:08:22,310 --> 00:08:22,320
+YouTube resources, and you'll be able to
+ 
+
+597
+00:08:22,320 --> 00:08:23,750
+YouTube resources, and you'll be able to
+download every resource that I've ever
+
+598
+00:08:23,750 --> 00:08:23,760
+download every resource that I've ever
+ 
+
+599
+00:08:23,760 --> 00:08:25,550
+download every resource that I've ever
+dropped on YouTube for completely free.
+
+600
+00:08:25,550 --> 00:08:25,560
+dropped on YouTube for completely free.
+ 
+
+601
+00:08:25,560 --> 00:08:26,790
+dropped on YouTube for completely free.
+So, hop in the community and let's get
+
+602
+00:08:26,790 --> 00:08:26,800
+So, hop in the community and let's get
+ 
+
+603
+00:08:26,800 --> 00:08:28,430
+So, hop in the community and let's get
+back to the video. Thanks, guys. So,
+
+604
+00:08:28,430 --> 00:08:28,440
+back to the video. Thanks, guys. So,
+ 
+
+605
+00:08:28,440 --> 00:08:29,790
+back to the video. Thanks, guys. So,
+let's talk about some other mindset
+
+606
+00:08:29,790 --> 00:08:29,800
+let's talk about some other mindset
+ 
+
+607
+00:08:29,800 --> 00:08:31,150
+let's talk about some other mindset
+stuff. I've got a couple different key
+
+608
+00:08:31,150 --> 00:08:31,160
+stuff. I've got a couple different key
+ 
+
+609
+00:08:31,160 --> 00:08:32,550
+stuff. I've got a couple different key
+points here that I wanted to hit on,
+
+610
+00:08:32,550 --> 00:08:32,560
+points here that I wanted to hit on,
+ 
+
+611
+00:08:32,560 --> 00:08:34,190
+points here that I wanted to hit on,
+which will hopefully clear up a lot of
+
+612
+00:08:34,190 --> 00:08:34,200
+which will hopefully clear up a lot of
+ 
+
+613
+00:08:34,200 --> 00:08:36,230
+which will hopefully clear up a lot of
+this stuff. So, the first thing is that
+
+614
+00:08:36,230 --> 00:08:36,240
+this stuff. So, the first thing is that
+ 
+
+615
+00:08:36,240 --> 00:08:38,630
+this stuff. So, the first thing is that
+coding agents are just harnesses. These
+
+616
+00:08:38,630 --> 00:08:38,640
+coding agents are just harnesses. These
+ 
+
+617
+00:08:38,640 --> 00:08:39,990
+coding agents are just harnesses. These
+images are kind of funny. It just made
+
+618
+00:08:39,990 --> 00:08:40,000
+images are kind of funny. It just made
+ 
+
+619
+00:08:40,000 --> 00:08:41,550
+images are kind of funny. It just made
+this up. This was GPT image 2, by the
+
+620
+00:08:41,550 --> 00:08:41,560
+this up. This was GPT image 2, by the
+ 
+
+621
+00:08:41,560 --> 00:08:43,190
+this up. This was GPT image 2, by the
+way. But, they're all different on the
+
+622
+00:08:43,190 --> 00:08:43,200
+way. But, they're all different on the
+ 
+
+623
+00:08:43,200 --> 00:08:44,350
+way. But, they're all different on the
+surface, right? They've got different
+
+624
+00:08:44,350 --> 00:08:44,360
+surface, right? They've got different
+ 
+
+625
+00:08:44,360 --> 00:08:45,510
+surface, right? They've got different
+harnesses, they might use different
+
+626
+00:08:45,510 --> 00:08:45,520
+harnesses, they might use different
+ 
+
+627
+00:08:45,520 --> 00:08:46,630
+harnesses, they might use different
+models on the back end, they might have
+
+628
+00:08:46,630 --> 00:08:46,640
+models on the back end, they might have
+ 
+
+629
+00:08:46,640 --> 00:08:47,670
+models on the back end, they might have
+different ways that they use their
+
+630
+00:08:47,670 --> 00:08:47,680
+different ways that they use their
+ 
+
+631
+00:08:47,680 --> 00:08:49,950
+different ways that they use their
+skills, but they're all just harnesses.
+
+632
+00:08:49,950 --> 00:08:49,960
+skills, but they're all just harnesses.
+ 
+
+633
+00:08:49,960 --> 00:08:51,710
+skills, but they're all just harnesses.
+They're all just AI that work inside
+
+634
+00:08:51,710 --> 00:08:51,720
+They're all just AI that work inside
+ 
+
+635
+00:08:51,720 --> 00:08:53,270
+They're all just AI that work inside
+some sort of directory. So, if you have
+
+636
+00:08:53,270 --> 00:08:53,280
+some sort of directory. So, if you have
+ 
+
+637
+00:08:53,280 --> 00:08:54,950
+some sort of directory. So, if you have
+your project with your Claude .md file
+
+638
+00:08:54,950 --> 00:08:54,960
+your project with your Claude .md file
+ 
+
+639
+00:08:54,960 --> 00:08:57,110
+your project with your Claude .md file
+or your agent .md file and your scripts
+
+640
+00:08:57,110 --> 00:08:57,120
+or your agent .md file and your scripts
+ 
+
+641
+00:08:57,120 --> 00:08:58,950
+or your agent .md file and your scripts
+and your skills and whatever, all of
+
+642
+00:08:58,950 --> 00:08:58,960
+and your skills and whatever, all of
+ 
+
+643
+00:08:58,960 --> 00:09:01,390
+and your skills and whatever, all of
+your different agents can work on that
+
+644
+00:09:01,390 --> 00:09:01,400
+your different agents can work on that
+ 
+
+645
+00:09:01,400 --> 00:09:03,910
+your different agents can work on that
+directory. So, I have my main operating
+
+646
+00:09:03,910 --> 00:09:03,920
+directory. So, I have my main operating
+ 
+
+647
+00:09:03,920 --> 00:09:05,550
+directory. So, I have my main operating
+system, right? Like my main project
+
+648
+00:09:05,550 --> 00:09:05,560
+system, right? Like my main project
+ 
+
+649
+00:09:05,560 --> 00:09:07,550
+system, right? Like my main project
+called Herc 2, and I have had Open
+
+650
+00:09:07,550 --> 00:09:07,560
+called Herc 2, and I have had Open
+ 
+
+651
+00:09:07,560 --> 00:09:09,430
+called Herc 2, and I have had Open
+Claude and Hermes and Codex and Claude
+
+652
+00:09:09,430 --> 00:09:09,440
+Claude and Hermes and Codex and Claude
+ 
+
+653
+00:09:09,440 --> 00:09:11,350
+Claude and Hermes and Codex and Claude
+Code all be able to work inside of that
+
+654
+00:09:11,350 --> 00:09:11,360
+Code all be able to work inside of that
+ 
+
+655
+00:09:11,360 --> 00:09:12,670
+Code all be able to work inside of that
+directory. So, they can all do things
+
+656
+00:09:12,670 --> 00:09:12,680
+directory. So, they can all do things
+ 
+
+657
+00:09:12,680 --> 00:09:14,310
+directory. So, they can all do things
+for me in there. And the lesson here is
+
+658
+00:09:14,310 --> 00:09:14,320
+for me in there. And the lesson here is
+ 
+
+659
+00:09:14,320 --> 00:09:15,829
+for me in there. And the lesson here is
+to build directories like they're going
+
+660
+00:09:15,829 --> 00:09:15,839
+to build directories like they're going
+ 
+
+661
+00:09:15,839 --> 00:09:18,110
+to build directories like they're going
+to outlive any tool because they will.
+
+662
+00:09:18,110 --> 00:09:18,120
+to outlive any tool because they will.
+ 
+
+663
+00:09:18,120 --> 00:09:19,270
+to outlive any tool because they will.
+We don't know if Claude Code's going to
+
+664
+00:09:19,270 --> 00:09:19,280
+We don't know if Claude Code's going to
+ 
+
+665
+00:09:19,280 --> 00:09:20,510
+We don't know if Claude Code's going to
+be king in a few months. We don't know
+
+666
+00:09:20,510 --> 00:09:20,520
+be king in a few months. We don't know
+ 
+
+667
+00:09:20,520 --> 00:09:21,790
+be king in a few months. We don't know
+if Codex will be king in a few months.
+
+668
+00:09:21,790 --> 00:09:21,800
+if Codex will be king in a few months.
+ 
+
+669
+00:09:21,800 --> 00:09:23,590
+if Codex will be king in a few months.
+We don't know if some random startup is
+
+670
+00:09:23,590 --> 00:09:23,600
+We don't know if some random startup is
+ 
+
+671
+00:09:23,600 --> 00:09:24,630
+We don't know if some random startup is
+going to, you know, just take over
+
+672
+00:09:24,630 --> 00:09:24,640
+going to, you know, just take over
+ 
+
+673
+00:09:24,640 --> 00:09:26,430
+going to, you know, just take over
+everything. But, what we do know is if
+
+674
+00:09:26,430 --> 00:09:26,440
+everything. But, what we do know is if
+ 
+
+675
+00:09:26,440 --> 00:09:28,110
+everything. But, what we do know is if
+we're creating directories and we're
+
+676
+00:09:28,110 --> 00:09:28,120
+we're creating directories and we're
+ 
+
+677
+00:09:28,120 --> 00:09:29,430
+we're creating directories and we're
+creating our projects and we're keeping
+
+678
+00:09:29,430 --> 00:09:29,440
+creating our projects and we're keeping
+ 
+
+679
+00:09:29,440 --> 00:09:31,630
+creating our projects and we're keeping
+them clean and we're building in them,
+
+680
+00:09:31,630 --> 00:09:31,640
+them clean and we're building in them,
+ 
+
+681
+00:09:31,640 --> 00:09:33,670
+them clean and we're building in them,
+that whatever AI is the new kid on the
+
+682
+00:09:33,670 --> 00:09:33,680
+that whatever AI is the new kid on the
+ 
+
+683
+00:09:33,680 --> 00:09:35,390
+that whatever AI is the new kid on the
+block will be able to plug into it and
+
+684
+00:09:35,390 --> 00:09:35,400
+block will be able to plug into it and
+ 
+
+685
+00:09:35,400 --> 00:09:37,270
+block will be able to plug into it and
+it will be just fine. The next thing I
+
+686
+00:09:37,270 --> 00:09:37,280
+it will be just fine. The next thing I
+ 
+
+687
+00:09:37,280 --> 00:09:39,070
+it will be just fine. The next thing I
+want you guys to think about is what is
+
+688
+00:09:39,070 --> 00:09:39,080
+want you guys to think about is what is
+ 
+
+689
+00:09:39,080 --> 00:09:40,870
+want you guys to think about is what is
+your North Star? Because it's probably
+
+690
+00:09:40,870 --> 00:09:40,880
+your North Star? Because it's probably
+ 
+
+691
+00:09:40,880 --> 00:09:42,470
+your North Star? Because it's probably
+very different from my North Star. You
+
+692
+00:09:42,470 --> 00:09:42,480
+very different from my North Star. You
+ 
+
+693
+00:09:42,480 --> 00:09:43,430
+very different from my North Star. You
+know, obviously I've got a bunch of
+
+694
+00:09:43,430 --> 00:09:43,440
+know, obviously I've got a bunch of
+ 
+
+695
+00:09:43,440 --> 00:09:44,990
+know, obviously I've got a bunch of
+business goals with what we're building
+
+696
+00:09:44,990 --> 00:09:45,000
+business goals with what we're building
+ 
+
+697
+00:09:45,000 --> 00:09:46,510
+business goals with what we're building
+out with AI Automation Society and our
+
+698
+00:09:46,510 --> 00:09:46,520
+out with AI Automation Society and our
+ 
+
+699
+00:09:46,520 --> 00:09:48,830
+out with AI Automation Society and our
+certifications and our events, but my
+
+700
+00:09:48,830 --> 00:09:48,840
+certifications and our events, but my
+ 
+
+701
+00:09:48,840 --> 00:09:51,150
+certifications and our events, but my
+North Star when it comes to YouTube is
+
+702
+00:09:51,150 --> 00:09:51,160
+North Star when it comes to YouTube is
+ 
+
+703
+00:09:51,160 --> 00:09:52,830
+North Star when it comes to YouTube is
+test out every tool,
+
+704
+00:09:52,830 --> 00:09:52,840
+test out every tool,
+ 
+
+705
+00:09:52,840 --> 00:09:54,470
+test out every tool,
+form my own opinions, and share with you
+
+706
+00:09:54,470 --> 00:09:54,480
+form my own opinions, and share with you
+ 
+
+707
+00:09:54,480 --> 00:09:56,110
+form my own opinions, and share with you
+guys what I think is interesting to
+
+708
+00:09:56,110 --> 00:09:56,120
+guys what I think is interesting to
+ 
+
+709
+00:09:56,120 --> 00:09:57,270
+guys what I think is interesting to
+know.
+
+710
+00:09:57,270 --> 00:09:57,280
+know.
+ 
+
+711
+00:09:57,280 --> 00:09:59,510
+know.
+And so that North Star for me means I
+
+712
+00:09:59,510 --> 00:09:59,520
+And so that North Star for me means I
+ 
+
+713
+00:09:59,520 --> 00:10:01,310
+And so that North Star for me means I
+test out a lot of stuff. I jump on
+
+714
+00:10:01,310 --> 00:10:01,320
+test out a lot of stuff. I jump on
+ 
+
+715
+00:10:01,320 --> 00:10:03,550
+test out a lot of stuff. I jump on
+announcements. I have to experiment. And
+
+716
+00:10:03,550 --> 00:10:03,560
+announcements. I have to experiment. And
+ 
+
+717
+00:10:03,560 --> 00:10:04,630
+announcements. I have to experiment. And
+that doesn't mean that you have to.
+
+718
+00:10:04,630 --> 00:10:04,640
+that doesn't mean that you have to.
+ 
+
+719
+00:10:04,640 --> 00:10:06,150
+that doesn't mean that you have to.
+Because if your star is building a
+
+720
+00:10:06,150 --> 00:10:06,160
+Because if your star is building a
+ 
+
+721
+00:10:06,160 --> 00:10:07,710
+Because if your star is building a
+business or a company that does X really
+
+722
+00:10:07,710 --> 00:10:07,720
+business or a company that does X really
+ 
+
+723
+00:10:07,720 --> 00:10:10,030
+business or a company that does X really
+good, like what is the mission, then is
+
+724
+00:10:10,030 --> 00:10:10,040
+good, like what is the mission, then is
+ 
+
+725
+00:10:10,040 --> 00:10:12,030
+good, like what is the mission, then is
+every single new hot framework or every
+
+726
+00:10:12,030 --> 00:10:12,040
+every single new hot framework or every
+ 
+
+727
+00:10:12,040 --> 00:10:13,510
+every single new hot framework or every
+single new model or trending tool or
+
+728
+00:10:13,510 --> 00:10:13,520
+single new model or trending tool or
+ 
+
+729
+00:10:13,520 --> 00:10:15,590
+single new model or trending tool or
+latest feature is that actually your
+
+730
+00:10:15,590 --> 00:10:15,600
+latest feature is that actually your
+ 
+
+731
+00:10:15,600 --> 00:10:17,270
+latest feature is that actually your
+path to the North Star or is that just a
+
+732
+00:10:17,270 --> 00:10:17,280
+path to the North Star or is that just a
+ 
+
+733
+00:10:17,280 --> 00:10:18,990
+path to the North Star or is that just a
+distraction? Like the number one mistake
+
+734
+00:10:18,990 --> 00:10:19,000
+distraction? Like the number one mistake
+ 
+
+735
+00:10:19,000 --> 00:10:20,790
+distraction? Like the number one mistake
+that entrepreneurs make is they get
+
+736
+00:10:20,790 --> 00:10:20,800
+that entrepreneurs make is they get
+ 
+
+737
+00:10:20,800 --> 00:10:22,390
+that entrepreneurs make is they get
+distracted and they try to do too much.
+
+738
+00:10:22,390 --> 00:10:22,400
+distracted and they try to do too much.
+ 
+
+739
+00:10:22,400 --> 00:10:24,150
+distracted and they try to do too much.
+So really the idea would be, okay, I'm
+
+740
+00:10:24,150 --> 00:10:24,160
+So really the idea would be, okay, I'm
+ 
+
+741
+00:10:24,160 --> 00:10:25,550
+So really the idea would be, okay, I'm
+just going to stay on this path. I'm
+
+742
+00:10:25,550 --> 00:10:25,560
+just going to stay on this path. I'm
+ 
+
+743
+00:10:25,560 --> 00:10:27,310
+just going to stay on this path. I'm
+going to save links to YouTube videos
+
+744
+00:10:27,310 --> 00:10:27,320
+going to save links to YouTube videos
+ 
+
+745
+00:10:27,320 --> 00:10:29,670
+going to save links to YouTube videos
+that Nate drops. I'm going to save these
+
+746
+00:10:29,670 --> 00:10:29,680
+that Nate drops. I'm going to save these
+ 
+
+747
+00:10:29,680 --> 00:10:31,390
+that Nate drops. I'm going to save these
+Twitter threads for later and just kind
+
+748
+00:10:31,390 --> 00:10:31,400
+Twitter threads for later and just kind
+ 
+
+749
+00:10:31,400 --> 00:10:32,710
+Twitter threads for later and just kind
+of remember that they're there. But I
+
+750
+00:10:32,710 --> 00:10:32,720
+of remember that they're there. But I
+ 
+
+751
+00:10:32,720 --> 00:10:34,430
+of remember that they're there. But I
+don't need to actually go learn all of
+
+752
+00:10:34,430 --> 00:10:34,440
+don't need to actually go learn all of
+ 
+
+753
+00:10:34,440 --> 00:10:35,750
+don't need to actually go learn all of
+these new features. Maybe I'll watch
+
+754
+00:10:35,750 --> 00:10:35,760
+these new features. Maybe I'll watch
+ 
+
+755
+00:10:35,760 --> 00:10:37,550
+these new features. Maybe I'll watch
+Nate's, you know, 10-minute video, but
+
+756
+00:10:37,550 --> 00:10:37,560
+Nate's, you know, 10-minute video, but
+ 
+
+757
+00:10:37,560 --> 00:10:38,710
+Nate's, you know, 10-minute video, but
+that doesn't mean I have to dedicate my
+
+758
+00:10:38,710 --> 00:10:38,720
+that doesn't mean I have to dedicate my
+ 
+
+759
+00:10:38,720 --> 00:10:40,430
+that doesn't mean I have to dedicate my
+whole next day to learning and building
+
+760
+00:10:40,430 --> 00:10:40,440
+whole next day to learning and building
+ 
+
+761
+00:10:40,440 --> 00:10:41,630
+whole next day to learning and building
+what he showed. There's a difference
+
+762
+00:10:41,630 --> 00:10:41,640
+what he showed. There's a difference
+ 
+
+763
+00:10:41,640 --> 00:10:43,270
+what he showed. There's a difference
+between knowing the what and knowing the
+
+764
+00:10:43,270 --> 00:10:43,280
+between knowing the what and knowing the
+ 
+
+765
+00:10:43,280 --> 00:10:45,030
+between knowing the what and knowing the
+how. And sometimes you only need to know
+
+766
+00:10:45,030 --> 00:10:45,040
+how. And sometimes you only need to know
+ 
+
+767
+00:10:45,040 --> 00:10:46,670
+how. And sometimes you only need to know
+all the what's. You don't need to know
+
+768
+00:10:46,670 --> 00:10:46,680
+all the what's. You don't need to know
+ 
+
+769
+00:10:46,680 --> 00:10:48,470
+all the what's. You don't need to know
+the how's. And I've got another point
+
+770
+00:10:48,470 --> 00:10:48,480
+the how's. And I've got another point
+ 
+
+771
+00:10:48,480 --> 00:10:49,550
+the how's. And I've got another point
+which is kind of like the decision
+
+772
+00:10:49,550 --> 00:10:49,560
+which is kind of like the decision
+ 
+
+773
+00:10:49,560 --> 00:10:50,590
+which is kind of like the decision
+framework and I'll touch on that in a
+
+774
+00:10:50,590 --> 00:10:50,600
+framework and I'll touch on that in a
+ 
+
+775
+00:10:50,600 --> 00:10:52,750
+framework and I'll touch on that in a
+bit, but hopefully this alone will make
+
+776
+00:10:52,750 --> 00:10:52,760
+bit, but hopefully this alone will make
+ 
+
+777
+00:10:52,760 --> 00:10:54,270
+bit, but hopefully this alone will make
+you guys think, "Wow, you know, there is
+
+778
+00:10:54,270 --> 00:10:54,280
+you guys think, "Wow, you know, there is
+ 
+
+779
+00:10:54,280 --> 00:10:55,150
+you guys think, "Wow, you know, there is
+a lot of things that I've just
+
+780
+00:10:55,150 --> 00:10:55,160
+a lot of things that I've just
+ 
+
+781
+00:10:55,160 --> 00:10:56,710
+a lot of things that I've just
+experimented with and I don't know why.
+
+782
+00:10:56,710 --> 00:10:56,720
+experimented with and I don't know why.
+ 
+
+783
+00:10:56,720 --> 00:10:58,150
+experimented with and I don't know why.
+I don't even have a use case for that."
+
+784
+00:10:58,150 --> 00:10:58,160
+I don't even have a use case for that."
+ 
+
+785
+00:10:58,160 --> 00:11:00,230
+I don't even have a use case for that."
+This next one is the 20% productivity
+
+786
+00:11:00,230 --> 00:11:00,240
+This next one is the 20% productivity
+ 
+
+787
+00:11:00,240 --> 00:11:02,310
+This next one is the 20% productivity
+dip rule. So basically it's the idea
+
+788
+00:11:02,310 --> 00:11:02,320
+dip rule. So basically it's the idea
+ 
+
+789
+00:11:02,320 --> 00:11:04,070
+dip rule. So basically it's the idea
+that every single time you make a switch
+
+790
+00:11:04,070 --> 00:11:04,080
+that every single time you make a switch
+ 
+
+791
+00:11:04,080 --> 00:11:06,070
+that every single time you make a switch
+in your business, you are going to maybe
+
+792
+00:11:06,070 --> 00:11:06,080
+in your business, you are going to maybe
+ 
+
+793
+00:11:06,080 --> 00:11:08,710
+in your business, you are going to maybe
+lose about 20% of your efficiency or,
+
+794
+00:11:08,710 --> 00:11:08,720
+lose about 20% of your efficiency or,
+ 
+
+795
+00:11:08,720 --> 00:11:09,710
+lose about 20% of your efficiency or,
+you know, whatever metric you're
+
+796
+00:11:09,710 --> 00:11:09,720
+you know, whatever metric you're
+ 
+
+797
+00:11:09,720 --> 00:11:10,990
+you know, whatever metric you're
+thinking about. You're going to take a
+
+798
+00:11:10,990 --> 00:11:11,000
+thinking about. You're going to take a
+ 
+
+799
+00:11:11,000 --> 00:11:13,590
+thinking about. You're going to take a
+20% dip because change is change and it
+
+800
+00:11:13,590 --> 00:11:13,600
+20% dip because change is change and it
+ 
+
+801
+00:11:13,600 --> 00:11:15,270
+20% dip because change is change and it
+can be hard sometimes. So what you have
+
+802
+00:11:15,270 --> 00:11:15,280
+can be hard sometimes. So what you have
+ 
+
+803
+00:11:15,280 --> 00:11:17,030
+can be hard sometimes. So what you have
+to figure out is, if I'm going to make
+
+804
+00:11:17,030 --> 00:11:17,040
+to figure out is, if I'm going to make
+ 
+
+805
+00:11:17,040 --> 00:11:18,710
+to figure out is, if I'm going to make
+this change and I'm going to guarantee
+
+806
+00:11:18,710 --> 00:11:18,720
+this change and I'm going to guarantee
+ 
+
+807
+00:11:18,720 --> 00:11:20,790
+this change and I'm going to guarantee
+have some sort of dip in productivity,
+
+808
+00:11:20,790 --> 00:11:20,800
+have some sort of dip in productivity,
+ 
+
+809
+00:11:20,800 --> 00:11:22,990
+have some sort of dip in productivity,
+is that dip going to ultimately take me
+
+810
+00:11:22,990 --> 00:11:23,000
+is that dip going to ultimately take me
+ 
+
+811
+00:11:23,000 --> 00:11:24,350
+is that dip going to ultimately take me
+higher than where I would have been? As
+
+812
+00:11:24,350 --> 00:11:24,360
+higher than where I would have been? As
+ 
+
+813
+00:11:24,360 --> 00:11:26,310
+higher than where I would have been? As
+you can see, the blue line is worth it
+
+814
+00:11:26,310 --> 00:11:26,320
+you can see, the blue line is worth it
+ 
+
+815
+00:11:26,320 --> 00:11:28,110
+you can see, the blue line is worth it
+and the red line is not worth it. If the
+
+816
+00:11:28,110 --> 00:11:28,120
+and the red line is not worth it. If the
+ 
+
+817
+00:11:28,120 --> 00:11:30,030
+and the red line is not worth it. If the
+dip only gets you back up to the same
+
+818
+00:11:30,030 --> 00:11:30,040
+dip only gets you back up to the same
+ 
+
+819
+00:11:30,040 --> 00:11:31,670
+dip only gets you back up to the same
+green line, then that's also not worth
+
+820
+00:11:31,670 --> 00:11:31,680
+green line, then that's also not worth
+ 
+
+821
+00:11:31,680 --> 00:11:33,510
+green line, then that's also not worth
+it. It wasn't worth the dip. So, if you
+
+822
+00:11:33,510 --> 00:11:33,520
+it. It wasn't worth the dip. So, if you
+ 
+
+823
+00:11:33,520 --> 00:11:34,870
+it. It wasn't worth the dip. So, if you
+know that the dip will actually boost
+
+824
+00:11:34,870 --> 00:11:34,880
+know that the dip will actually boost
+ 
+
+825
+00:11:34,880 --> 00:11:36,470
+know that the dip will actually boost
+you above and take your business, you
+
+826
+00:11:36,470 --> 00:11:36,480
+you above and take your business, you
+ 
+
+827
+00:11:36,480 --> 00:11:38,110
+you above and take your business, you
+know, maybe break through a plateau or
+
+828
+00:11:38,110 --> 00:11:38,120
+know, maybe break through a plateau or
+ 
+
+829
+00:11:38,120 --> 00:11:39,430
+know, maybe break through a plateau or
+push to another level that you couldn't
+
+830
+00:11:39,430 --> 00:11:39,440
+push to another level that you couldn't
+ 
+
+831
+00:11:39,440 --> 00:11:41,310
+push to another level that you couldn't
+have reached before without that dip,
+
+832
+00:11:41,310 --> 00:11:41,320
+have reached before without that dip,
+ 
+
+833
+00:11:41,320 --> 00:11:42,390
+have reached before without that dip,
+then that's how you know it's something
+
+834
+00:11:42,390 --> 00:11:42,400
+then that's how you know it's something
+ 
+
+835
+00:11:42,400 --> 00:11:43,950
+then that's how you know it's something
+worth doing. Okay, then we have
+
+836
+00:11:43,950 --> 00:11:43,960
+worth doing. Okay, then we have
+ 
+
+837
+00:11:43,960 --> 00:11:46,390
+worth doing. Okay, then we have
+productivity is needle moved per hour,
+
+838
+00:11:46,390 --> 00:11:46,400
+productivity is needle moved per hour,
+ 
+
+839
+00:11:46,400 --> 00:11:48,550
+productivity is needle moved per hour,
+not hours worked. I fallen into this
+
+840
+00:11:48,550 --> 00:11:48,560
+not hours worked. I fallen into this
+ 
+
+841
+00:11:48,560 --> 00:11:49,910
+not hours worked. I fallen into this
+trap. I think a lot of you guys in my
+
+842
+00:11:49,910 --> 00:11:49,920
+trap. I think a lot of you guys in my
+ 
+
+843
+00:11:49,920 --> 00:11:51,190
+trap. I think a lot of you guys in my
+community have fallen into this trap as
+
+844
+00:11:51,190 --> 00:11:51,200
+community have fallen into this trap as
+ 
+
+845
+00:11:51,200 --> 00:11:53,670
+community have fallen into this trap as
+well. You work a 12-hour day. You think,
+
+846
+00:11:53,670 --> 00:11:53,680
+well. You work a 12-hour day. You think,
+ 
+
+847
+00:11:53,680 --> 00:11:55,870
+well. You work a 12-hour day. You think,
+"Damn, I was productive today." But,
+
+848
+00:11:55,870 --> 00:11:55,880
+"Damn, I was productive today." But,
+ 
+
+849
+00:11:55,880 --> 00:11:57,590
+"Damn, I was productive today." But,
+what you don't realize is like, were
+
+850
+00:11:57,590 --> 00:11:57,600
+what you don't realize is like, were
+ 
+
+851
+00:11:57,600 --> 00:11:59,190
+what you don't realize is like, were
+you? Because I could maybe sit down for
+
+852
+00:11:59,190 --> 00:11:59,200
+you? Because I could maybe sit down for
+ 
+
+853
+00:11:59,200 --> 00:12:01,230
+you? Because I could maybe sit down for
+4 hours and be more productive than you
+
+854
+00:12:01,230 --> 00:12:01,240
+4 hours and be more productive than you
+ 
+
+855
+00:12:01,240 --> 00:12:03,270
+4 hours and be more productive than you
+in 12 hours because I'm actually doing
+
+856
+00:12:03,270 --> 00:12:03,280
+in 12 hours because I'm actually doing
+ 
+
+857
+00:12:03,280 --> 00:12:04,590
+in 12 hours because I'm actually doing
+everything that actually moves the
+
+858
+00:12:04,590 --> 00:12:04,600
+everything that actually moves the
+ 
+
+859
+00:12:04,600 --> 00:12:05,590
+everything that actually moves the
+needle.
+
+860
+00:12:05,590 --> 00:12:05,600
+needle.
+ 
+
+861
+00:12:05,600 --> 00:12:07,270
+needle.
+Rather than 12 hours of responding to a
+
+862
+00:12:07,270 --> 00:12:07,280
+Rather than 12 hours of responding to a
+ 
+
+863
+00:12:07,280 --> 00:12:08,670
+Rather than 12 hours of responding to a
+bunch of threads, reading through
+
+864
+00:12:08,670 --> 00:12:08,680
+bunch of threads, reading through
+ 
+
+865
+00:12:08,680 --> 00:12:10,190
+bunch of threads, reading through
+community posts, watching YouTube
+
+866
+00:12:10,190 --> 00:12:10,200
+community posts, watching YouTube
+ 
+
+867
+00:12:10,200 --> 00:12:11,870
+community posts, watching YouTube
+videos, just like planning out a bunch
+
+868
+00:12:11,870 --> 00:12:11,880
+videos, just like planning out a bunch
+ 
+
+869
+00:12:11,880 --> 00:12:12,870
+videos, just like planning out a bunch
+of stuff, but not actually doing
+
+870
+00:12:12,870 --> 00:12:12,880
+of stuff, but not actually doing
+ 
+
+871
+00:12:12,880 --> 00:12:14,270
+of stuff, but not actually doing
+anything. So, this kind of relates back
+
+872
+00:12:14,270 --> 00:12:14,280
+anything. So, this kind of relates back
+ 
+
+873
+00:12:14,280 --> 00:12:15,950
+anything. So, this kind of relates back
+to that North Star thing. Let's say
+
+874
+00:12:15,950 --> 00:12:15,960
+to that North Star thing. Let's say
+ 
+
+875
+00:12:15,960 --> 00:12:17,190
+to that North Star thing. Let's say
+every day you sit down in the morning
+
+876
+00:12:17,190 --> 00:12:17,200
+every day you sit down in the morning
+ 
+
+877
+00:12:17,200 --> 00:12:18,270
+every day you sit down in the morning
+and you say, "Okay, by the end of the
+
+878
+00:12:18,270 --> 00:12:18,280
+and you say, "Okay, by the end of the
+ 
+
+879
+00:12:18,280 --> 00:12:20,910
+and you say, "Okay, by the end of the
+day, I want to achieve X." Every single
+
+880
+00:12:20,910 --> 00:12:20,920
+day, I want to achieve X." Every single
+ 
+
+881
+00:12:20,920 --> 00:12:22,230
+day, I want to achieve X." Every single
+thing that you want to do that day
+
+882
+00:12:22,230 --> 00:12:22,240
+thing that you want to do that day
+ 
+
+883
+00:12:22,240 --> 00:12:24,590
+thing that you want to do that day
+should be driving towards achieving X.
+
+884
+00:12:24,590 --> 00:12:24,600
+should be driving towards achieving X.
+ 
+
+885
+00:12:24,600 --> 00:12:25,950
+should be driving towards achieving X.
+And then maybe once you've achieved X,
+
+886
+00:12:25,950 --> 00:12:25,960
+And then maybe once you've achieved X,
+ 
+
+887
+00:12:25,960 --> 00:12:27,350
+And then maybe once you've achieved X,
+then you can spend some other time like
+
+888
+00:12:27,350 --> 00:12:27,360
+then you can spend some other time like
+ 
+
+889
+00:12:27,360 --> 00:12:28,550
+then you can spend some other time like
+looking into some new features and
+
+890
+00:12:28,550 --> 00:12:28,560
+looking into some new features and
+ 
+
+891
+00:12:28,560 --> 00:12:30,110
+looking into some new features and
+experimenting with some stuff. But,
+
+892
+00:12:30,110 --> 00:12:30,120
+experimenting with some stuff. But,
+ 
+
+893
+00:12:30,120 --> 00:12:31,510
+experimenting with some stuff. But,
+productivity means that you're actually
+
+894
+00:12:31,510 --> 00:12:31,520
+productivity means that you're actually
+ 
+
+895
+00:12:31,520 --> 00:12:33,510
+productivity means that you're actually
+doing things that are moving the needle
+
+896
+00:12:33,510 --> 00:12:33,520
+doing things that are moving the needle
+ 
+
+897
+00:12:33,520 --> 00:12:36,829
+doing things that are moving the needle
+for you. Not how long did you work
+
+898
+00:12:36,829 --> 00:12:36,839
+for you. Not how long did you work
+ 
+
+899
+00:12:36,839 --> 00:12:38,590
+for you. Not how long did you work
+today? Okay, so this one kind of goes
+
+900
+00:12:38,590 --> 00:12:38,600
+today? Okay, so this one kind of goes
+ 
+
+901
+00:12:38,600 --> 00:12:40,110
+today? Okay, so this one kind of goes
+back to that first point about the fact
+
+902
+00:12:40,110 --> 00:12:40,120
+back to that first point about the fact
+ 
+
+903
+00:12:40,120 --> 00:12:41,630
+back to that first point about the fact
+that all agents and agent harnesses are
+
+904
+00:12:41,630 --> 00:12:41,640
+that all agents and agent harnesses are
+ 
+
+905
+00:12:41,640 --> 00:12:43,470
+that all agents and agent harnesses are
+just different harnesses and they all
+
+906
+00:12:43,470 --> 00:12:43,480
+just different harnesses and they all
+ 
+
+907
+00:12:43,480 --> 00:12:45,430
+just different harnesses and they all
+work in your same stuff. Because the
+
+908
+00:12:45,430 --> 00:12:45,440
+work in your same stuff. Because the
+ 
+
+909
+00:12:45,440 --> 00:12:46,950
+work in your same stuff. Because the
+mindset here, which is something that
+
+910
+00:12:46,950 --> 00:12:46,960
+mindset here, which is something that
+ 
+
+911
+00:12:46,960 --> 00:12:47,950
+mindset here, which is something that
+I've been thinking a lot about. I've
+
+912
+00:12:47,950 --> 00:12:47,960
+I've been thinking a lot about. I've
+ 
+
+913
+00:12:47,960 --> 00:12:49,030
+I've been thinking a lot about. I've
+been building out frameworks, we're
+
+914
+00:12:49,030 --> 00:12:49,040
+been building out frameworks, we're
+ 
+
+915
+00:12:49,040 --> 00:12:50,270
+been building out frameworks, we're
+building a certification program, we're
+
+916
+00:12:50,270 --> 00:12:50,280
+building a certification program, we're
+ 
+
+917
+00:12:50,280 --> 00:12:51,630
+building a certification program, we're
+doing all this, and our thinking is
+
+918
+00:12:51,630 --> 00:12:51,640
+doing all this, and our thinking is
+ 
+
+919
+00:12:51,640 --> 00:12:53,510
+doing all this, and our thinking is
+basically what Jeff Bezos said.
+
+920
+00:12:53,510 --> 00:12:53,520
+basically what Jeff Bezos said.
+ 
+
+921
+00:12:53,520 --> 00:12:56,190
+basically what Jeff Bezos said.
+Think about what will never change, not
+
+922
+00:12:56,190 --> 00:12:56,200
+Think about what will never change, not
+ 
+
+923
+00:12:56,200 --> 00:12:57,910
+Think about what will never change, not
+what will change. And so, if you can
+
+924
+00:12:57,910 --> 00:12:57,920
+what will change. And so, if you can
+ 
+
+925
+00:12:57,920 --> 00:12:59,790
+what will change. And so, if you can
+become tool agnostic in the way that you
+
+926
+00:12:59,790 --> 00:12:59,800
+become tool agnostic in the way that you
+ 
+
+927
+00:12:59,800 --> 00:13:01,870
+become tool agnostic in the way that you
+work, that means, "Okay, let's say
+
+928
+00:13:01,870 --> 00:13:01,880
+work, that means, "Okay, let's say
+ 
+
+929
+00:13:01,880 --> 00:13:03,190
+work, that means, "Okay, let's say
+Claude Coach shut down tomorrow. Are you
+
+930
+00:13:03,190 --> 00:13:03,200
+Claude Coach shut down tomorrow. Are you
+ 
+
+931
+00:13:03,200 --> 00:13:04,990
+Claude Coach shut down tomorrow. Are you
+okay? Could you pick up Code X? Could
+
+932
+00:13:04,990 --> 00:13:05,000
+okay? Could you pick up Code X? Could
+ 
+
+933
+00:13:05,000 --> 00:13:06,310
+okay? Could you pick up Code X? Could
+you pick up something else? Could you
+
+934
+00:13:06,310 --> 00:13:06,320
+you pick up something else? Could you
+ 
+
+935
+00:13:06,320 --> 00:13:07,950
+you pick up something else? Could you
+keep working? Could you be okay?" And if
+
+936
+00:13:07,950 --> 00:13:07,960
+keep working? Could you be okay?" And if
+ 
+
+937
+00:13:07,960 --> 00:13:08,870
+keep working? Could you be okay?" And if
+the answer is no, you might want to
+
+938
+00:13:08,870 --> 00:13:08,880
+the answer is no, you might want to
+ 
+
+939
+00:13:08,880 --> 00:13:10,870
+the answer is no, you might want to
+think about things, right? Cuz like, if
+
+940
+00:13:10,870 --> 00:13:10,880
+think about things, right? Cuz like, if
+ 
+
+941
+00:13:10,880 --> 00:13:12,190
+think about things, right? Cuz like, if
+you're one of those people where I mean,
+
+942
+00:13:12,190 --> 00:13:12,200
+you're one of those people where I mean,
+ 
+
+943
+00:13:12,200 --> 00:13:13,390
+you're one of those people where I mean,
+I've been there,
+
+944
+00:13:13,390 --> 00:13:13,400
+I've been there,
+ 
+
+945
+00:13:13,400 --> 00:13:15,230
+I've been there,
+Claude goes down. Like, the status page
+
+946
+00:13:15,230 --> 00:13:15,240
+Claude goes down. Like, the status page
+ 
+
+947
+00:13:15,240 --> 00:13:16,990
+Claude goes down. Like, the status page
+is down, the API's throttled, you can't
+
+948
+00:13:16,990 --> 00:13:17,000
+is down, the API's throttled, you can't
+ 
+
+949
+00:13:17,000 --> 00:13:18,430
+is down, the API's throttled, you can't
+use Claude. Are you just sitting there
+
+950
+00:13:18,430 --> 00:13:18,440
+use Claude. Are you just sitting there
+ 
+
+951
+00:13:18,440 --> 00:13:20,110
+use Claude. Are you just sitting there
+like, "Oh my god, I can't work anymore.
+
+952
+00:13:20,110 --> 00:13:20,120
+like, "Oh my god, I can't work anymore.
+ 
+
+953
+00:13:20,120 --> 00:13:21,790
+like, "Oh my god, I can't work anymore.
+I have to wait till it's back up."
+
+954
+00:13:21,790 --> 00:13:21,800
+I have to wait till it's back up."
+ 
+
+955
+00:13:21,800 --> 00:13:22,829
+I have to wait till it's back up."
+Because if that happens, then you're
+
+956
+00:13:22,829 --> 00:13:22,839
+Because if that happens, then you're
+ 
+
+957
+00:13:22,839 --> 00:13:24,150
+Because if that happens, then you're
+probably not in a great spot. You
+
+958
+00:13:24,150 --> 00:13:24,160
+probably not in a great spot. You
+ 
+
+959
+00:13:24,160 --> 00:13:26,070
+probably not in a great spot. You
+probably want to be learning how to plug
+
+960
+00:13:26,070 --> 00:13:26,080
+probably want to be learning how to plug
+ 
+
+961
+00:13:26,080 --> 00:13:27,870
+probably want to be learning how to plug
+in a few other things into your main
+
+962
+00:13:27,870 --> 00:13:27,880
+in a few other things into your main
+ 
+
+963
+00:13:27,880 --> 00:13:29,670
+in a few other things into your main
+stack, into your main working directory.
+
+964
+00:13:29,670 --> 00:13:29,680
+stack, into your main working directory.
+ 
+
+965
+00:13:29,680 --> 00:13:31,390
+stack, into your main working directory.
+And what you'll realize is that you have
+
+966
+00:13:31,390 --> 00:13:31,400
+And what you'll realize is that you have
+ 
+
+967
+00:13:31,400 --> 00:13:33,670
+And what you'll realize is that you have
+overall job responsibilities or
+
+968
+00:13:33,670 --> 00:13:33,680
+overall job responsibilities or
+ 
+
+969
+00:13:33,680 --> 00:13:35,550
+overall job responsibilities or
+functions or processes. And what happens
+
+970
+00:13:35,550 --> 00:13:35,560
+functions or processes. And what happens
+ 
+
+971
+00:13:35,560 --> 00:13:36,990
+functions or processes. And what happens
+in a process is that it's basically
+
+972
+00:13:36,990 --> 00:13:37,000
+in a process is that it's basically
+ 
+
+973
+00:13:37,000 --> 00:13:39,230
+in a process is that it's basically
+built up of a bunch of different mini
+
+974
+00:13:39,230 --> 00:13:39,240
+built up of a bunch of different mini
+ 
+
+975
+00:13:39,240 --> 00:13:40,950
+built up of a bunch of different mini
+tasks. And usually the right question
+
+976
+00:13:40,950 --> 00:13:40,960
+tasks. And usually the right question
+ 
+
+977
+00:13:40,960 --> 00:13:43,350
+tasks. And usually the right question
+isn't which tool is best, the right
+
+978
+00:13:43,350 --> 00:13:43,360
+isn't which tool is best, the right
+ 
+
+979
+00:13:43,360 --> 00:13:46,030
+isn't which tool is best, the right
+question is for this specific task in
+
+980
+00:13:46,030 --> 00:13:46,040
+question is for this specific task in
+ 
+
+981
+00:13:46,040 --> 00:13:47,910
+question is for this specific task in
+this specific context, which tool is
+
+982
+00:13:47,910 --> 00:13:47,920
+this specific context, which tool is
+ 
+
+983
+00:13:47,920 --> 00:13:49,790
+this specific context, which tool is
+best. So here's a quick example, right?
+
+984
+00:13:49,790 --> 00:13:49,800
+best. So here's a quick example, right?
+ 
+
+985
+00:13:49,800 --> 00:13:50,790
+best. So here's a quick example, right?
+Like let's say I'm making a YouTube
+
+986
+00:13:50,790 --> 00:13:50,800
+Like let's say I'm making a YouTube
+ 
+
+987
+00:13:50,800 --> 00:13:53,070
+Like let's say I'm making a YouTube
+video. Maybe I use Perplexity for
+
+988
+00:13:53,070 --> 00:13:53,080
+video. Maybe I use Perplexity for
+ 
+
+989
+00:13:53,080 --> 00:13:55,390
+video. Maybe I use Perplexity for
+research. Maybe I use Claude Code with a
+
+990
+00:13:55,390 --> 00:13:55,400
+research. Maybe I use Claude Code with a
+ 
+
+991
+00:13:55,400 --> 00:13:57,310
+research. Maybe I use Claude Code with a
+skill and with knowledge about me to
+
+992
+00:13:57,310 --> 00:13:57,320
+skill and with knowledge about me to
+ 
+
+993
+00:13:57,320 --> 00:13:59,190
+skill and with knowledge about me to
+help structure the video. And then maybe
+
+994
+00:13:59,190 --> 00:13:59,200
+help structure the video. And then maybe
+ 
+
+995
+00:13:59,200 --> 00:14:01,630
+help structure the video. And then maybe
+I use Claude Chat for some reason to
+
+996
+00:14:01,630 --> 00:14:01,640
+I use Claude Chat for some reason to
+ 
+
+997
+00:14:01,640 --> 00:14:03,070
+I use Claude Chat for some reason to
+actually write the script. And then I
+
+998
+00:14:03,070 --> 00:14:03,080
+actually write the script. And then I
+ 
+
+999
+00:14:03,080 --> 00:14:05,390
+actually write the script. And then I
+use like GPT image 2 to create me that
+
+1000
+00:14:05,390 --> 00:14:05,400
+use like GPT image 2 to create me that
+ 
+
+1001
+00:14:05,400 --> 00:14:07,750
+use like GPT image 2 to create me that
+thumbnail. And then I use Nano Banana to
+
+1002
+00:14:07,750 --> 00:14:07,760
+thumbnail. And then I use Nano Banana to
+ 
+
+1003
+00:14:07,760 --> 00:14:09,910
+thumbnail. And then I use Nano Banana to
+to add a glowing effect or to just make
+
+1004
+00:14:09,910 --> 00:14:09,920
+to add a glowing effect or to just make
+ 
+
+1005
+00:14:09,920 --> 00:14:11,790
+to add a glowing effect or to just make
+some stuff stand out. And then after I
+
+1006
+00:14:11,790 --> 00:14:11,800
+some stuff stand out. And then after I
+ 
+
+1007
+00:14:11,800 --> 00:14:13,030
+some stuff stand out. And then after I
+do all that, maybe I drop it into
+
+1008
+00:14:13,030 --> 00:14:13,040
+do all that, maybe I drop it into
+ 
+
+1009
+00:14:13,040 --> 00:14:14,790
+do all that, maybe I drop it into
+DaVinci Resolve or Adobe Premiere Pro
+
+1010
+00:14:14,790 --> 00:14:14,800
+DaVinci Resolve or Adobe Premiere Pro
+ 
+
+1011
+00:14:14,800 --> 00:14:16,350
+DaVinci Resolve or Adobe Premiere Pro
+just to stamp it up and get it out the
+
+1012
+00:14:16,350 --> 00:14:16,360
+just to stamp it up and get it out the
+ 
+
+1013
+00:14:16,360 --> 00:14:18,350
+just to stamp it up and get it out the
+door. So not every single step in a
+
+1014
+00:14:18,350 --> 00:14:18,360
+door. So not every single step in a
+ 
+
+1015
+00:14:18,360 --> 00:14:20,350
+door. So not every single step in a
+process has to be AI, not every single
+
+1016
+00:14:20,350 --> 00:14:20,360
+process has to be AI, not every single
+ 
+
+1017
+00:14:20,360 --> 00:14:22,310
+process has to be AI, not every single
+step in the process has to be the same
+
+1018
+00:14:22,310 --> 00:14:22,320
+step in the process has to be the same
+ 
+
+1019
+00:14:22,320 --> 00:14:24,670
+step in the process has to be the same
+AI. Break things down into baby steps
+
+1020
+00:14:24,670 --> 00:14:24,680
+AI. Break things down into baby steps
+ 
+
+1021
+00:14:24,680 --> 00:14:26,030
+AI. Break things down into baby steps
+and think about for this specific baby
+
+1022
+00:14:26,030 --> 00:14:26,040
+and think about for this specific baby
+ 
+
+1023
+00:14:26,040 --> 00:14:28,910
+and think about for this specific baby
+step, what tools do I have in my list,
+
+1024
+00:14:28,910 --> 00:14:28,920
+step, what tools do I have in my list,
+ 
+
+1025
+00:14:28,920 --> 00:14:29,829
+step, what tools do I have in my list,
+you know, all of these different tools
+
+1026
+00:14:29,829 --> 00:14:29,839
+you know, all of these different tools
+ 
+
+1027
+00:14:29,839 --> 00:14:32,110
+you know, all of these different tools
+that we looked at earlier, which one of
+
+1028
+00:14:32,110 --> 00:14:32,120
+that we looked at earlier, which one of
+ 
+
+1029
+00:14:32,120 --> 00:14:33,790
+that we looked at earlier, which one of
+these tools is going to be the best for
+
+1030
+00:14:33,790 --> 00:14:33,800
+these tools is going to be the best for
+ 
+
+1031
+00:14:33,800 --> 00:14:36,230
+these tools is going to be the best for
+this little output that I need. And the
+
+1032
+00:14:36,230 --> 00:14:36,240
+this little output that I need. And the
+ 
+
+1033
+00:14:36,240 --> 00:14:37,870
+this little output that I need. And the
+last thing here is basically the
+
+1034
+00:14:37,870 --> 00:14:37,880
+last thing here is basically the
+ 
+
+1035
+00:14:37,880 --> 00:14:39,510
+last thing here is basically the
+decision framework. So this is what I
+
+1036
+00:14:39,510 --> 00:14:39,520
+decision framework. So this is what I
+ 
+
+1037
+00:14:39,520 --> 00:14:40,870
+decision framework. So this is what I
+alluded to when I was talking about that
+
+1038
+00:14:40,870 --> 00:14:40,880
+alluded to when I was talking about that
+ 
+
+1039
+00:14:40,880 --> 00:14:42,670
+alluded to when I was talking about that
+North Star and finding the path that
+
+1040
+00:14:42,670 --> 00:14:42,680
+North Star and finding the path that
+ 
+
+1041
+00:14:42,680 --> 00:14:44,350
+North Star and finding the path that
+you're running on which is directly
+
+1042
+00:14:44,350 --> 00:14:44,360
+you're running on which is directly
+ 
+
+1043
+00:14:44,360 --> 00:14:45,950
+you're running on which is directly
+leading towards that North Star. When a
+
+1044
+00:14:45,950 --> 00:14:45,960
+leading towards that North Star. When a
+ 
+
+1045
+00:14:45,960 --> 00:14:48,110
+leading towards that North Star. When a
+new AI tool or feature drops or a
+
+1046
+00:14:48,110 --> 00:14:48,120
+new AI tool or feature drops or a
+ 
+
+1047
+00:14:48,120 --> 00:14:50,070
+new AI tool or feature drops or a
+YouTube video from me drops, look at the
+
+1048
+00:14:50,070 --> 00:14:50,080
+YouTube video from me drops, look at the
+ 
+
+1049
+00:14:50,080 --> 00:14:51,150
+YouTube video from me drops, look at the
+title,
+
+1050
+00:14:51,150 --> 00:14:51,160
+title,
+ 
+
+1051
+00:14:51,160 --> 00:14:52,670
+title,
+click on the video,
+
+1052
+00:14:52,670 --> 00:14:52,680
+click on the video,
+ 
+
+1053
+00:14:52,680 --> 00:14:54,230
+click on the video,
+understand what I'm talking about, and
+
+1054
+00:14:54,230 --> 00:14:54,240
+understand what I'm talking about, and
+ 
+
+1055
+00:14:54,240 --> 00:14:56,390
+understand what I'm talking about, and
+ask yourself, does this video or does
+
+1056
+00:14:56,390 --> 00:14:56,400
+ask yourself, does this video or does
+ 
+
+1057
+00:14:56,400 --> 00:14:58,470
+ask yourself, does this video or does
+this new feature solve a pain point for
+
+1058
+00:14:58,470 --> 00:14:58,480
+this new feature solve a pain point for
+ 
+
+1059
+00:14:58,480 --> 00:15:00,510
+this new feature solve a pain point for
+me right now? Most of the time, the
+
+1060
+00:15:00,510 --> 00:15:00,520
+me right now? Most of the time, the
+ 
+
+1061
+00:15:00,520 --> 00:15:02,270
+me right now? Most of the time, the
+answer will probably be no. And if the
+
+1062
+00:15:02,270 --> 00:15:02,280
+answer will probably be no. And if the
+ 
+
+1063
+00:15:02,280 --> 00:15:03,590
+answer will probably be no. And if the
+answer is no, but you think the feature
+
+1064
+00:15:03,590 --> 00:15:03,600
+answer is no, but you think the feature
+ 
+
+1065
+00:15:03,600 --> 00:15:05,070
+answer is no, but you think the feature
+is cool or the agent framework is cool
+
+1066
+00:15:05,070 --> 00:15:05,080
+is cool or the agent framework is cool
+ 
+
+1067
+00:15:05,080 --> 00:15:06,710
+is cool or the agent framework is cool
+or whatever it is, then just save the
+
+1068
+00:15:06,710 --> 00:15:06,720
+or whatever it is, then just save the
+ 
+
+1069
+00:15:06,720 --> 00:15:08,630
+or whatever it is, then just save the
+link so that you know, okay, later if I
+
+1070
+00:15:08,630 --> 00:15:08,640
+link so that you know, okay, later if I
+ 
+
+1071
+00:15:08,640 --> 00:15:09,910
+link so that you know, okay, later if I
+do want to watch this, I know where it
+
+1072
+00:15:09,910 --> 00:15:09,920
+do want to watch this, I know where it
+ 
+
+1073
+00:15:09,920 --> 00:15:12,110
+do want to watch this, I know where it
+is. If the answer is yes, then maybe it
+
+1074
+00:15:12,110 --> 00:15:12,120
+is. If the answer is yes, then maybe it
+ 
+
+1075
+00:15:12,120 --> 00:15:13,950
+is. If the answer is yes, then maybe it
+makes sense to actually test it out. But
+
+1076
+00:15:13,950 --> 00:15:13,960
+makes sense to actually test it out. But
+ 
+
+1077
+00:15:13,960 --> 00:15:15,310
+makes sense to actually test it out. But
+don't just spend like a month testing it
+
+1078
+00:15:15,310 --> 00:15:15,320
+don't just spend like a month testing it
+ 
+
+1079
+00:15:15,320 --> 00:15:16,710
+don't just spend like a month testing it
+out. Try to test it out in a real
+
+1080
+00:15:16,710 --> 00:15:16,720
+out. Try to test it out in a real
+ 
+
+1081
+00:15:16,720 --> 00:15:18,310
+out. Try to test it out in a real
+scenario, you know, like don't just test
+
+1082
+00:15:18,310 --> 00:15:18,320
+scenario, you know, like don't just test
+ 
+
+1083
+00:15:18,320 --> 00:15:19,950
+scenario, you know, like don't just test
+it out with mock data. Try to test it
+
+1084
+00:15:19,950 --> 00:15:19,960
+it out with mock data. Try to test it
+ 
+
+1085
+00:15:19,960 --> 00:15:21,470
+it out with mock data. Try to test it
+out with something that actually moves
+
+1086
+00:15:21,470 --> 00:15:21,480
+out with something that actually moves
+ 
+
+1087
+00:15:21,480 --> 00:15:23,030
+out with something that actually moves
+the needle for you. Not in a way where
+
+1088
+00:15:23,030 --> 00:15:23,040
+the needle for you. Not in a way where
+ 
+
+1089
+00:15:23,040 --> 00:15:24,310
+the needle for you. Not in a way where
+it would be risky, you know, like
+
+1090
+00:15:24,310 --> 00:15:24,320
+it would be risky, you know, like
+ 
+
+1091
+00:15:24,320 --> 00:15:26,030
+it would be risky, you know, like
+sending out emails or restructuring a
+
+1092
+00:15:26,030 --> 00:15:26,040
+sending out emails or restructuring a
+ 
+
+1093
+00:15:26,040 --> 00:15:27,550
+sending out emails or restructuring a
+whole database, but do something in your
+
+1094
+00:15:27,550 --> 00:15:27,560
+whole database, but do something in your
+ 
+
+1095
+00:15:27,560 --> 00:15:29,430
+whole database, but do something in your
+actual working environment, so you have
+
+1096
+00:15:29,430 --> 00:15:29,440
+actual working environment, so you have
+ 
+
+1097
+00:15:29,440 --> 00:15:32,350
+actual working environment, so you have
+real proof of if you like it or if you
+
+1098
+00:15:32,350 --> 00:15:32,360
+real proof of if you like it or if you
+ 
+
+1099
+00:15:32,360 --> 00:15:33,590
+real proof of if you like it or if you
+don't, or if it actually solves a
+
+1100
+00:15:33,590 --> 00:15:33,600
+don't, or if it actually solves a
+ 
+
+1101
+00:15:33,600 --> 00:15:35,150
+don't, or if it actually solves a
+problem or not. And then, at the end of
+
+1102
+00:15:35,150 --> 00:15:35,160
+problem or not. And then, at the end of
+ 
+
+1103
+00:15:35,160 --> 00:15:36,990
+problem or not. And then, at the end of
+the week after you've used it, just ask
+
+1104
+00:15:36,990 --> 00:15:37,000
+the week after you've used it, just ask
+ 
+
+1105
+00:15:37,000 --> 00:15:39,990
+the week after you've used it, just ask
+yourself, did this make sense? Did this
+
+1106
+00:15:39,990 --> 00:15:40,000
+yourself, did this make sense? Did this
+ 
+
+1107
+00:15:40,000 --> 00:15:41,310
+yourself, did this make sense? Did this
+solve my pain point to the point where
+
+1108
+00:15:41,310 --> 00:15:41,320
+solve my pain point to the point where
+ 
+
+1109
+00:15:41,320 --> 00:15:43,430
+solve my pain point to the point where
+I'm going to put this into my main, you
+
+1110
+00:15:43,430 --> 00:15:43,440
+I'm going to put this into my main, you
+ 
+
+1111
+00:15:43,440 --> 00:15:45,190
+I'm going to put this into my main, you
+know, daily drivers or my main
+
+1112
+00:15:45,190 --> 00:15:45,200
+know, daily drivers or my main
+ 
+
+1113
+00:15:45,200 --> 00:15:47,750
+know, daily drivers or my main
+companions of tech tools, or is it not?
+
+1114
+00:15:47,750 --> 00:15:47,760
+companions of tech tools, or is it not?
+ 
+
+1115
+00:15:47,760 --> 00:15:49,430
+companions of tech tools, or is it not?
+Because if it didn't, then get rid of it
+
+1116
+00:15:49,430 --> 00:15:49,440
+Because if it didn't, then get rid of it
+ 
+
+1117
+00:15:49,440 --> 00:15:51,550
+Because if it didn't, then get rid of it
+for now. And then, only later, if you
+
+1118
+00:15:51,550 --> 00:15:51,560
+for now. And then, only later, if you
+ 
+
+1119
+00:15:51,560 --> 00:15:53,270
+for now. And then, only later, if you
+realize, okay, I'm working on my
+
+1120
+00:15:53,270 --> 00:15:53,280
+realize, okay, I'm working on my
+ 
+
+1121
+00:15:53,280 --> 00:15:55,710
+realize, okay, I'm working on my
+business and I'm I'm hitting this pain
+
+1122
+00:15:55,710 --> 00:15:55,720
+business and I'm I'm hitting this pain
+ 
+
+1123
+00:15:55,720 --> 00:15:58,070
+business and I'm I'm hitting this pain
+point every single day. Do I have any
+
+1124
+00:15:58,070 --> 00:15:58,080
+point every single day. Do I have any
+ 
+
+1125
+00:15:58,080 --> 00:16:00,590
+point every single day. Do I have any
+features or agents in this list of like
+
+1126
+00:16:00,590 --> 00:16:00,600
+features or agents in this list of like
+ 
+
+1127
+00:16:00,600 --> 00:16:02,510
+features or agents in this list of like
+other things that I need to look at? Do
+
+1128
+00:16:02,510 --> 00:16:02,520
+other things that I need to look at? Do
+ 
+
+1129
+00:16:02,520 --> 00:16:04,070
+other things that I need to look at? Do
+any of these directly help me solve this
+
+1130
+00:16:04,070 --> 00:16:04,080
+any of these directly help me solve this
+ 
+
+1131
+00:16:04,080 --> 00:16:06,070
+any of these directly help me solve this
+pain point? If the answer is yes, then
+
+1132
+00:16:06,070 --> 00:16:06,080
+pain point? If the answer is yes, then
+ 
+
+1133
+00:16:06,080 --> 00:16:07,470
+pain point? If the answer is yes, then
+you reach for that tutorial, and then
+
+1134
+00:16:07,470 --> 00:16:07,480
+you reach for that tutorial, and then
+ 
+
+1135
+00:16:07,480 --> 00:16:08,830
+you reach for that tutorial, and then
+you grab it, and then you learn it. Does
+
+1136
+00:16:08,830 --> 00:16:08,840
+you grab it, and then you learn it. Does
+ 
+
+1137
+00:16:08,840 --> 00:16:10,270
+you grab it, and then you learn it. Does
+that make sense? Like, sometimes, as
+
+1138
+00:16:10,270 --> 00:16:10,280
+that make sense? Like, sometimes, as
+ 
+
+1139
+00:16:10,280 --> 00:16:11,510
+that make sense? Like, sometimes, as
+you're walking down this path, you don't
+
+1140
+00:16:11,510 --> 00:16:11,520
+you're walking down this path, you don't
+ 
+
+1141
+00:16:11,520 --> 00:16:12,750
+you're walking down this path, you don't
+want to jump to the right or to the left
+
+1142
+00:16:12,750 --> 00:16:12,760
+want to jump to the right or to the left
+ 
+
+1143
+00:16:12,760 --> 00:16:14,470
+want to jump to the right or to the left
+to all these holes, but sometimes you
+
+1144
+00:16:14,470 --> 00:16:14,480
+to all these holes, but sometimes you
+ 
+
+1145
+00:16:14,480 --> 00:16:17,070
+to all these holes, but sometimes you
+might actually run into a roadblock. And
+
+1146
+00:16:17,070 --> 00:16:17,080
+might actually run into a roadblock. And
+ 
+
+1147
+00:16:17,080 --> 00:16:18,150
+might actually run into a roadblock. And
+the only thing that might get you over
+
+1148
+00:16:18,150 --> 00:16:18,160
+the only thing that might get you over
+ 
+
+1149
+00:16:18,160 --> 00:16:20,310
+the only thing that might get you over
+that roadblock is to jump into one of
+
+1150
+00:16:20,310 --> 00:16:20,320
+that roadblock is to jump into one of
+ 
+
+1151
+00:16:20,320 --> 00:16:22,110
+that roadblock is to jump into one of
+those holes, understand it, and then all
+
+1152
+00:16:22,110 --> 00:16:22,120
+those holes, understand it, and then all
+ 
+
+1153
+00:16:22,120 --> 00:16:23,510
+those holes, understand it, and then all
+of a sudden the roadblock is easy to
+
+1154
+00:16:23,510 --> 00:16:23,520
+of a sudden the roadblock is easy to
+ 
+
+1155
+00:16:23,520 --> 00:16:25,670
+of a sudden the roadblock is easy to
+just like walk through or jump over or
+
+1156
+00:16:25,670 --> 00:16:25,680
+just like walk through or jump over or
+ 
+
+1157
+00:16:25,680 --> 00:16:27,741
+just like walk through or jump over or
+whatever. Okay, let me take a breath.
+
+1158
+00:16:27,741 --> 00:16:27,751
+whatever. Okay, let me take a breath.
+ 
+
+1159
+00:16:27,751 --> 00:16:28,150
+whatever. Okay, let me take a breath.
+>> [laughter]
+
+1160
+00:16:28,150 --> 00:16:28,160
+>> [laughter]
+ 
+
+1161
+00:16:28,160 --> 00:16:30,550
+>> [laughter]
+>> I was talking really fast in this video,
+
+1162
+00:16:30,550 --> 00:16:30,560
+>> I was talking really fast in this video,
+ 
+
+1163
+00:16:30,560 --> 00:16:31,990
+>> I was talking really fast in this video,
+and I don't know, it's just something
+
+1164
+00:16:31,990 --> 00:16:32,000
+and I don't know, it's just something
+ 
+
+1165
+00:16:32,000 --> 00:16:33,110
+and I don't know, it's just something
+that I'm passionate about and something
+
+1166
+00:16:33,110 --> 00:16:33,120
+that I'm passionate about and something
+ 
+
+1167
+00:16:33,120 --> 00:16:34,430
+that I'm passionate about and something
+that I wanted to get off my chest,
+
+1168
+00:16:34,430 --> 00:16:34,440
+that I wanted to get off my chest,
+ 
+
+1169
+00:16:34,440 --> 00:16:35,910
+that I wanted to get off my chest,
+because I feel like I've been answering
+
+1170
+00:16:35,910 --> 00:16:35,920
+because I feel like I've been answering
+ 
+
+1171
+00:16:35,920 --> 00:16:37,310
+because I feel like I've been answering
+these questions a lot in the comments
+
+1172
+00:16:37,310 --> 00:16:37,320
+these questions a lot in the comments
+ 
+
+1173
+00:16:37,320 --> 00:16:38,750
+these questions a lot in the comments
+and in my community, but I really,
+
+1174
+00:16:38,750 --> 00:16:38,760
+and in my community, but I really,
+ 
+
+1175
+00:16:38,760 --> 00:16:40,270
+and in my community, but I really,
+really hope that this one gave you some
+
+1176
+00:16:40,270 --> 00:16:40,280
+really hope that this one gave you some
+ 
+
+1177
+00:16:40,280 --> 00:16:42,350
+really hope that this one gave you some
+clarity. And once again, I use a bunch
+
+1178
+00:16:42,350 --> 00:16:42,360
+clarity. And once again, I use a bunch
+ 
+
+1179
+00:16:42,360 --> 00:16:44,550
+clarity. And once again, I use a bunch
+of tools, and I've really, really tried
+
+1180
+00:16:44,550 --> 00:16:44,560
+of tools, and I've really, really tried
+ 
+
+1181
+00:16:44,560 --> 00:16:46,390
+of tools, and I've really, really tried
+to only bring you guys like cloud code
+
+1182
+00:16:46,390 --> 00:16:46,400
+to only bring you guys like cloud code
+ 
+
+1183
+00:16:46,400 --> 00:16:48,030
+to only bring you guys like cloud code
+content for the majority, because I
+
+1184
+00:16:48,030 --> 00:16:48,040
+content for the majority, because I
+ 
+
+1185
+00:16:48,040 --> 00:16:49,750
+content for the majority, because I
+don't want to overwhelm, but please let
+
+1186
+00:16:49,750 --> 00:16:49,760
+don't want to overwhelm, but please let
+ 
+
+1187
+00:16:49,760 --> 00:16:51,430
+don't want to overwhelm, but please let
+me know what other tools do you want to
+
+1188
+00:16:51,430 --> 00:16:51,440
+me know what other tools do you want to
+ 
+
+1189
+00:16:51,440 --> 00:16:52,950
+me know what other tools do you want to
+see me cover? Especially anything in
+
+1190
+00:16:52,950 --> 00:16:52,960
+see me cover? Especially anything in
+ 
+
+1191
+00:16:52,960 --> 00:16:54,670
+see me cover? Especially anything in
+here, especially some of these constant
+
+1192
+00:16:54,670 --> 00:16:54,680
+here, especially some of these constant
+ 
+
+1193
+00:16:54,680 --> 00:16:56,550
+here, especially some of these constant
+companions that I am using a lot. What
+
+1194
+00:16:56,550 --> 00:16:56,560
+companions that I am using a lot. What
+ 
+
+1195
+00:16:56,560 --> 00:16:57,510
+companions that I am using a lot. What
+do you want to see? Just let me know in
+
+1196
+00:16:57,510 --> 00:16:57,520
+do you want to see? Just let me know in
+ 
+
+1197
+00:16:57,520 --> 00:16:59,070
+do you want to see? Just let me know in
+the comments. But anyways, that is going
+
+1198
+00:16:59,070 --> 00:16:59,080
+the comments. But anyways, that is going
+ 
+
+1199
+00:16:59,080 --> 00:17:00,390
+the comments. But anyways, that is going
+to do it for today. So, if you guys
+
+1200
+00:17:00,390 --> 00:17:00,400
+to do it for today. So, if you guys
+ 
+
+1201
+00:17:00,400 --> 00:17:01,390
+to do it for today. So, if you guys
+enjoyed the video or you learned
+
+1202
+00:17:01,390 --> 00:17:01,400
+enjoyed the video or you learned
+ 
+
+1203
+00:17:01,400 --> 00:17:02,829
+enjoyed the video or you learned
+something new, please give it a like. It
+
+1204
+00:17:02,829 --> 00:17:02,839
+something new, please give it a like. It
+ 
+
+1205
+00:17:02,839 --> 00:17:04,309
+something new, please give it a like. It
+helps me out a ton. And don't forget to
+
+1206
+00:17:04,309 --> 00:17:04,319
+helps me out a ton. And don't forget to
+ 
+
+1207
+00:17:04,319 --> 00:17:05,829
+helps me out a ton. And don't forget to
+download that free resource guide, join
+
+1208
+00:17:05,829 --> 00:17:05,839
+download that free resource guide, join
+ 
+
+1209
+00:17:05,839 --> 00:17:07,069
+download that free resource guide, join
+my free school community. All of my
+
+1210
+00:17:07,069 --> 00:17:07,079
+my free school community. All of my
+ 
+
+1211
+00:17:07,079 --> 00:17:09,550
+my free school community. All of my
+resources are in there. And yeah, I
+
+1212
+00:17:09,550 --> 00:17:09,560
+resources are in there. And yeah, I
+ 
+
+1213
+00:17:09,560 --> 00:17:10,429
+resources are in there. And yeah, I
+appreciate you guys making it to the end
+
+1214
+00:17:10,429 --> 00:17:10,439
+appreciate you guys making it to the end
+ 
+
+1215
+00:17:10,439 --> 00:17:11,390
+appreciate you guys making it to the end
+of the video, and I'll see you in the
+
+1216
+00:17:11,390 --> 00:17:11,400
+of the video, and I'll see you in the
+ 
+
+1217
+00:17:11,400 --> 00:17:14,800
+of the video, and I'll see you in the
+next one. Thanks, everyone.
+

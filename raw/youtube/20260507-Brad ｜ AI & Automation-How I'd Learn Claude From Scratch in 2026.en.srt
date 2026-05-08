@@ -1,0 +1,3735 @@
+1
+00:00:00,000 --> 00:00:01,350
+
+If I had to start learning Claude from
+
+2
+00:00:01,350 --> 00:00:01,360
+If I had to start learning Claude from
+ 
+
+3
+00:00:01,360 --> 00:00:03,429
+If I had to start learning Claude from
+scratch today, this is exactly how I'd
+
+4
+00:00:03,429 --> 00:00:03,439
+scratch today, this is exactly how I'd
+ 
+
+5
+00:00:03,439 --> 00:00:04,870
+scratch today, this is exactly how I'd
+do it. Because here's the thing, you're
+
+6
+00:00:04,870 --> 00:00:04,880
+do it. Because here's the thing, you're
+ 
+
+7
+00:00:04,880 --> 00:00:06,869
+do it. Because here's the thing, you're
+paying at least 20 bucks per month for
+
+8
+00:00:06,869 --> 00:00:06,879
+paying at least 20 bucks per month for
+ 
+
+9
+00:00:06,879 --> 00:00:08,629
+paying at least 20 bucks per month for
+Claude, and you're probably only using
+
+10
+00:00:08,629 --> 00:00:08,639
+Claude, and you're probably only using
+ 
+
+11
+00:00:08,639 --> 00:00:11,110
+Claude, and you're probably only using
+about 2% of what you're actually paying
+
+12
+00:00:11,110 --> 00:00:11,120
+about 2% of what you're actually paying
+ 
+
+13
+00:00:11,120 --> 00:00:13,110
+about 2% of what you're actually paying
+for. I spent the last 2 years using
+
+14
+00:00:13,110 --> 00:00:13,120
+for. I spent the last 2 years using
+ 
+
+15
+00:00:13,120 --> 00:00:15,589
+for. I spent the last 2 years using
+Claude every single day for my job, for
+
+16
+00:00:15,589 --> 00:00:15,599
+Claude every single day for my job, for
+ 
+
+17
+00:00:15,599 --> 00:00:17,189
+Claude every single day for my job, for
+my business, for this YouTube channel.
+
+18
+00:00:17,189 --> 00:00:17,199
+my business, for this YouTube channel.
+ 
+
+19
+00:00:17,199 --> 00:00:19,269
+my business, for this YouTube channel.
+And if I had to start over tomorrow, I
+
+20
+00:00:19,269 --> 00:00:19,279
+And if I had to start over tomorrow, I
+ 
+
+21
+00:00:19,279 --> 00:00:20,950
+And if I had to start over tomorrow, I
+would not do it the way I did. I'd skip
+
+22
+00:00:20,950 --> 00:00:20,960
+would not do it the way I did. I'd skip
+ 
+
+23
+00:00:20,960 --> 00:00:23,189
+would not do it the way I did. I'd skip
+over about 80% of what I tried, and I'd
+
+24
+00:00:23,189 --> 00:00:23,199
+over about 80% of what I tried, and I'd
+ 
+
+25
+00:00:23,199 --> 00:00:25,910
+over about 80% of what I tried, and I'd
+learn these 13 things in this exact
+
+26
+00:00:25,910 --> 00:00:25,920
+learn these 13 things in this exact
+ 
+
+27
+00:00:25,920 --> 00:00:27,509
+learn these 13 things in this exact
+order. So, in this video, I'll walk you
+
+28
+00:00:27,509 --> 00:00:27,519
+order. So, in this video, I'll walk you
+ 
+
+29
+00:00:27,519 --> 00:00:29,429
+order. So, in this video, I'll walk you
+through my step-by-step syllabus for
+
+30
+00:00:29,429 --> 00:00:29,439
+through my step-by-step syllabus for
+ 
+
+31
+00:00:29,439 --> 00:00:31,349
+through my step-by-step syllabus for
+learning Claude from scratch, starting
+
+32
+00:00:31,349 --> 00:00:31,359
+learning Claude from scratch, starting
+ 
+
+33
+00:00:31,359 --> 00:00:33,270
+learning Claude from scratch, starting
+with the one you've already used. Number
+
+34
+00:00:33,270 --> 00:00:33,280
+with the one you've already used. Number
+ 
+
+35
+00:00:33,280 --> 00:00:35,270
+with the one you've already used. Number
+one is Claude chat. You can go to
+
+36
+00:00:35,270 --> 00:00:35,280
+one is Claude chat. You can go to
+ 
+
+37
+00:00:35,280 --> 00:00:37,670
+one is Claude chat. You can go to
+claude.ai, ask a question, and get an
+
+38
+00:00:37,670 --> 00:00:37,680
+claude.ai, ask a question, and get an
+ 
+
+39
+00:00:37,680 --> 00:00:39,190
+claude.ai, ask a question, and get an
+answer back. You can access it from your
+
+40
+00:00:39,190 --> 00:00:39,200
+answer back. You can access it from your
+ 
+
+41
+00:00:39,200 --> 00:00:41,270
+answer back. You can access it from your
+browser, your phone, or your laptop. And
+
+42
+00:00:41,270 --> 00:00:41,280
+browser, your phone, or your laptop. And
+ 
+
+43
+00:00:41,280 --> 00:00:43,030
+browser, your phone, or your laptop. And
+it's all the same Claude, all the same
+
+44
+00:00:43,030 --> 00:00:43,040
+it's all the same Claude, all the same
+ 
+
+45
+00:00:43,040 --> 00:00:44,310
+it's all the same Claude, all the same
+conversation. The thing that really
+
+46
+00:00:44,310 --> 00:00:44,320
+conversation. The thing that really
+ 
+
+47
+00:00:44,320 --> 00:00:45,750
+conversation. The thing that really
+separates Claude chat from something
+
+48
+00:00:45,750 --> 00:00:45,760
+separates Claude chat from something
+ 
+
+49
+00:00:45,760 --> 00:00:48,150
+separates Claude chat from something
+like ChatVT is what it can create.
+
+50
+00:00:48,150 --> 00:00:48,160
+like ChatVT is what it can create.
+ 
+
+51
+00:00:48,160 --> 00:00:50,470
+like ChatVT is what it can create.
+Claude creates diagrams, tools, and
+
+52
+00:00:50,470 --> 00:00:50,480
+Claude creates diagrams, tools, and
+ 
+
+53
+00:00:50,480 --> 00:00:52,229
+Claude creates diagrams, tools, and
+visualizations right in the
+
+54
+00:00:52,229 --> 00:00:52,239
+visualizations right in the
+ 
+
+55
+00:00:52,239 --> 00:00:53,990
+visualizations right in the
+conversation. You can click through,
+
+56
+00:00:53,990 --> 00:00:54,000
+conversation. You can click through,
+ 
+
+57
+00:00:54,000 --> 00:00:56,229
+conversation. You can click through,
+drag sliders, actually work through the
+
+58
+00:00:56,229 --> 00:00:56,239
+drag sliders, actually work through the
+ 
+
+59
+00:00:56,239 --> 00:00:57,670
+drag sliders, actually work through the
+problem instead of reading about it.
+
+60
+00:00:57,670 --> 00:00:57,680
+problem instead of reading about it.
+ 
+
+61
+00:00:57,680 --> 00:00:59,590
+problem instead of reading about it.
+Claude also builds artifacts which go
+
+62
+00:00:59,590 --> 00:00:59,600
+Claude also builds artifacts which go
+ 
+
+63
+00:00:59,600 --> 00:01:01,349
+Claude also builds artifacts which go
+way beyond widgets. You can have Claude
+
+64
+00:01:01,349 --> 00:01:01,359
+way beyond widgets. You can have Claude
+ 
+
+65
+00:01:01,359 --> 00:01:03,430
+way beyond widgets. You can have Claude
+build a PowerPoint deck, a Word doc, an
+
+66
+00:01:03,430 --> 00:01:03,440
+build a PowerPoint deck, a Word doc, an
+ 
+
+67
+00:01:03,440 --> 00:01:05,429
+build a PowerPoint deck, a Word doc, an
+Excel sheet, a full website, even a
+
+68
+00:01:05,429 --> 00:01:05,439
+Excel sheet, a full website, even a
+ 
+
+69
+00:01:05,439 --> 00:01:07,590
+Excel sheet, a full website, even a
+working app. All of that inside of chat.
+
+70
+00:01:07,590 --> 00:01:07,600
+working app. All of that inside of chat.
+ 
+
+71
+00:01:07,600 --> 00:01:08,870
+working app. All of that inside of chat.
+Now, these are static, so they don't
+
+72
+00:01:08,870 --> 00:01:08,880
+Now, these are static, so they don't
+ 
+
+73
+00:01:08,880 --> 00:01:10,230
+Now, these are static, so they don't
+update on their own, but there is a
+
+74
+00:01:10,230 --> 00:01:10,240
+update on their own, but there is a
+ 
+
+75
+00:01:10,240 --> 00:01:11,910
+update on their own, but there is a
+version that pulls live data, and we'll
+
+76
+00:01:11,910 --> 00:01:11,920
+version that pulls live data, and we'll
+ 
+
+77
+00:01:11,920 --> 00:01:13,190
+version that pulls live data, and we'll
+get to that. But first, you need to give
+
+78
+00:01:13,190 --> 00:01:13,200
+get to that. But first, you need to give
+ 
+
+79
+00:01:13,200 --> 00:01:15,590
+get to that. But first, you need to give
+Claude access to your tools. Number two,
+
+80
+00:01:15,590 --> 00:01:15,600
+Claude access to your tools. Number two,
+ 
+
+81
+00:01:15,600 --> 00:01:17,429
+Claude access to your tools. Number two,
+connectors. This is where Claude starts
+
+82
+00:01:17,429 --> 00:01:17,439
+connectors. This is where Claude starts
+ 
+
+83
+00:01:17,439 --> 00:01:19,670
+connectors. This is where Claude starts
+plugging into your real work. Connectors
+
+84
+00:01:19,670 --> 00:01:19,680
+plugging into your real work. Connectors
+ 
+
+85
+00:01:19,680 --> 00:01:21,830
+plugging into your real work. Connectors
+wire your tools directly into Claude.
+
+86
+00:01:21,830 --> 00:01:21,840
+wire your tools directly into Claude.
+ 
+
+87
+00:01:21,840 --> 00:01:23,670
+wire your tools directly into Claude.
+things like Gmail, Drive, Notion,
+
+88
+00:01:23,670 --> 00:01:23,680
+things like Gmail, Drive, Notion,
+ 
+
+89
+00:01:23,680 --> 00:01:25,109
+things like Gmail, Drive, Notion,
+Calendar, and Slack. Claude can read
+
+90
+00:01:25,109 --> 00:01:25,119
+Calendar, and Slack. Claude can read
+ 
+
+91
+00:01:25,119 --> 00:01:27,030
+Calendar, and Slack. Claude can read
+from all of these apps directly and even
+
+92
+00:01:27,030 --> 00:01:27,040
+from all of these apps directly and even
+ 
+
+93
+00:01:27,040 --> 00:01:29,350
+from all of these apps directly and even
+perform actions in them for you and on
+
+94
+00:01:29,350 --> 00:01:29,360
+perform actions in them for you and on
+ 
+
+95
+00:01:29,360 --> 00:01:31,109
+perform actions in them for you and on
+your behalf. You might have Claude read
+
+96
+00:01:31,109 --> 00:01:31,119
+your behalf. You might have Claude read
+ 
+
+97
+00:01:31,119 --> 00:01:32,789
+your behalf. You might have Claude read
+and summarize a Slack channel or send
+
+98
+00:01:32,789 --> 00:01:32,799
+and summarize a Slack channel or send
+ 
+
+99
+00:01:32,799 --> 00:01:34,550
+and summarize a Slack channel or send
+out a message to your team for you. If
+
+100
+00:01:34,550 --> 00:01:34,560
+out a message to your team for you. If
+ 
+
+101
+00:01:34,560 --> 00:01:35,990
+out a message to your team for you. If
+you're working on a project, you might
+
+102
+00:01:35,990 --> 00:01:36,000
+you're working on a project, you might
+ 
+
+103
+00:01:36,000 --> 00:01:37,429
+you're working on a project, you might
+get Claude to read all of your
+
+104
+00:01:37,429 --> 00:01:37,439
+get Claude to read all of your
+ 
+
+105
+00:01:37,439 --> 00:01:39,830
+get Claude to read all of your
+documentation in Notion or Confluence so
+
+106
+00:01:39,830 --> 00:01:39,840
+documentation in Notion or Confluence so
+ 
+
+107
+00:01:39,840 --> 00:01:41,749
+documentation in Notion or Confluence so
+it has the full picture. Connectors work
+
+108
+00:01:41,749 --> 00:01:41,759
+it has the full picture. Connectors work
+ 
+
+109
+00:01:41,759 --> 00:01:43,590
+it has the full picture. Connectors work
+across your whole Claude account once
+
+110
+00:01:43,590 --> 00:01:43,600
+across your whole Claude account once
+ 
+
+111
+00:01:43,600 --> 00:01:44,950
+across your whole Claude account once
+they're connected. And later, I'll show
+
+112
+00:01:44,950 --> 00:01:44,960
+they're connected. And later, I'll show
+ 
+
+113
+00:01:44,960 --> 00:01:47,030
+they're connected. And later, I'll show
+you how you can start automating tasks
+
+114
+00:01:47,030 --> 00:01:47,040
+you how you can start automating tasks
+ 
+
+115
+00:01:47,040 --> 00:01:49,030
+you how you can start automating tasks
+inside of these apps using routines.
+
+116
+00:01:49,030 --> 00:01:49,040
+inside of these apps using routines.
+ 
+
+117
+00:01:49,040 --> 00:01:50,710
+inside of these apps using routines.
+There are hundreds of connectors to
+
+118
+00:01:50,710 --> 00:01:50,720
+There are hundreds of connectors to
+ 
+
+119
+00:01:50,720 --> 00:01:52,870
+There are hundreds of connectors to
+choose from with more being added every
+
+120
+00:01:52,870 --> 00:01:52,880
+choose from with more being added every
+ 
+
+121
+00:01:52,880 --> 00:01:55,030
+choose from with more being added every
+week. They work using MCP or model
+
+122
+00:01:55,030 --> 00:01:55,040
+week. They work using MCP or model
+ 
+
+123
+00:01:55,040 --> 00:01:57,109
+week. They work using MCP or model
+context protocol which lets Claude make
+
+124
+00:01:57,109 --> 00:01:57,119
+context protocol which lets Claude make
+ 
+
+125
+00:01:57,119 --> 00:01:59,030
+context protocol which lets Claude make
+a request to the connected software to
+
+126
+00:01:59,030 --> 00:01:59,040
+a request to the connected software to
+ 
+
+127
+00:01:59,040 --> 00:02:00,870
+a request to the connected software to
+do something. You can configure your own
+
+128
+00:02:00,870 --> 00:02:00,880
+do something. You can configure your own
+ 
+
+129
+00:02:00,880 --> 00:02:02,709
+do something. You can configure your own
+connectors as well if the app you want
+
+130
+00:02:02,709 --> 00:02:02,719
+connectors as well if the app you want
+ 
+
+131
+00:02:02,719 --> 00:02:05,190
+connectors as well if the app you want
+to connect has an MCP. Connectors is
+
+132
+00:02:05,190 --> 00:02:05,200
+to connect has an MCP. Connectors is
+ 
+
+133
+00:02:05,200 --> 00:02:07,350
+to connect has an MCP. Connectors is
+when Claude starts doing real work, but
+
+134
+00:02:07,350 --> 00:02:07,360
+when Claude starts doing real work, but
+ 
+
+135
+00:02:07,360 --> 00:02:09,270
+when Claude starts doing real work, but
+to keep that work organized, you need
+
+136
+00:02:09,270 --> 00:02:09,280
+to keep that work organized, you need
+ 
+
+137
+00:02:09,280 --> 00:02:11,510
+to keep that work organized, you need
+the next one. Number three, projects.
+
+138
+00:02:11,510 --> 00:02:11,520
+the next one. Number three, projects.
+ 
+
+139
+00:02:11,520 --> 00:02:13,670
+the next one. Number three, projects.
+Project lets you organize your work into
+
+140
+00:02:13,670 --> 00:02:13,680
+Project lets you organize your work into
+ 
+
+141
+00:02:13,680 --> 00:02:15,510
+Project lets you organize your work into
+self-contained environments, each with
+
+142
+00:02:15,510 --> 00:02:15,520
+self-contained environments, each with
+ 
+
+143
+00:02:15,520 --> 00:02:17,270
+self-contained environments, each with
+their own chat history, instructions,
+
+144
+00:02:17,270 --> 00:02:17,280
+their own chat history, instructions,
+ 
+
+145
+00:02:17,280 --> 00:02:18,790
+their own chat history, instructions,
+and knowledge. You can manage the
+
+146
+00:02:18,790 --> 00:02:18,800
+and knowledge. You can manage the
+ 
+
+147
+00:02:18,800 --> 00:02:20,470
+and knowledge. You can manage the
+knowledge of a project by uploading
+
+148
+00:02:20,470 --> 00:02:20,480
+knowledge of a project by uploading
+ 
+
+149
+00:02:20,480 --> 00:02:22,710
+knowledge of a project by uploading
+specific documents or giving it access
+
+150
+00:02:22,710 --> 00:02:22,720
+specific documents or giving it access
+ 
+
+151
+00:02:22,720 --> 00:02:24,630
+specific documents or giving it access
+to particular connectors. Every time you
+
+152
+00:02:24,630 --> 00:02:24,640
+to particular connectors. Every time you
+ 
+
+153
+00:02:24,640 --> 00:02:26,550
+to particular connectors. Every time you
+chat with Claude in that project, the
+
+154
+00:02:26,550 --> 00:02:26,560
+chat with Claude in that project, the
+ 
+
+155
+00:02:26,560 --> 00:02:28,470
+chat with Claude in that project, the
+knowledge is automatically there. You
+
+156
+00:02:28,470 --> 00:02:28,480
+knowledge is automatically there. You
+ 
+
+157
+00:02:28,480 --> 00:02:30,229
+knowledge is automatically there. You
+can give it specific instructions or
+
+158
+00:02:30,229 --> 00:02:30,239
+can give it specific instructions or
+ 
+
+159
+00:02:30,239 --> 00:02:31,589
+can give it specific instructions or
+even share the project with your
+
+160
+00:02:31,589 --> 00:02:31,599
+even share the project with your
+ 
+
+161
+00:02:31,599 --> 00:02:33,030
+even share the project with your
+colleagues so they're working from the
+
+162
+00:02:33,030 --> 00:02:33,040
+colleagues so they're working from the
+ 
+
+163
+00:02:33,040 --> 00:02:34,390
+colleagues so they're working from the
+same setup. Here's my setup for
+
+164
+00:02:34,390 --> 00:02:34,400
+same setup. Here's my setup for
+ 
+
+165
+00:02:34,400 --> 00:02:36,229
+same setup. Here's my setup for
+generating proposal documents. Claude
+
+166
+00:02:36,229 --> 00:02:36,239
+generating proposal documents. Claude
+ 
+
+167
+00:02:36,239 --> 00:02:37,990
+generating proposal documents. Claude
+has all of the context from the
+
+168
+00:02:37,990 --> 00:02:38,000
+has all of the context from the
+ 
+
+169
+00:02:38,000 --> 00:02:39,910
+has all of the context from the
+templates, asks me the right questions,
+
+170
+00:02:39,910 --> 00:02:39,920
+templates, asks me the right questions,
+ 
+
+171
+00:02:39,920 --> 00:02:41,990
+templates, asks me the right questions,
+and handles everything from there. Each
+
+172
+00:02:41,990 --> 00:02:42,000
+and handles everything from there. Each
+ 
+
+173
+00:02:42,000 --> 00:02:43,750
+and handles everything from there. Each
+project I have has its own separate
+
+174
+00:02:43,750 --> 00:02:43,760
+project I have has its own separate
+ 
+
+175
+00:02:43,760 --> 00:02:45,750
+project I have has its own separate
+memory, too. So, context inside a
+
+176
+00:02:45,750 --> 00:02:45,760
+memory, too. So, context inside a
+ 
+
+177
+00:02:45,760 --> 00:02:47,270
+memory, too. So, context inside a
+project stays inside that project.
+
+178
+00:02:47,270 --> 00:02:47,280
+project stays inside that project.
+ 
+
+179
+00:02:47,280 --> 00:02:48,949
+project stays inside that project.
+Projects really start to come alive when
+
+180
+00:02:48,949 --> 00:02:48,959
+Projects really start to come alive when
+ 
+
+181
+00:02:48,959 --> 00:02:50,949
+Projects really start to come alive when
+Claude can actually act on your real
+
+182
+00:02:50,949 --> 00:02:50,959
+Claude can actually act on your real
+ 
+
+183
+00:02:50,959 --> 00:02:52,710
+Claude can actually act on your real
+files. And for that, you need to step
+
+184
+00:02:52,710 --> 00:02:52,720
+files. And for that, you need to step
+ 
+
+185
+00:02:52,720 --> 00:02:54,869
+files. And for that, you need to step
+off the web. Number four is Claude
+
+186
+00:02:54,869 --> 00:02:54,879
+off the web. Number four is Claude
+ 
+
+187
+00:02:54,879 --> 00:02:56,790
+off the web. Number four is Claude
+Desktop. So far, we've been using Claude
+
+188
+00:02:56,790 --> 00:02:56,800
+Desktop. So far, we've been using Claude
+ 
+
+189
+00:02:56,800 --> 00:02:59,110
+Desktop. So far, we've been using Claude
+on the web, but Claudei is barely
+
+190
+00:02:59,110 --> 00:02:59,120
+on the web, but Claudei is barely
+ 
+
+191
+00:02:59,120 --> 00:03:00,949
+on the web, but Claudei is barely
+scratching the surface of what's
+
+192
+00:03:00,949 --> 00:03:00,959
+scratching the surface of what's
+ 
+
+193
+00:03:00,959 --> 00:03:02,390
+scratching the surface of what's
+possible. There's actually an app you
+
+194
+00:03:02,390 --> 00:03:02,400
+possible. There's actually an app you
+ 
+
+195
+00:03:02,400 --> 00:03:04,149
+possible. There's actually an app you
+can install on your Mac or PC for
+
+196
+00:03:04,149 --> 00:03:04,159
+can install on your Mac or PC for
+ 
+
+197
+00:03:04,159 --> 00:03:05,509
+can install on your Mac or PC for
+Claude, and it's not just to wrap around
+
+198
+00:03:05,509 --> 00:03:05,519
+Claude, and it's not just to wrap around
+ 
+
+199
+00:03:05,519 --> 00:03:06,790
+Claude, and it's not just to wrap around
+the chat models. It gives you the
+
+200
+00:03:06,790 --> 00:03:06,800
+the chat models. It gives you the
+ 
+
+201
+00:03:06,800 --> 00:03:08,470
+the chat models. It gives you the
+ability to use some of the more advanced
+
+202
+00:03:08,470 --> 00:03:08,480
+ability to use some of the more advanced
+ 
+
+203
+00:03:08,480 --> 00:03:10,149
+ability to use some of the more advanced
+Claude products and features like
+
+204
+00:03:10,149 --> 00:03:10,159
+Claude products and features like
+ 
+
+205
+00:03:10,159 --> 00:03:12,149
+Claude products and features like
+co-work, code, and routines. If you've
+
+206
+00:03:12,149 --> 00:03:12,159
+co-work, code, and routines. If you've
+ 
+
+207
+00:03:12,159 --> 00:03:13,830
+co-work, code, and routines. If you've
+only used Claude in your browser,
+
+208
+00:03:13,830 --> 00:03:13,840
+only used Claude in your browser,
+ 
+
+209
+00:03:13,840 --> 00:03:15,430
+only used Claude in your browser,
+install the desktop app. The next four
+
+210
+00:03:15,430 --> 00:03:15,440
+install the desktop app. The next four
+ 
+
+211
+00:03:15,440 --> 00:03:17,030
+install the desktop app. The next four
+things on this list all live there.
+
+212
+00:03:17,030 --> 00:03:17,040
+things on this list all live there.
+ 
+
+213
+00:03:17,040 --> 00:03:19,030
+things on this list all live there.
+Number five, Co-work. And now we're
+
+214
+00:03:19,030 --> 00:03:19,040
+Number five, Co-work. And now we're
+ 
+
+215
+00:03:19,040 --> 00:03:20,869
+Number five, Co-work. And now we're
+finally getting somewhere. Co-work can
+
+216
+00:03:20,869 --> 00:03:20,879
+finally getting somewhere. Co-work can
+ 
+
+217
+00:03:20,879 --> 00:03:23,190
+finally getting somewhere. Co-work can
+see every file in a folder you pointed
+
+218
+00:03:23,190 --> 00:03:23,200
+see every file in a folder you pointed
+ 
+
+219
+00:03:23,200 --> 00:03:25,350
+see every file in a folder you pointed
+at. It can open them, edit them, create
+
+220
+00:03:25,350 --> 00:03:25,360
+at. It can open them, edit them, create
+ 
+
+221
+00:03:25,360 --> 00:03:27,589
+at. It can open them, edit them, create
+new ones, organize them, and even run
+
+222
+00:03:27,589 --> 00:03:27,599
+new ones, organize them, and even run
+ 
+
+223
+00:03:27,599 --> 00:03:29,430
+new ones, organize them, and even run
+scripts. When you use co-work, you give
+
+224
+00:03:29,430 --> 00:03:29,440
+scripts. When you use co-work, you give
+ 
+
+225
+00:03:29,440 --> 00:03:31,509
+scripts. When you use co-work, you give
+it a task and it goes and does that
+
+226
+00:03:31,509 --> 00:03:31,519
+it a task and it goes and does that
+ 
+
+227
+00:03:31,519 --> 00:03:33,509
+it a task and it goes and does that
+task. It can create a PowerPoint for
+
+228
+00:03:33,509 --> 00:03:33,519
+task. It can create a PowerPoint for
+ 
+
+229
+00:03:33,519 --> 00:03:35,270
+task. It can create a PowerPoint for
+you, save it to your documents, and then
+
+230
+00:03:35,270 --> 00:03:35,280
+you, save it to your documents, and then
+ 
+
+231
+00:03:35,280 --> 00:03:37,030
+you, save it to your documents, and then
+go and edit that same document later.
+
+232
+00:03:37,030 --> 00:03:37,040
+go and edit that same document later.
+ 
+
+233
+00:03:37,040 --> 00:03:39,350
+go and edit that same document later.
+It's when AI starts to do real work. And
+
+234
+00:03:39,350 --> 00:03:39,360
+It's when AI starts to do real work. And
+ 
+
+235
+00:03:39,360 --> 00:03:41,030
+It's when AI starts to do real work. And
+co-work is built for people who don't
+
+236
+00:03:41,030 --> 00:03:41,040
+co-work is built for people who don't
+ 
+
+237
+00:03:41,040 --> 00:03:42,630
+co-work is built for people who don't
+code, but still want the power of the
+
+238
+00:03:42,630 --> 00:03:42,640
+code, but still want the power of the
+ 
+
+239
+00:03:42,640 --> 00:03:44,390
+code, but still want the power of the
+Claude code agent hardness underneath.
+
+240
+00:03:44,390 --> 00:03:44,400
+Claude code agent hardness underneath.
+ 
+
+241
+00:03:44,400 --> 00:03:45,990
+Claude code agent hardness underneath.
+But the thing is, co-work doesn't get
+
+242
+00:03:45,990 --> 00:03:46,000
+But the thing is, co-work doesn't get
+ 
+
+243
+00:03:46,000 --> 00:03:47,830
+But the thing is, co-work doesn't get
+blanket access to your machine. It runs
+
+244
+00:03:47,830 --> 00:03:47,840
+blanket access to your machine. It runs
+ 
+
+245
+00:03:47,840 --> 00:03:49,430
+blanket access to your machine. It runs
+in a virtual environment, and you pick
+
+246
+00:03:49,430 --> 00:03:49,440
+in a virtual environment, and you pick
+ 
+
+247
+00:03:49,440 --> 00:03:50,949
+in a virtual environment, and you pick
+the folders it can see and edit.
+
+248
+00:03:50,949 --> 00:03:50,959
+the folders it can see and edit.
+ 
+
+249
+00:03:50,959 --> 00:03:52,710
+the folders it can see and edit.
+Projects are useful here, too, because
+
+250
+00:03:52,710 --> 00:03:52,720
+Projects are useful here, too, because
+ 
+
+251
+00:03:52,720 --> 00:03:54,710
+Projects are useful here, too, because
+each project gives you a natural file
+
+252
+00:03:54,710 --> 00:03:54,720
+each project gives you a natural file
+ 
+
+253
+00:03:54,720 --> 00:03:56,470
+each project gives you a natural file
+system barrier. This is the rung where
+
+254
+00:03:56,470 --> 00:03:56,480
+system barrier. This is the rung where
+ 
+
+255
+00:03:56,480 --> 00:03:58,630
+system barrier. This is the rung where
+most people's jaws drop because for the
+
+256
+00:03:58,630 --> 00:03:58,640
+most people's jaws drop because for the
+ 
+
+257
+00:03:58,640 --> 00:04:00,789
+most people's jaws drop because for the
+first time, Claude is doing real work on
+
+258
+00:04:00,789 --> 00:04:00,799
+first time, Claude is doing real work on
+ 
+
+259
+00:04:00,799 --> 00:04:02,550
+first time, Claude is doing real work on
+real files instead of just talking about
+
+260
+00:04:02,550 --> 00:04:02,560
+real files instead of just talking about
+ 
+
+261
+00:04:02,560 --> 00:04:04,630
+real files instead of just talking about
+it. Co-work also unlocks a different
+
+262
+00:04:04,630 --> 00:04:04,640
+it. Co-work also unlocks a different
+ 
+
+263
+00:04:04,640 --> 00:04:06,630
+it. Co-work also unlocks a different
+kind of artifact, one I promised
+
+264
+00:04:06,630 --> 00:04:06,640
+kind of artifact, one I promised
+ 
+
+265
+00:04:06,640 --> 00:04:09,190
+kind of artifact, one I promised
+earlier. Number six, live artifact. Live
+
+266
+00:04:09,190 --> 00:04:09,200
+earlier. Number six, live artifact. Live
+ 
+
+267
+00:04:09,200 --> 00:04:11,509
+earlier. Number six, live artifact. Live
+artifacts are the same idea as artifacts
+
+268
+00:04:11,509 --> 00:04:11,519
+artifacts are the same idea as artifacts
+ 
+
+269
+00:04:11,519 --> 00:04:13,350
+artifacts are the same idea as artifacts
+in chat, but instead of being static,
+
+270
+00:04:13,350 --> 00:04:13,360
+in chat, but instead of being static,
+ 
+
+271
+00:04:13,360 --> 00:04:15,589
+in chat, but instead of being static,
+every time you open one, it pulls fresh
+
+272
+00:04:15,589 --> 00:04:15,599
+every time you open one, it pulls fresh
+ 
+
+273
+00:04:15,599 --> 00:04:17,110
+every time you open one, it pulls fresh
+data through your connectors. This means
+
+274
+00:04:17,110 --> 00:04:17,120
+data through your connectors. This means
+ 
+
+275
+00:04:17,120 --> 00:04:18,710
+data through your connectors. This means
+that you don't have to go and regenerate
+
+276
+00:04:18,710 --> 00:04:18,720
+that you don't have to go and regenerate
+ 
+
+277
+00:04:18,720 --> 00:04:20,390
+that you don't have to go and regenerate
+your artifacts, which burns a bunch of
+
+278
+00:04:20,390 --> 00:04:20,400
+your artifacts, which burns a bunch of
+ 
+
+279
+00:04:20,400 --> 00:04:22,310
+your artifacts, which burns a bunch of
+tokens. Instead, you can build them once
+
+280
+00:04:22,310 --> 00:04:22,320
+tokens. Instead, you can build them once
+ 
+
+281
+00:04:22,320 --> 00:04:24,550
+tokens. Instead, you can build them once
+and have Claude fetch new data from your
+
+282
+00:04:24,550 --> 00:04:24,560
+and have Claude fetch new data from your
+ 
+
+283
+00:04:24,560 --> 00:04:26,310
+and have Claude fetch new data from your
+connectors to populate that artifact
+
+284
+00:04:26,310 --> 00:04:26,320
+connectors to populate that artifact
+ 
+
+285
+00:04:26,320 --> 00:04:28,230
+connectors to populate that artifact
+every time you open it or refresh it,
+
+286
+00:04:28,230 --> 00:04:28,240
+every time you open it or refresh it,
+ 
+
+287
+00:04:28,240 --> 00:04:29,830
+every time you open it or refresh it,
+but now they're permanently useful. And
+
+288
+00:04:29,830 --> 00:04:29,840
+but now they're permanently useful. And
+ 
+
+289
+00:04:29,840 --> 00:04:31,270
+but now they're permanently useful. And
+these are built inside of Claude
+
+290
+00:04:31,270 --> 00:04:31,280
+these are built inside of Claude
+ 
+
+291
+00:04:31,280 --> 00:04:32,870
+these are built inside of Claude
+Co-work. And Claude can even help you
+
+292
+00:04:32,870 --> 00:04:32,880
+Co-work. And Claude can even help you
+ 
+
+293
+00:04:32,880 --> 00:04:34,310
+Co-work. And Claude can even help you
+build them for you. Just go into the
+
+294
+00:04:34,310 --> 00:04:34,320
+build them for you. Just go into the
+ 
+
+295
+00:04:34,320 --> 00:04:36,070
+build them for you. Just go into the
+live artifacts menu, hit new artifact,
+
+296
+00:04:36,070 --> 00:04:36,080
+live artifacts menu, hit new artifact,
+ 
+
+297
+00:04:36,080 --> 00:04:37,909
+live artifacts menu, hit new artifact,
+and Claude will build whatever you need
+
+298
+00:04:37,909 --> 00:04:37,919
+and Claude will build whatever you need
+ 
+
+299
+00:04:37,919 --> 00:04:39,749
+and Claude will build whatever you need
+to create. You can connect your tools,
+
+300
+00:04:39,749 --> 00:04:39,759
+to create. You can connect your tools,
+ 
+
+301
+00:04:39,759 --> 00:04:41,749
+to create. You can connect your tools,
+build a custom dashboard that's actually
+
+302
+00:04:41,749 --> 00:04:41,759
+build a custom dashboard that's actually
+ 
+
+303
+00:04:41,759 --> 00:04:43,430
+build a custom dashboard that's actually
+useful, and even share that with your
+
+304
+00:04:43,430 --> 00:04:43,440
+useful, and even share that with your
+ 
+
+305
+00:04:43,440 --> 00:04:44,710
+useful, and even share that with your
+team. This is one of the first projects
+
+306
+00:04:44,710 --> 00:04:44,720
+team. This is one of the first projects
+ 
+
+307
+00:04:44,720 --> 00:04:45,830
+team. This is one of the first projects
+I get people to build when they're
+
+308
+00:04:45,830 --> 00:04:45,840
+I get people to build when they're
+ 
+
+309
+00:04:45,840 --> 00:04:47,270
+I get people to build when they're
+learning co-work because it brings so
+
+310
+00:04:47,270 --> 00:04:47,280
+learning co-work because it brings so
+ 
+
+311
+00:04:47,280 --> 00:04:48,629
+learning co-work because it brings so
+much of it together for them. It's a
+
+312
+00:04:48,629 --> 00:04:48,639
+much of it together for them. It's a
+ 
+
+313
+00:04:48,639 --> 00:04:50,629
+much of it together for them. It's a
+real aha moment because they see Claude
+
+314
+00:04:50,629 --> 00:04:50,639
+real aha moment because they see Claude
+ 
+
+315
+00:04:50,639 --> 00:04:52,310
+real aha moment because they see Claude
+building a real persistent business
+
+316
+00:04:52,310 --> 00:04:52,320
+building a real persistent business
+ 
+
+317
+00:04:52,320 --> 00:04:54,550
+building a real persistent business
+asset. Number seven, skills. And this is
+
+318
+00:04:54,550 --> 00:04:54,560
+asset. Number seven, skills. And this is
+ 
+
+319
+00:04:54,560 --> 00:04:56,070
+asset. Number seven, skills. And this is
+the one that most people will end up
+
+320
+00:04:56,070 --> 00:04:56,080
+the one that most people will end up
+ 
+
+321
+00:04:56,080 --> 00:04:57,990
+the one that most people will end up
+using more than anything else on this
+
+322
+00:04:57,990 --> 00:04:58,000
+using more than anything else on this
+ 
+
+323
+00:04:58,000 --> 00:04:59,909
+using more than anything else on this
+list. A skill is just a folder, and
+
+324
+00:04:59,909 --> 00:04:59,919
+list. A skill is just a folder, and
+ 
+
+325
+00:04:59,919 --> 00:05:01,749
+list. A skill is just a folder, and
+inside that folder is a file called
+
+326
+00:05:01,749 --> 00:05:01,759
+inside that folder is a file called
+ 
+
+327
+00:05:01,759 --> 00:05:04,070
+inside that folder is a file called
+skill.md with instructions for how
+
+328
+00:05:04,070 --> 00:05:04,080
+skill.md with instructions for how
+ 
+
+329
+00:05:04,080 --> 00:05:06,150
+skill.md with instructions for how
+Claude should do a specific job. Claude
+
+330
+00:05:06,150 --> 00:05:06,160
+Claude should do a specific job. Claude
+ 
+
+331
+00:05:06,160 --> 00:05:07,430
+Claude should do a specific job. Claude
+is pretty intelligent, but it doesn't
+
+332
+00:05:07,430 --> 00:05:07,440
+is pretty intelligent, but it doesn't
+ 
+
+333
+00:05:07,440 --> 00:05:09,510
+is pretty intelligent, but it doesn't
+have the domain knowledge required to do
+
+334
+00:05:09,510 --> 00:05:09,520
+have the domain knowledge required to do
+ 
+
+335
+00:05:09,520 --> 00:05:11,189
+have the domain knowledge required to do
+real world tasks, especially ones that
+
+336
+00:05:11,189 --> 00:05:11,199
+real world tasks, especially ones that
+ 
+
+337
+00:05:11,199 --> 00:05:12,790
+real world tasks, especially ones that
+are specific to your workflow. That's
+
+338
+00:05:12,790 --> 00:05:12,800
+are specific to your workflow. That's
+ 
+
+339
+00:05:12,800 --> 00:05:13,909
+are specific to your workflow. That's
+where skills come in because they
+
+340
+00:05:13,909 --> 00:05:13,919
+where skills come in because they
+ 
+
+341
+00:05:13,919 --> 00:05:15,830
+where skills come in because they
+package up knowledge, scripts, and
+
+342
+00:05:15,830 --> 00:05:15,840
+package up knowledge, scripts, and
+ 
+
+343
+00:05:15,840 --> 00:05:17,749
+package up knowledge, scripts, and
+contexts so that Claude can invoke them
+
+344
+00:05:17,749 --> 00:05:17,759
+contexts so that Claude can invoke them
+ 
+
+345
+00:05:17,759 --> 00:05:19,590
+contexts so that Claude can invoke them
+when it needs to do a specific job.
+
+346
+00:05:19,590 --> 00:05:19,600
+when it needs to do a specific job.
+ 
+
+347
+00:05:19,600 --> 00:05:21,510
+when it needs to do a specific job.
+Claude has a bunch of pre-built skills,
+
+348
+00:05:21,510 --> 00:05:21,520
+Claude has a bunch of pre-built skills,
+ 
+
+349
+00:05:21,520 --> 00:05:22,710
+Claude has a bunch of pre-built skills,
+and you can even get them from the
+
+350
+00:05:22,710 --> 00:05:22,720
+and you can even get them from the
+ 
+
+351
+00:05:22,720 --> 00:05:24,710
+and you can even get them from the
+customiz menu super easily. One of those
+
+352
+00:05:24,710 --> 00:05:24,720
+customiz menu super easily. One of those
+ 
+
+353
+00:05:24,720 --> 00:05:26,710
+customiz menu super easily. One of those
+pre-built skills is skill creator, and
+
+354
+00:05:26,710 --> 00:05:26,720
+pre-built skills is skill creator, and
+ 
+
+355
+00:05:26,720 --> 00:05:28,550
+pre-built skills is skill creator, and
+it's a skill that lets you create your
+
+356
+00:05:28,550 --> 00:05:28,560
+it's a skill that lets you create your
+ 
+
+357
+00:05:28,560 --> 00:05:30,150
+it's a skill that lets you create your
+own skills. The part that makes skills
+
+358
+00:05:30,150 --> 00:05:30,160
+own skills. The part that makes skills
+ 
+
+359
+00:05:30,160 --> 00:05:31,430
+own skills. The part that makes skills
+different from everything else in this
+
+360
+00:05:31,430 --> 00:05:31,440
+different from everything else in this
+ 
+
+361
+00:05:31,440 --> 00:05:33,430
+different from everything else in this
+video is that they work everywhere. The
+
+362
+00:05:33,430 --> 00:05:33,440
+video is that they work everywhere. The
+ 
+
+363
+00:05:33,440 --> 00:05:36,230
+video is that they work everywhere. The
+same skill runs in chat, co-work, and in
+
+364
+00:05:36,230 --> 00:05:36,240
+same skill runs in chat, co-work, and in
+ 
+
+365
+00:05:36,240 --> 00:05:37,749
+same skill runs in chat, co-work, and in
+the PowerPoint extension. They can even
+
+366
+00:05:37,749 --> 00:05:37,759
+the PowerPoint extension. They can even
+ 
+
+367
+00:05:37,759 --> 00:05:39,430
+the PowerPoint extension. They can even
+be shared with other people. I used
+
+368
+00:05:39,430 --> 00:05:39,440
+be shared with other people. I used
+ 
+
+369
+00:05:39,440 --> 00:05:41,189
+be shared with other people. I used
+about six of them to create this video
+
+370
+00:05:41,189 --> 00:05:41,199
+about six of them to create this video
+ 
+
+371
+00:05:41,199 --> 00:05:43,029
+about six of them to create this video
+you're watching right now. Brand voice,
+
+372
+00:05:43,029 --> 00:05:43,039
+you're watching right now. Brand voice,
+ 
+
+373
+00:05:43,039 --> 00:05:45,189
+you're watching right now. Brand voice,
+scripting, hook generation, thumbnail
+
+374
+00:05:45,189 --> 00:05:45,199
+scripting, hook generation, thumbnail
+ 
+
+375
+00:05:45,199 --> 00:05:47,110
+scripting, hook generation, thumbnail
+creation. Skills are the multiplier.
+
+376
+00:05:47,110 --> 00:05:47,120
+creation. Skills are the multiplier.
+ 
+
+377
+00:05:47,120 --> 00:05:48,950
+creation. Skills are the multiplier.
+Every other product on this list gets
+
+378
+00:05:48,950 --> 00:05:48,960
+Every other product on this list gets
+ 
+
+379
+00:05:48,960 --> 00:05:51,189
+Every other product on this list gets
+dramatically better the moment you teach
+
+380
+00:05:51,189 --> 00:05:51,199
+dramatically better the moment you teach
+ 
+
+381
+00:05:51,199 --> 00:05:53,670
+dramatically better the moment you teach
+Claude how you actually want things to
+
+382
+00:05:53,670 --> 00:05:53,680
+Claude how you actually want things to
+ 
+
+383
+00:05:53,680 --> 00:05:55,590
+Claude how you actually want things to
+get done. Good skills are hard to find,
+
+384
+00:05:55,590 --> 00:05:55,600
+get done. Good skills are hard to find,
+ 
+
+385
+00:05:55,600 --> 00:05:57,350
+get done. Good skills are hard to find,
+and the bad ones will waste your tokens
+
+386
+00:05:57,350 --> 00:05:57,360
+and the bad ones will waste your tokens
+ 
+
+387
+00:05:57,360 --> 00:05:59,270
+and the bad ones will waste your tokens
+or worse. So, I'm building a vetted
+
+388
+00:05:59,270 --> 00:05:59,280
+or worse. So, I'm building a vetted
+ 
+
+389
+00:05:59,280 --> 00:06:01,270
+or worse. So, I'm building a vetted
+marketplace for the skills I actually
+
+390
+00:06:01,270 --> 00:06:01,280
+marketplace for the skills I actually
+ 
+
+391
+00:06:01,280 --> 00:06:02,310
+marketplace for the skills I actually
+use. There's the links in the
+
+392
+00:06:02,310 --> 00:06:02,320
+use. There's the links in the
+ 
+
+393
+00:06:02,320 --> 00:06:03,510
+use. There's the links in the
+description below if you want to be on
+
+394
+00:06:03,510 --> 00:06:03,520
+description below if you want to be on
+ 
+
+395
+00:06:03,520 --> 00:06:05,670
+description below if you want to be on
+the wait list. Number eight is Dispatch.
+
+396
+00:06:05,670 --> 00:06:05,680
+the wait list. Number eight is Dispatch.
+ 
+
+397
+00:06:05,680 --> 00:06:07,189
+the wait list. Number eight is Dispatch.
+Dispatch is the bridge between your
+
+398
+00:06:07,189 --> 00:06:07,199
+Dispatch is the bridge between your
+ 
+
+399
+00:06:07,199 --> 00:06:09,110
+Dispatch is the bridge between your
+phone and your desktop. You can hand off
+
+400
+00:06:09,110 --> 00:06:09,120
+phone and your desktop. You can hand off
+ 
+
+401
+00:06:09,120 --> 00:06:10,870
+phone and your desktop. You can hand off
+a task from the Claude app on your phone
+
+402
+00:06:10,870 --> 00:06:10,880
+a task from the Claude app on your phone
+ 
+
+403
+00:06:10,880 --> 00:06:12,870
+a task from the Claude app on your phone
+and Claude does the work back at home on
+
+404
+00:06:12,870 --> 00:06:12,880
+and Claude does the work back at home on
+ 
+
+405
+00:06:12,880 --> 00:06:14,790
+and Claude does the work back at home on
+your desktop with all the same files and
+
+406
+00:06:14,790 --> 00:06:14,800
+your desktop with all the same files and
+ 
+
+407
+00:06:14,800 --> 00:06:16,230
+your desktop with all the same files and
+all the same connectors. You get the
+
+408
+00:06:16,230 --> 00:06:16,240
+all the same connectors. You get the
+ 
+
+409
+00:06:16,240 --> 00:06:18,309
+all the same connectors. You get the
+result back on your phone. And Dispatch
+
+410
+00:06:18,309 --> 00:06:18,319
+result back on your phone. And Dispatch
+ 
+
+411
+00:06:18,319 --> 00:06:20,070
+result back on your phone. And Dispatch
+is a fundamental redesign of the
+
+412
+00:06:20,070 --> 00:06:20,080
+is a fundamental redesign of the
+ 
+
+413
+00:06:20,080 --> 00:06:21,590
+is a fundamental redesign of the
+traditional AI workflow. Because up
+
+414
+00:06:21,590 --> 00:06:21,600
+traditional AI workflow. Because up
+ 
+
+415
+00:06:21,600 --> 00:06:23,189
+traditional AI workflow. Because up
+until now, we've been actively working
+
+416
+00:06:23,189 --> 00:06:23,199
+until now, we've been actively working
+ 
+
+417
+00:06:23,199 --> 00:06:24,629
+until now, we've been actively working
+with Claude to get our work done. But
+
+418
+00:06:24,629 --> 00:06:24,639
+with Claude to get our work done. But
+ 
+
+419
+00:06:24,639 --> 00:06:25,909
+with Claude to get our work done. But
+this flips it on its head because
+
+420
+00:06:25,909 --> 00:06:25,919
+this flips it on its head because
+ 
+
+421
+00:06:25,919 --> 00:06:27,990
+this flips it on its head because
+Dispatch is designed to give Claude a
+
+422
+00:06:27,990 --> 00:06:28,000
+Dispatch is designed to give Claude a
+ 
+
+423
+00:06:28,000 --> 00:06:29,749
+Dispatch is designed to give Claude a
+task remotely and then have the work
+
+424
+00:06:29,749 --> 00:06:29,759
+task remotely and then have the work
+ 
+
+425
+00:06:29,759 --> 00:06:31,430
+task remotely and then have the work
+completed and given back to you when
+
+426
+00:06:31,430 --> 00:06:31,440
+completed and given back to you when
+ 
+
+427
+00:06:31,440 --> 00:06:33,189
+completed and given back to you when
+it's done. It's one shared conversation
+
+428
+00:06:33,189 --> 00:06:33,199
+it's done. It's one shared conversation
+ 
+
+429
+00:06:33,199 --> 00:06:35,110
+it's done. It's one shared conversation
+across the two devices. So you can pick
+
+430
+00:06:35,110 --> 00:06:35,120
+across the two devices. So you can pick
+ 
+
+431
+00:06:35,120 --> 00:06:37,189
+across the two devices. So you can pick
+the task back up on your computer once
+
+432
+00:06:37,189 --> 00:06:37,199
+the task back up on your computer once
+ 
+
+433
+00:06:37,199 --> 00:06:38,950
+the task back up on your computer once
+you get back from your walk or the cafe.
+
+434
+00:06:38,950 --> 00:06:38,960
+you get back from your walk or the cafe.
+ 
+
+435
+00:06:38,960 --> 00:06:40,870
+you get back from your walk or the cafe.
+So co-work and dispatch handle your work
+
+436
+00:06:40,870 --> 00:06:40,880
+So co-work and dispatch handle your work
+ 
+
+437
+00:06:40,880 --> 00:06:42,390
+So co-work and dispatch handle your work
+on your computer. But if a lot of your
+
+438
+00:06:42,390 --> 00:06:42,400
+on your computer. But if a lot of your
+ 
+
+439
+00:06:42,400 --> 00:06:44,550
+on your computer. But if a lot of your
+day is actually spent inside other apps,
+
+440
+00:06:44,550 --> 00:06:44,560
+day is actually spent inside other apps,
+ 
+
+441
+00:06:44,560 --> 00:06:46,070
+day is actually spent inside other apps,
+that's when these next two come in.
+
+442
+00:06:46,070 --> 00:06:46,080
+that's when these next two come in.
+ 
+
+443
+00:06:46,080 --> 00:06:48,150
+that's when these next two come in.
+Number nine, Claude in Word, PowerPoint,
+
+444
+00:06:48,150 --> 00:06:48,160
+Number nine, Claude in Word, PowerPoint,
+ 
+
+445
+00:06:48,160 --> 00:06:49,590
+Number nine, Claude in Word, PowerPoint,
+and Excel. These are enthropic
+
+446
+00:06:49,590 --> 00:06:49,600
+and Excel. These are enthropic
+ 
+
+447
+00:06:49,600 --> 00:06:51,430
+and Excel. These are enthropic
+extensions that put Claude directly
+
+448
+00:06:51,430 --> 00:06:51,440
+extensions that put Claude directly
+ 
+
+449
+00:06:51,440 --> 00:06:53,110
+extensions that put Claude directly
+inside of Microsoft Office. It's the
+
+450
+00:06:53,110 --> 00:06:53,120
+inside of Microsoft Office. It's the
+ 
+
+451
+00:06:53,120 --> 00:06:54,790
+inside of Microsoft Office. It's the
+same Claude you've been using, but now
+
+452
+00:06:54,790 --> 00:06:54,800
+same Claude you've been using, but now
+ 
+
+453
+00:06:54,800 --> 00:06:56,629
+same Claude you've been using, but now
+it can actually read your slide deck or
+
+454
+00:06:56,629 --> 00:06:56,639
+it can actually read your slide deck or
+ 
+
+455
+00:06:56,639 --> 00:06:58,469
+it can actually read your slide deck or
+your spreadsheet while you're editing it
+
+456
+00:06:58,469 --> 00:06:58,479
+your spreadsheet while you're editing it
+ 
+
+457
+00:06:58,479 --> 00:07:00,070
+your spreadsheet while you're editing it
+live from within the app. This is great
+
+458
+00:07:00,070 --> 00:07:00,080
+live from within the app. This is great
+ 
+
+459
+00:07:00,080 --> 00:07:01,909
+live from within the app. This is great
+for working on a file live with AI
+
+460
+00:07:01,909 --> 00:07:01,919
+for working on a file live with AI
+ 
+
+461
+00:07:01,919 --> 00:07:03,270
+for working on a file live with AI
+because you might have Claude generate
+
+462
+00:07:03,270 --> 00:07:03,280
+because you might have Claude generate
+ 
+
+463
+00:07:03,280 --> 00:07:04,870
+because you might have Claude generate
+the first draft of a slide deck from
+
+464
+00:07:04,870 --> 00:07:04,880
+the first draft of a slide deck from
+ 
+
+465
+00:07:04,880 --> 00:07:06,390
+the first draft of a slide deck from
+co-work and then go and open it up
+
+466
+00:07:06,390 --> 00:07:06,400
+co-work and then go and open it up
+ 
+
+467
+00:07:06,400 --> 00:07:08,629
+co-work and then go and open it up
+yourself and continue working on it live
+
+468
+00:07:08,629 --> 00:07:08,639
+yourself and continue working on it live
+ 
+
+469
+00:07:08,639 --> 00:07:10,790
+yourself and continue working on it live
+in PowerPoint with Claude right beside
+
+470
+00:07:10,790 --> 00:07:10,800
+in PowerPoint with Claude right beside
+ 
+
+471
+00:07:10,800 --> 00:07:12,309
+in PowerPoint with Claude right beside
+you. There are extensions for Word,
+
+472
+00:07:12,309 --> 00:07:12,319
+you. There are extensions for Word,
+ 
+
+473
+00:07:12,319 --> 00:07:14,309
+you. There are extensions for Word,
+PowerPoint, and Excel. In Word, it can
+
+474
+00:07:14,309 --> 00:07:14,319
+PowerPoint, and Excel. In Word, it can
+ 
+
+475
+00:07:14,319 --> 00:07:16,629
+PowerPoint, and Excel. In Word, it can
+draft, rewrite, and reformat documents
+
+476
+00:07:16,629 --> 00:07:16,639
+draft, rewrite, and reformat documents
+ 
+
+477
+00:07:16,639 --> 00:07:19,029
+draft, rewrite, and reformat documents
+in your tone. In PowerPoint, it reads
+
+478
+00:07:19,029 --> 00:07:19,039
+in your tone. In PowerPoint, it reads
+ 
+
+479
+00:07:19,039 --> 00:07:20,870
+in your tone. In PowerPoint, it reads
+your slides, your fonts, and your color
+
+480
+00:07:20,870 --> 00:07:20,880
+your slides, your fonts, and your color
+ 
+
+481
+00:07:20,880 --> 00:07:23,189
+your slides, your fonts, and your color
+schemes. So anything it creates stays on
+
+482
+00:07:23,189 --> 00:07:23,199
+schemes. So anything it creates stays on
+ 
+
+483
+00:07:23,199 --> 00:07:25,110
+schemes. So anything it creates stays on
+brand. You can create full slide decks
+
+484
+00:07:25,110 --> 00:07:25,120
+brand. You can create full slide decks
+ 
+
+485
+00:07:25,120 --> 00:07:27,189
+brand. You can create full slide decks
+in minutes. And in Excel, it can build
+
+486
+00:07:27,189 --> 00:07:27,199
+in minutes. And in Excel, it can build
+ 
+
+487
+00:07:27,199 --> 00:07:29,350
+in minutes. And in Excel, it can build
+detailed financial models, analyze
+
+488
+00:07:29,350 --> 00:07:29,360
+detailed financial models, analyze
+ 
+
+489
+00:07:29,360 --> 00:07:31,510
+detailed financial models, analyze
+multi-tab workbooks, explain every
+
+490
+00:07:31,510 --> 00:07:31,520
+multi-tab workbooks, explain every
+ 
+
+491
+00:07:31,520 --> 00:07:33,990
+multi-tab workbooks, explain every
+formula with cell level citations, and
+
+492
+00:07:33,990 --> 00:07:34,000
+formula with cell level citations, and
+ 
+
+493
+00:07:34,000 --> 00:07:35,589
+formula with cell level citations, and
+update your assumptions without breaking
+
+494
+00:07:35,589 --> 00:07:35,599
+update your assumptions without breaking
+ 
+
+495
+00:07:35,599 --> 00:07:36,950
+update your assumptions without breaking
+any of the dependencies underneath.
+
+496
+00:07:36,950 --> 00:07:36,960
+any of the dependencies underneath.
+ 
+
+497
+00:07:36,960 --> 00:07:38,710
+any of the dependencies underneath.
+These extensions share context with each
+
+498
+00:07:38,710 --> 00:07:38,720
+These extensions share context with each
+ 
+
+499
+00:07:38,720 --> 00:07:40,390
+These extensions share context with each
+other when you have multiple files open.
+
+500
+00:07:40,390 --> 00:07:40,400
+other when you have multiple files open.
+ 
+
+501
+00:07:40,400 --> 00:07:41,909
+other when you have multiple files open.
+So if you're working on an Excel model
+
+502
+00:07:41,909 --> 00:07:41,919
+So if you're working on an Excel model
+ 
+
+503
+00:07:41,919 --> 00:07:43,589
+So if you're working on an Excel model
+and then need to update a PowerPoint,
+
+504
+00:07:43,589 --> 00:07:43,599
+and then need to update a PowerPoint,
+ 
+
+505
+00:07:43,599 --> 00:07:45,270
+and then need to update a PowerPoint,
+you can do it without reexplaining
+
+506
+00:07:45,270 --> 00:07:45,280
+you can do it without reexplaining
+ 
+
+507
+00:07:45,280 --> 00:07:47,670
+you can do it without reexplaining
+anything. Number 10, Claude in Chrome.
+
+508
+00:07:47,670 --> 00:07:47,680
+anything. Number 10, Claude in Chrome.
+ 
+
+509
+00:07:47,680 --> 00:07:49,350
+anything. Number 10, Claude in Chrome.
+This is a browser extension that turns
+
+510
+00:07:49,350 --> 00:07:49,360
+This is a browser extension that turns
+ 
+
+511
+00:07:49,360 --> 00:07:51,670
+This is a browser extension that turns
+any tab into a place where Claude can do
+
+512
+00:07:51,670 --> 00:07:51,680
+any tab into a place where Claude can do
+ 
+
+513
+00:07:51,680 --> 00:07:53,670
+any tab into a place where Claude can do
+work. It can read what's on screen,
+
+514
+00:07:53,670 --> 00:07:53,680
+work. It can read what's on screen,
+ 
+
+515
+00:07:53,680 --> 00:07:55,430
+work. It can read what's on screen,
+click buttons, fill forms, manage
+
+516
+00:07:55,430 --> 00:07:55,440
+click buttons, fill forms, manage
+ 
+
+517
+00:07:55,440 --> 00:07:57,350
+click buttons, fill forms, manage
+multiple tabs, and run multi-step
+
+518
+00:07:57,350 --> 00:07:57,360
+multiple tabs, and run multi-step
+ 
+
+519
+00:07:57,360 --> 00:07:59,350
+multiple tabs, and run multi-step
+workflows from start to finish. You can
+
+520
+00:07:59,350 --> 00:07:59,360
+workflows from start to finish. You can
+ 
+
+521
+00:07:59,360 --> 00:08:00,710
+workflows from start to finish. You can
+trigger the Chrome extension from
+
+522
+00:08:00,710 --> 00:08:00,720
+trigger the Chrome extension from
+ 
+
+523
+00:08:00,720 --> 00:08:02,550
+trigger the Chrome extension from
+co-work or from code, or you can even
+
+524
+00:08:02,550 --> 00:08:02,560
+co-work or from code, or you can even
+ 
+
+525
+00:08:02,560 --> 00:08:04,230
+co-work or from code, or you can even
+talk to it directly from inside of
+
+526
+00:08:04,230 --> 00:08:04,240
+talk to it directly from inside of
+ 
+
+527
+00:08:04,240 --> 00:08:05,990
+talk to it directly from inside of
+Chrome. Really, it it's whatever fits
+
+528
+00:08:05,990 --> 00:08:06,000
+Chrome. Really, it it's whatever fits
+ 
+
+529
+00:08:06,000 --> 00:08:07,510
+Chrome. Really, it it's whatever fits
+the task at hand. The thing that really
+
+530
+00:08:07,510 --> 00:08:07,520
+the task at hand. The thing that really
+ 
+
+531
+00:08:07,520 --> 00:08:09,110
+the task at hand. The thing that really
+sets this one apart is that you can
+
+532
+00:08:09,110 --> 00:08:09,120
+sets this one apart is that you can
+ 
+
+533
+00:08:09,120 --> 00:08:11,189
+sets this one apart is that you can
+record a workflow once and then Claude
+
+534
+00:08:11,189 --> 00:08:11,199
+record a workflow once and then Claude
+ 
+
+535
+00:08:11,199 --> 00:08:12,469
+record a workflow once and then Claude
+learns the steps. So, if there's a
+
+536
+00:08:12,469 --> 00:08:12,479
+learns the steps. So, if there's a
+ 
+
+537
+00:08:12,479 --> 00:08:14,309
+learns the steps. So, if there's a
+clicky repetitive task you do every
+
+538
+00:08:14,309 --> 00:08:14,319
+clicky repetitive task you do every
+ 
+
+539
+00:08:14,319 --> 00:08:16,150
+clicky repetitive task you do every
+Monday, you can teach it and schedule it
+
+540
+00:08:16,150 --> 00:08:16,160
+Monday, you can teach it and schedule it
+ 
+
+541
+00:08:16,160 --> 00:08:18,150
+Monday, you can teach it and schedule it
+so it happens automatically. Once Claude
+
+542
+00:08:18,150 --> 00:08:18,160
+so it happens automatically. Once Claude
+ 
+
+543
+00:08:18,160 --> 00:08:19,430
+so it happens automatically. Once Claude
+can move around your apps and your
+
+544
+00:08:19,430 --> 00:08:19,440
+can move around your apps and your
+ 
+
+545
+00:08:19,440 --> 00:08:20,869
+can move around your apps and your
+browser, the next thing you'll want is
+
+546
+00:08:20,869 --> 00:08:20,879
+browser, the next thing you'll want is
+ 
+
+547
+00:08:20,879 --> 00:08:22,629
+browser, the next thing you'll want is
+for it to actually create the visual
+
+548
+00:08:22,629 --> 00:08:22,639
+for it to actually create the visual
+ 
+
+549
+00:08:22,639 --> 00:08:24,869
+for it to actually create the visual
+stuff for you. Design is Claude's visual
+
+550
+00:08:24,869 --> 00:08:24,879
+stuff for you. Design is Claude's visual
+ 
+
+551
+00:08:24,879 --> 00:08:26,550
+stuff for you. Design is Claude's visual
+workspace. It can build slides,
+
+552
+00:08:26,550 --> 00:08:26,560
+workspace. It can build slides,
+ 
+
+553
+00:08:26,560 --> 00:08:28,710
+workspace. It can build slides,
+infographics, posters, social posts, one
+
+554
+00:08:28,710 --> 00:08:28,720
+infographics, posters, social posts, one
+ 
+
+555
+00:08:28,720 --> 00:08:30,550
+infographics, posters, social posts, one
+pages, and even full wireframes. It's
+
+556
+00:08:30,550 --> 00:08:30,560
+pages, and even full wireframes. It's
+ 
+
+557
+00:08:30,560 --> 00:08:32,149
+pages, and even full wireframes. It's
+the same models, but the output renders
+
+558
+00:08:32,149 --> 00:08:32,159
+the same models, but the output renders
+ 
+
+559
+00:08:32,159 --> 00:08:33,829
+the same models, but the output renders
+in a designable canvas instead of
+
+560
+00:08:33,829 --> 00:08:33,839
+in a designable canvas instead of
+ 
+
+561
+00:08:33,839 --> 00:08:35,589
+in a designable canvas instead of
+dumping the message into a thread. I
+
+562
+00:08:35,589 --> 00:08:35,599
+dumping the message into a thread. I
+ 
+
+563
+00:08:35,599 --> 00:08:37,509
+dumping the message into a thread. I
+asked Claude for a five slide pitch deck
+
+564
+00:08:37,509 --> 00:08:37,519
+asked Claude for a five slide pitch deck
+ 
+
+565
+00:08:37,519 --> 00:08:39,589
+asked Claude for a five slide pitch deck
+for a fake AI consultancy. It structured
+
+566
+00:08:39,589 --> 00:08:39,599
+for a fake AI consultancy. It structured
+ 
+
+567
+00:08:39,599 --> 00:08:41,269
+for a fake AI consultancy. It structured
+the slide deck, the layout, the copy,
+
+568
+00:08:41,269 --> 00:08:41,279
+the slide deck, the layout, the copy,
+ 
+
+569
+00:08:41,279 --> 00:08:42,709
+the slide deck, the layout, the copy,
+all of it. And then I can just ask
+
+570
+00:08:42,709 --> 00:08:42,719
+all of it. And then I can just ask
+ 
+
+571
+00:08:42,719 --> 00:08:44,389
+all of it. And then I can just ask
+Claude to change it. I can even export
+
+572
+00:08:44,389 --> 00:08:44,399
+Claude to change it. I can even export
+ 
+
+573
+00:08:44,399 --> 00:08:46,870
+Claude to change it. I can even export
+these as PDFs, a PowerPoint, HTML, or
+
+574
+00:08:46,870 --> 00:08:46,880
+these as PDFs, a PowerPoint, HTML, or
+ 
+
+575
+00:08:46,880 --> 00:08:48,389
+these as PDFs, a PowerPoint, HTML, or
+push it straight to Caner if I wanted
+
+576
+00:08:48,389 --> 00:08:48,399
+push it straight to Caner if I wanted
+ 
+
+577
+00:08:48,399 --> 00:08:50,310
+push it straight to Caner if I wanted
+to. If you've ever opened a blank Canva
+
+578
+00:08:50,310 --> 00:08:50,320
+to. If you've ever opened a blank Canva
+ 
+
+579
+00:08:50,320 --> 00:08:52,070
+to. If you've ever opened a blank Canva
+template and st it for 10 minutes,
+
+580
+00:08:52,070 --> 00:08:52,080
+template and st it for 10 minutes,
+ 
+
+581
+00:08:52,080 --> 00:08:53,670
+template and st it for 10 minutes,
+that's the problem that Claude design
+
+582
+00:08:53,670 --> 00:08:53,680
+that's the problem that Claude design
+ 
+
+583
+00:08:53,680 --> 00:08:55,509
+that's the problem that Claude design
+solves. You can use this to vibe Design
+
+584
+00:08:55,509 --> 00:08:55,519
+solves. You can use this to vibe Design
+ 
+
+585
+00:08:55,519 --> 00:08:57,509
+solves. You can use this to vibe Design
+Apps, too. It can build wireframes,
+
+586
+00:08:57,509 --> 00:08:57,519
+Apps, too. It can build wireframes,
+ 
+
+587
+00:08:57,519 --> 00:08:59,190
+Apps, too. It can build wireframes,
+highfidelity frontends, and once you're
+
+588
+00:08:59,190 --> 00:08:59,200
+highfidelity frontends, and once you're
+ 
+
+589
+00:08:59,200 --> 00:09:00,630
+highfidelity frontends, and once you're
+happy with it, you can hand it off to
+
+590
+00:09:00,630 --> 00:09:00,640
+happy with it, you can hand it off to
+ 
+
+591
+00:09:00,640 --> 00:09:02,310
+happy with it, you can hand it off to
+Claude Code to actually develop the back
+
+592
+00:09:02,310 --> 00:09:02,320
+Claude Code to actually develop the back
+ 
+
+593
+00:09:02,320 --> 00:09:04,949
+Claude Code to actually develop the back
+end. Number 12 is Claude Code. Claude
+
+594
+00:09:04,949 --> 00:09:04,959
+end. Number 12 is Claude Code. Claude
+ 
+
+595
+00:09:04,959 --> 00:09:06,949
+end. Number 12 is Claude Code. Claude
+Code runs in your terminal or inside of
+
+596
+00:09:06,949 --> 00:09:06,959
+Code runs in your terminal or inside of
+ 
+
+597
+00:09:06,959 --> 00:09:08,630
+Code runs in your terminal or inside of
+the desktop app and it's the most
+
+598
+00:09:08,630 --> 00:09:08,640
+the desktop app and it's the most
+ 
+
+599
+00:09:08,640 --> 00:09:10,230
+the desktop app and it's the most
+powerful way to use Claude and you don't
+
+600
+00:09:10,230 --> 00:09:10,240
+powerful way to use Claude and you don't
+ 
+
+601
+00:09:10,240 --> 00:09:11,829
+powerful way to use Claude and you don't
+even need to be a developer to use it.
+
+602
+00:09:11,829 --> 00:09:11,839
+even need to be a developer to use it.
+ 
+
+603
+00:09:11,839 --> 00:09:13,670
+even need to be a developer to use it.
+Most people think Claude Code is just
+
+604
+00:09:13,670 --> 00:09:13,680
+Most people think Claude Code is just
+ 
+
+605
+00:09:13,680 --> 00:09:15,910
+Most people think Claude Code is just
+for coding and it is incredible at that.
+
+606
+00:09:15,910 --> 00:09:15,920
+for coding and it is incredible at that.
+ 
+
+607
+00:09:15,920 --> 00:09:17,750
+for coding and it is incredible at that.
+But it will happily do almost anything
+
+608
+00:09:17,750 --> 00:09:17,760
+But it will happily do almost anything
+ 
+
+609
+00:09:17,760 --> 00:09:19,590
+But it will happily do almost anything
+else you can do on your computer and
+
+610
+00:09:19,590 --> 00:09:19,600
+else you can do on your computer and
+ 
+
+611
+00:09:19,600 --> 00:09:21,269
+else you can do on your computer and
+it's particularly good at go to market
+
+612
+00:09:21,269 --> 00:09:21,279
+it's particularly good at go to market
+ 
+
+613
+00:09:21,279 --> 00:09:23,509
+it's particularly good at go to market
+workflows. Think outbound content SEO
+
+614
+00:09:23,509 --> 00:09:23,519
+workflows. Think outbound content SEO
+ 
+
+615
+00:09:23,519 --> 00:09:24,790
+workflows. Think outbound content SEO
+and marketing. Here's the part that
+
+616
+00:09:24,790 --> 00:09:24,800
+and marketing. Here's the part that
+ 
+
+617
+00:09:24,800 --> 00:09:26,230
+and marketing. Here's the part that
+matters the most with Claude Code. It
+
+618
+00:09:26,230 --> 00:09:26,240
+matters the most with Claude Code. It
+ 
+
+619
+00:09:26,240 --> 00:09:28,470
+matters the most with Claude Code. It
+has a context window around five times
+
+620
+00:09:28,470 --> 00:09:28,480
+has a context window around five times
+ 
+
+621
+00:09:28,480 --> 00:09:30,389
+has a context window around five times
+bigger than co-work so you can run long
+
+622
+00:09:30,389 --> 00:09:30,399
+bigger than co-work so you can run long
+ 
+
+623
+00:09:30,399 --> 00:09:32,470
+bigger than co-work so you can run long
+complex jobs without losing the thread
+
+624
+00:09:32,470 --> 00:09:32,480
+complex jobs without losing the thread
+ 
+
+625
+00:09:32,480 --> 00:09:34,710
+complex jobs without losing the thread
+and you can see every file it touches in
+
+626
+00:09:34,710 --> 00:09:34,720
+and you can see every file it touches in
+ 
+
+627
+00:09:34,720 --> 00:09:36,150
+and you can see every file it touches in
+real time so you can guide it. You can
+
+628
+00:09:36,150 --> 00:09:36,160
+real time so you can guide it. You can
+ 
+
+629
+00:09:36,160 --> 00:09:38,070
+real time so you can guide it. You can
+give it different levels of autonomy
+
+630
+00:09:38,070 --> 00:09:38,080
+give it different levels of autonomy
+ 
+
+631
+00:09:38,080 --> 00:09:39,829
+give it different levels of autonomy
+through permissions. Ask me before every
+
+632
+00:09:39,829 --> 00:09:39,839
+through permissions. Ask me before every
+ 
+
+633
+00:09:39,839 --> 00:09:41,590
+through permissions. Ask me before every
+step to go for an hour and tell me when
+
+634
+00:09:41,590 --> 00:09:41,600
+step to go for an hour and tell me when
+ 
+
+635
+00:09:41,600 --> 00:09:43,110
+step to go for an hour and tell me when
+you're done. And because it works inside
+
+636
+00:09:43,110 --> 00:09:43,120
+you're done. And because it works inside
+ 
+
+637
+00:09:43,120 --> 00:09:45,350
+you're done. And because it works inside
+a real project folder, it remembers your
+
+638
+00:09:45,350 --> 00:09:45,360
+a real project folder, it remembers your
+ 
+
+639
+00:09:45,360 --> 00:09:47,030
+a real project folder, it remembers your
+standards, your file structure, your
+
+640
+00:09:47,030 --> 00:09:47,040
+standards, your file structure, your
+ 
+
+641
+00:09:47,040 --> 00:09:48,870
+standards, your file structure, your
+conventions every time. Here's what I
+
+642
+00:09:48,870 --> 00:09:48,880
+conventions every time. Here's what I
+ 
+
+643
+00:09:48,880 --> 00:09:50,790
+conventions every time. Here's what I
+actually use it for. Claude Code runs my
+
+644
+00:09:50,790 --> 00:09:50,800
+actually use it for. Claude Code runs my
+ 
+
+645
+00:09:50,800 --> 00:09:52,630
+actually use it for. Claude Code runs my
+entire content operation. It finds
+
+646
+00:09:52,630 --> 00:09:52,640
+entire content operation. It finds
+ 
+
+647
+00:09:52,640 --> 00:09:54,870
+entire content operation. It finds
+ideas, writes my scripts in my voice,
+
+648
+00:09:54,870 --> 00:09:54,880
+ideas, writes my scripts in my voice,
+ 
+
+649
+00:09:54,880 --> 00:09:56,790
+ideas, writes my scripts in my voice,
+creates thumbnails, SEO optimized
+
+650
+00:09:56,790 --> 00:09:56,800
+creates thumbnails, SEO optimized
+ 
+
+651
+00:09:56,800 --> 00:09:58,470
+creates thumbnails, SEO optimized
+descriptions, and builds lead magnets
+
+652
+00:09:58,470 --> 00:09:58,480
+descriptions, and builds lead magnets
+ 
+
+653
+00:09:58,480 --> 00:10:00,230
+descriptions, and builds lead magnets
+that go with each video. It also runs my
+
+654
+00:10:00,230 --> 00:10:00,240
+that go with each video. It also runs my
+ 
+
+655
+00:10:00,240 --> 00:10:02,389
+that go with each video. It also runs my
+client work after sales calls. It takes
+
+656
+00:10:02,389 --> 00:10:02,399
+client work after sales calls. It takes
+ 
+
+657
+00:10:02,399 --> 00:10:04,070
+client work after sales calls. It takes
+my meeting transcript and writes a
+
+658
+00:10:04,070 --> 00:10:04,080
+my meeting transcript and writes a
+ 
+
+659
+00:10:04,080 --> 00:10:06,070
+my meeting transcript and writes a
+proposal. It builds assets for clients.
+
+660
+00:10:06,070 --> 00:10:06,080
+proposal. It builds assets for clients.
+ 
+
+661
+00:10:06,080 --> 00:10:08,150
+proposal. It builds assets for clients.
+It does pretty much everything for me.
+
+662
+00:10:08,150 --> 00:10:08,160
+It does pretty much everything for me.
+ 
+
+663
+00:10:08,160 --> 00:10:09,670
+It does pretty much everything for me.
+That's what makes this different from
+
+664
+00:10:09,670 --> 00:10:09,680
+That's what makes this different from
+ 
+
+665
+00:10:09,680 --> 00:10:11,190
+That's what makes this different from
+everything else on the list because it's
+
+666
+00:10:11,190 --> 00:10:11,200
+everything else on the list because it's
+ 
+
+667
+00:10:11,200 --> 00:10:13,030
+everything else on the list because it's
+not a tool that I open. It's the
+
+668
+00:10:13,030 --> 00:10:13,040
+not a tool that I open. It's the
+ 
+
+669
+00:10:13,040 --> 00:10:14,710
+not a tool that I open. It's the
+operator of my business. If you want a
+
+670
+00:10:14,710 --> 00:10:14,720
+operator of my business. If you want a
+ 
+
+671
+00:10:14,720 --> 00:10:16,870
+operator of my business. If you want a
+full walkthrough of how I set up my
+
+672
+00:10:16,870 --> 00:10:16,880
+full walkthrough of how I set up my
+ 
+
+673
+00:10:16,880 --> 00:10:18,630
+full walkthrough of how I set up my
+Claude, drop a comment below and I'll
+
+674
+00:10:18,630 --> 00:10:18,640
+Claude, drop a comment below and I'll
+ 
+
+675
+00:10:18,640 --> 00:10:20,150
+Claude, drop a comment below and I'll
+make that video next. But the real
+
+676
+00:10:20,150 --> 00:10:20,160
+make that video next. But the real
+ 
+
+677
+00:10:20,160 --> 00:10:21,829
+make that video next. But the real
+leverage with claude code is when you
+
+678
+00:10:21,829 --> 00:10:21,839
+leverage with claude code is when you
+ 
+
+679
+00:10:21,839 --> 00:10:23,829
+leverage with claude code is when you
+start taking work off of your plate for
+
+680
+00:10:23,829 --> 00:10:23,839
+start taking work off of your plate for
+ 
+
+681
+00:10:23,839 --> 00:10:26,550
+start taking work off of your plate for
+good. Number 13, routines. This is the
+
+682
+00:10:26,550 --> 00:10:26,560
+good. Number 13, routines. This is the
+ 
+
+683
+00:10:26,560 --> 00:10:28,470
+good. Number 13, routines. This is the
+one that runs while you're not there. A
+
+684
+00:10:28,470 --> 00:10:28,480
+one that runs while you're not there. A
+ 
+
+685
+00:10:28,480 --> 00:10:31,030
+one that runs while you're not there. A
+routine is a saved tasks that executes
+
+686
+00:10:31,030 --> 00:10:31,040
+routine is a saved tasks that executes
+ 
+
+687
+00:10:31,040 --> 00:10:32,949
+routine is a saved tasks that executes
+on a schedule. When a webbook hits or
+
+688
+00:10:32,949 --> 00:10:32,959
+on a schedule. When a webbook hits or
+ 
+
+689
+00:10:32,959 --> 00:10:34,790
+on a schedule. When a webbook hits or
+when something happens in one of your
+
+690
+00:10:34,790 --> 00:10:34,800
+when something happens in one of your
+ 
+
+691
+00:10:34,800 --> 00:10:36,710
+when something happens in one of your
+connected apps, it runs on Anthropic's
+
+692
+00:10:36,710 --> 00:10:36,720
+connected apps, it runs on Anthropic's
+ 
+
+693
+00:10:36,720 --> 00:10:38,630
+connected apps, it runs on Anthropic's
+cloud, not your machine, so your laptop
+
+694
+00:10:38,630 --> 00:10:38,640
+cloud, not your machine, so your laptop
+ 
+
+695
+00:10:38,640 --> 00:10:40,230
+cloud, not your machine, so your laptop
+doesn't even need to be on. Here's one
+
+696
+00:10:40,230 --> 00:10:40,240
+doesn't even need to be on. Here's one
+ 
+
+697
+00:10:40,240 --> 00:10:41,990
+doesn't even need to be on. Here's one
+of mine. Every morning at 9, Claude
+
+698
+00:10:41,990 --> 00:10:42,000
+of mine. Every morning at 9, Claude
+ 
+
+699
+00:10:42,000 --> 00:10:43,670
+of mine. Every morning at 9, Claude
+scrapes the Anthropic blog, finds
+
+700
+00:10:43,670 --> 00:10:43,680
+scrapes the Anthropic blog, finds
+ 
+
+701
+00:10:43,680 --> 00:10:45,430
+scrapes the Anthropic blog, finds
+anything posted in the last 24 hours,
+
+702
+00:10:45,430 --> 00:10:45,440
+anything posted in the last 24 hours,
+ 
+
+703
+00:10:45,440 --> 00:10:47,430
+anything posted in the last 24 hours,
+and posts to a summary into my news
+
+704
+00:10:47,430 --> 00:10:47,440
+and posts to a summary into my news
+ 
+
+705
+00:10:47,440 --> 00:10:49,030
+and posts to a summary into my news
+channel on Slack. But the real unlock
+
+706
+00:10:49,030 --> 00:10:49,040
+channel on Slack. But the real unlock
+ 
+
+707
+00:10:49,040 --> 00:10:50,710
+channel on Slack. But the real unlock
+isn't scheduled routines, it's event-
+
+708
+00:10:50,710 --> 00:10:50,720
+isn't scheduled routines, it's event-
+ 
+
+709
+00:10:50,720 --> 00:10:52,389
+isn't scheduled routines, it's event-
+driven one. I have a routine that fires
+
+710
+00:10:52,389 --> 00:10:52,399
+driven one. I have a routine that fires
+ 
+
+711
+00:10:52,399 --> 00:10:53,990
+driven one. I have a routine that fires
+the moment Fireflies finishes
+
+712
+00:10:53,990 --> 00:10:54,000
+the moment Fireflies finishes
+ 
+
+713
+00:10:54,000 --> 00:10:55,750
+the moment Fireflies finishes
+transcribing a sales call. Claude pulls
+
+714
+00:10:55,750 --> 00:10:55,760
+transcribing a sales call. Claude pulls
+ 
+
+715
+00:10:55,760 --> 00:10:57,430
+transcribing a sales call. Claude pulls
+the transcript, extracts the action
+
+716
+00:10:57,430 --> 00:10:57,440
+the transcript, extracts the action
+ 
+
+717
+00:10:57,440 --> 00:10:59,350
+the transcript, extracts the action
+items, and files them in my second brain
+
+718
+00:10:59,350 --> 00:10:59,360
+items, and files them in my second brain
+ 
+
+719
+00:10:59,360 --> 00:11:01,190
+items, and files them in my second brain
+and slacks me a summary before I've even
+
+720
+00:11:01,190 --> 00:11:01,200
+and slacks me a summary before I've even
+ 
+
+721
+00:11:01,200 --> 00:11:03,829
+and slacks me a summary before I've even
+closed my laptop. No clock, no waiting,
+
+722
+00:11:03,829 --> 00:11:03,839
+closed my laptop. No clock, no waiting,
+ 
+
+723
+00:11:03,839 --> 00:11:05,829
+closed my laptop. No clock, no waiting,
+no more opening anything. The call ends,
+
+724
+00:11:05,829 --> 00:11:05,839
+no more opening anything. The call ends,
+ 
+
+725
+00:11:05,839 --> 00:11:07,829
+no more opening anything. The call ends,
+the work happens. This is the rung where
+
+726
+00:11:07,829 --> 00:11:07,839
+the work happens. This is the rung where
+ 
+
+727
+00:11:07,839 --> 00:11:09,990
+the work happens. This is the rung where
+Claude stops being something you use and
+
+728
+00:11:09,990 --> 00:11:10,000
+Claude stops being something you use and
+ 
+
+729
+00:11:10,000 --> 00:11:11,670
+Claude stops being something you use and
+starts being something that compounds
+
+730
+00:11:11,670 --> 00:11:11,680
+starts being something that compounds
+ 
+
+731
+00:11:11,680 --> 00:11:13,670
+starts being something that compounds
+because every routine you build is
+
+732
+00:11:13,670 --> 00:11:13,680
+because every routine you build is
+ 
+
+733
+00:11:13,680 --> 00:11:15,829
+because every routine you build is
+permanent leverage. set up 10 of them
+
+734
+00:11:15,829 --> 00:11:15,839
+permanent leverage. set up 10 of them
+ 
+
+735
+00:11:15,839 --> 00:11:17,670
+permanent leverage. set up 10 of them
+and you've handed yourself an entire
+
+736
+00:11:17,670 --> 00:11:17,680
+and you've handed yourself an entire
+ 
+
+737
+00:11:17,680 --> 00:11:20,310
+and you've handed yourself an entire
+workday back every week forever. I walk
+
+738
+00:11:20,310 --> 00:11:20,320
+workday back every week forever. I walk
+ 
+
+739
+00:11:20,320 --> 00:11:22,470
+workday back every week forever. I walk
+through exactly how I run mine, the five
+
+740
+00:11:22,470 --> 00:11:22,480
+through exactly how I run mine, the five
+ 
+
+741
+00:11:22,480 --> 00:11:24,310
+through exactly how I run mine, the five
+levels, the schedules, the web hooks,
+
+742
+00:11:24,310 --> 00:11:24,320
+levels, the schedules, the web hooks,
+ 
+
+743
+00:11:24,320 --> 00:11:25,590
+levels, the schedules, the web hooks,
+the gotchas, and if that's where you
+
+744
+00:11:25,590 --> 00:11:25,600
+the gotchas, and if that's where you
+ 
+
+745
+00:11:25,600 --> 00:11:27,030
+the gotchas, and if that's where you
+want to take this, that's the next video
+
+746
+00:11:27,030 --> 00:11:27,040
+want to take this, that's the next video
+ 
+
+747
+00:11:27,040 --> 00:11:30,640
+want to take this, that's the next video
+to watch. Thanks for watching.
+
