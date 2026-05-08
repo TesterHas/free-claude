@@ -4,6 +4,17 @@ Append-only timeline of ingests, queries, and lint passes.
 
 ---
 
+## [2026-05-08] index | rebuilt index — 38 files
+
+## [2026-05-08] ingest | farm + ingest youtube 6 new videos
+
+- [[skills/codex-better-99]] — Jack Roberts: How to Use Codex Better Than 99% of People (27:36)
+- [[skills/learn-claude-from-scratch]] — Brad: How I'd Learn Claude From Scratch in 2026 (11:29)
+- [[skills/claude-video-higgsfield]] — Jack Roberts: Claude Video is Here — Automate Anything (17:39)
+- [[skills/claude-session-limits]] — Nate Herk: Claude Just Solved Session Limits (10:22)
+- [[skills/ai-tech-stack-framework]] — Nate Herk: Overwhelmed By AI? Just Copy My Tech Stack (17:13)
+- [[skills/claude-19-ways]] — Sabrina Ramonov: 19 Ways to Use Claude So Well It Feels Illegal (36:10)
+
 ## [2026-05-05] ingest | How I Give Claude Code the Ability to Watch Any Video (For Free)
 
 Brad | AI & Automation · 8:36 · youtube.com/watch?v=QZMljuD10sU
