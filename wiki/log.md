@@ -4,6 +4,11 @@ Append-only timeline of ingests, queries, and lint passes.
 
 ---
 
+## [2026-05-08] ingest | re-ingest 2026-05-08 raw files after body structure reformat
+
+- [[skills/ai-tech-stack-framework]] — Nate Herk: Overwhelmed By AI? Just Copy My Tech Stack (17:13) — wiki page already accurate, no changes
+- [[skills/claude-19-ways]] — Sabrina Ramonov: 19 Ways to Use Claude So Well It Feels Illegal (36:10) — wiki page rewritten; old version described wrong content (general prompting), corrected to actual subject (19 Claude Code slash commands and token management)
+
 ## [2026-05-08] index | rebuilt index — 38 files
 
 ## [2026-05-08] ingest | farm + ingest youtube 6 new videos

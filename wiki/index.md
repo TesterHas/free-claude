@@ -266,6 +266,8 @@ _Last updated: 2026-05-08_
 - **Key frameworks** — North Star, 20% productivity dip, needle moved per hour, tool-agnostic directories
 - **Decision flow** — Does new tool solve pain point now? Yes=test in real scenario. No=save link, move on.
 
-### [claude-19-ways.md](skills/claude-19-ways.md) — 19 distinct Claude applications from prompt engineering to automation
-- **Scope** — Prompt engineering, n8n/Make integrations, business automation, coding copilot, design, voice agents, routines
-- **For selling** — Comprehensive capability reference; shows full spectrum of what Claude can do
+### [claude-19-ways.md](skills/claude-19-ways.md) — 19 Claude Code slash commands and token-management techniques most users don't know
+- **Session control** — /btw lets you ask questions mid-session while a long prompt runs, no context loss
+- **Token management** — /model, /effort, /advisor, ultrathink keyword, /compact, /clear
+- **Recommended setup** — Sonnet + medium effort default; Opus 4.7 as /advisor escalation model
+- **For selling** — Power-user command knowledge builds credibility in client conversations
